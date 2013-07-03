@@ -1,0 +1,2192 @@
+; Ashampoo UnInstaller 4
+; 档案:C:\ProgramData\Ashampoo\Ashampoo UnInstaller 4\3.ECL
+; 档案/资料夹 : C: 本地磁盘
+; 图例:
+; [-]= 删除的机码/资料夹， [+]= 新机码/资料夹， [#]= 变更的机码/资料夹， 
+; [-]= 删除的数值/档案， [+]= 新数值/档案
+; [%]= 已变更的数值 (旧数值/档案)， [*]= 已变更的数值 (新数值/档案)
+; 
+[#][C:\inetpub\temp\appPools\]
+  [-]"APC1045.tmp" 18,462 Bytes， 2013/5/28 16:48:16, [A] 版本 0.0.0.0
+  [+]"APCECBE.tmp" 18,462 Bytes， 2013/5/28 17:09:32, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\Group Policy\Client-Side Extension\]
+  [+]"CitrixCseClient.dll" 4,060,592 Bytes， 2013/3/27 11:04:38, [A] 版本 1.7.2.0
+  [+]"CitrixCseEngine.exe" 4,274,608 Bytes， 2013/3/27 11:02:54, [A] 版本 1.7.2.0
+  [+]"CitrixCseEnginePS.dll" 17,336 Bytes， 2013/3/27 11:04:00, [A] 版本 1.7.2.0
+  [+]"RsopWMIProvider.dll" 4,072,880 Bytes， 2013/3/27 11:04:22, [A] 版本 1.7.2.0
+[+][C:\Program Files\Citrix\Group Policy\]
+  [+]"XDFilterEvidence.dll" 16,792 Bytes， 2013/5/15 12:22:22, [A] 版本 5.6.300.8
+[+][C:\Program Files\Citrix\ICAService\Content\]
+  [+]"000_Devices_h32bit_152x92.png" 12,053 Bytes， 2013/2/7 11:50:02, [A] 版本 0.0.0.0
+  [+]"000_HDX_h32bit_152x97.png" 27,513 Bytes， 2013/2/7 11:50:04, [A] 版本 0.0.0.0
+  [+]"000_Mainimage_h32bit_476x220.png" 199,976 Bytes， 2013/2/7 11:50:08, [A] 版本 0.0.0.0
+  [+]"content.htm" 743 Bytes， 2013/2/7 11:40:06, [A] 版本 0.0.0.0
+  [+]"content_de.htm" 3,057 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_en.htm" 2,792 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_es.htm" 3,073 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_fr.htm" 3,183 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_ja.htm" 3,231 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_ko.htm" 3,153 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_ru.htm" 3,506 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_zh-CN.htm" 2,948 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"content_zh-TW.htm" 3,003 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"style.css" 2,561 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\ctxad\]
+  [+]"CtxAd.cat" 7,440 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"CtxAd.inf" 23,902 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"CtxAd.sys" 101,120 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\ctxsmcdrv\]
+  [+]"ctxsmcdrv.cat" 9,884 Bytes， 2013/5/15 1:26:58, [A] 版本 0.0.0.0
+  [+]"ctxsmcdrv.inf" 1,756 Bytes， 2013/5/15 1:26:56, [A] 版本 0.0.0.0
+  [+]"ctxsmcdrv.sys" 23,352 Bytes， 2013/5/15 1:27:04, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\ctxusbb\]
+  [+]"ctxusbb.cat" 10,480 Bytes， 2013/5/15 4:29:38, [A] 版本 0.0.0.0
+  [+]"ctxusbb.inf" 7,424 Bytes， 2013/5/15 4:29:36, [A] 版本 0.0.0.0
+  [+]"ctxusbb.sys" 99,640 Bytes， 2013/5/15 4:29:40, [A] 版本 0.0.0.0
+  [+]"WdfCoInstaller01007.dll" 1,112,288 Bytes， 2012/3/12 13:43:58, [A] 版本 1.7.6001.18000
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\icareduc\]
+  [+]"icareduc.cat" 9,880 Bytes， 2013/5/15 1:41:42, [A] 版本 0.0.0.0
+  [+]"icareduc.inf" 1,715 Bytes， 2013/5/15 1:41:38, [A] 版本 0.0.0.0
+  [+]"icareduc.sys" 24,888 Bytes， 2013/5/15 1:41:44, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\icatdwsk\]
+  [+]"icatdwsk.cat" 9,880 Bytes， 2013/5/15 1:39:16, [A] 版本 0.0.0.0
+  [+]"icatdwsk.inf" 1,929 Bytes， 2013/5/15 1:39:12, [A] 版本 0.0.0.0
+  [+]"icatdwsk.sys" 45,368 Bytes， 2013/5/15 1:39:18, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\pdcrypt1\]
+  [+]"pdcrypt1.cat" 9,880 Bytes， 2013/5/15 1:34:08, [A] 版本 0.0.0.0
+  [+]"pdcrypt1.inf" 1,721 Bytes， 2013/5/15 1:34:06, [A] 版本 0.0.0.0
+  [+]"pdcrypt1.sys" 27,448 Bytes， 2013/5/15 1:34:10, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\pdcrypt2\]
+  [+]"pdcrypt2.cat" 9,880 Bytes， 2013/5/15 1:34:34, [A] 版本 0.0.0.0
+  [+]"pdcrypt2.inf" 1,514 Bytes， 2013/5/15 1:34:32, [A] 版本 0.0.0.0
+  [+]"pdcrypt2.sys" 123,704 Bytes， 2013/5/15 1:34:36, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\pdrframe\]
+  [+]"pdrframe.cat" 9,880 Bytes， 2013/5/15 1:33:50, [A] 版本 0.0.0.0
+  [+]"pdrframe.inf" 1,740 Bytes， 2013/5/15 1:33:46, [A] 版本 0.0.0.0
+  [+]"pdrframe.sys" 24,376 Bytes， 2013/5/15 1:33:52, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picacdd\]
+  [+]"picacdd.cat" 10,465 Bytes， 2013/5/15 3:41:46, [A] 版本 0.0.0.0
+  [+]"picacdd.inf" 5,296 Bytes， 2013/5/15 3:41:44, [A] 版本 0.0.0.0
+  [+]"picacdd.sys" 15,672 Bytes， 2013/5/15 3:41:48, [A] 版本 0.0.0.0
+  [+]"vdtw30.dll" 673,080 Bytes， 2013/5/15 3:40:36, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picadd\]
+  [+]"picadd.cat" 9,872 Bytes， 2013/5/15 1:32:44, [A] 版本 0.0.0.0
+  [+]"picadd.inf" 1,881 Bytes， 2013/5/15 1:32:40, [A] 版本 0.0.0.0
+  [+]"picadd.sys" 147,256 Bytes， 2013/5/15 1:32:46, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picadm\]
+  [+]"picadm.cat" 9,872 Bytes， 2013/5/15 0:59:18, [A] 版本 0.0.0.0
+  [+]"picadm.inf" 2,470 Bytes， 2013/5/15 0:59:16, [A] 版本 0.0.0.0
+  [+]"picadm.sys" 464,696 Bytes， 2013/5/15 0:59:20, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picakbf\]
+  [+]"picakbf.cat" 9,938 Bytes， 2013/5/15 1:31:12, [A] 版本 0.0.0.0
+  [+]"picakbf.inf" 2,565 Bytes， 2013/5/15 1:31:10, [A] 版本 0.0.0.0
+  [+]"picakbf.sys" 42,296 Bytes， 2013/5/15 1:31:14, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picakbm\]
+  [+]"picakbm.cat" 10,256 Bytes， 2013/5/15 1:31:58, [A] 版本 0.0.0.0
+  [+]"picakbm.inf" 5,187 Bytes， 2013/5/15 1:31:54, [A] 版本 0.0.0.0
+  [+]"picakbm.sys" 54,072 Bytes， 2013/5/15 1:32:00, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picamouf\]
+  [+]"picamouf.cat" 9,942 Bytes， 2013/5/15 1:31:32, [A] 版本 0.0.0.0
+  [+]"picamouf.inf" 2,339 Bytes， 2013/5/15 1:31:28, [A] 版本 0.0.0.0
+  [+]"picamouf.sys" 38,200 Bytes， 2013/5/15 1:31:34, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picapar\]
+  [+]"picapar.cat" 7,386 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"picapar.inf" 1,829 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"picapar.sys" 174,336 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picaser\]
+  [+]"picaser.cat" 7,386 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"picaser.inf" 1,981 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"picaser.sys" 207,104 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picatwcomms\]
+  [+]"picatwcomms.cat" 9,954 Bytes， 2013/5/15 3:42:26, [A] 版本 0.0.0.0
+  [+]"picatwcomms.inf" 2,363 Bytes， 2013/5/15 3:42:24, [A] 版本 0.0.0.0
+  [+]"picatwcomms.sys" 17,208 Bytes， 2013/5/15 3:42:28, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\picavc\]
+  [+]"picavc.cat" 9,872 Bytes， 2013/5/15 0:57:36, [A] 版本 0.0.0.0
+  [+]"picavc.inf" 2,202 Bytes， 2013/5/15 0:57:34, [A] 版本 0.0.0.0
+  [+]"picavc.sys" 61,240 Bytes， 2013/5/15 0:57:38, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\printer\]
+  [+]"cpproc.dll" 1,378,216 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\tdcgp\]
+  [+]"tdcgp.cat" 9,868 Bytes， 2013/5/15 1:38:36, [A] 版本 0.0.0.0
+  [+]"tdcgp.inf" 1,896 Bytes， 2013/5/15 1:38:32, [A] 版本 0.0.0.0
+  [+]"tdcgp.sys" 326,968 Bytes， 2013/5/15 1:38:38, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\twexport\]
+  [+]"twexport.cat" 9,880 Bytes， 2013/5/15 3:39:14, [A] 版本 0.0.0.0
+  [+]"twexport.inf" 1,686 Bytes， 2013/5/15 3:39:12, [A] 版本 0.0.0.0
+  [+]"twexport.sys" 21,304 Bytes， 2013/5/15 3:39:16, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\vbdenum\]
+  [+]"vbdenum.cat" 7,452 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vbdenum.inf" 3,556 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vbdenum.sys" 82,136 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\vd3d\]
+  [+]"vbdfilt.sys" 27,392 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vd3d.cat" 8,557 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vd3d.dll" 692,480 Bytes， 2013/2/7 11:44:08, [A] 版本 6.3.0.38
+  [+]"vd3d.inf" 4,224 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vd3dk.sys" 64,768 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\wdica\]
+  [+]"wdica.cat" 9,868 Bytes， 2013/5/15 1:43:20, [A] 版本 0.0.0.0
+  [+]"wdica.inf" 1,706 Bytes， 2013/5/15 1:43:18, [A] 版本 0.0.0.0
+  [+]"wdica.sys" 396,600 Bytes， 2013/5/15 1:43:24, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\DeviceDrivers\]
+[+][C:\Program Files\Citrix\ICAService\Resource\de\mf\]
+  [+]"mferrorui.dll" 47,504 Bytes， 2013/5/15 0:31:32, [A] 版本 6.3.300.8
+  [+]"MFEventUI.dll" 30,608 Bytes， 2013/5/15 0:34:02, [A] 版本 6.3.300.8
+  [+]"mfstatusui.dll" 20,368 Bytes， 2013/5/15 0:32:48, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\de\]
+  [+]"ctxprnUI.dll" 9,096 Bytes， 2013/5/15 4:07:56, [A] 版本 6.3.300.8
+  [+]"CtxSensEvtUI.dll" 9,104 Bytes， 2013/5/15 2:24:22, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessages.dll" 43,432 Bytes， 2013/5/15 5:11:56, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessagesMAN.man" 22,098 Bytes， 2013/2/7 11:41:24, [A] 版本 0.0.0.0
+  [+]"picaginaUI.dll" 10,640 Bytes， 2013/5/15 4:37:12, [A] 版本 6.3.300.8
+  [+]"picashellUI.dll" 9,104 Bytes， 2013/5/15 1:29:12, [A] 版本 6.3.300.8
+  [+]"picaSvc.resources.dll" 11,144 Bytes， 2013/5/15 1:01:50, [A] 版本 6.3.300.8
+  [+]"raveeventmessages.dll" 12,192 Bytes， 2013/5/15 5:46:18, [A] 版本 6.3.300.8
+  [+]"seamls20UI.dll" 11,664 Bytes， 2013/5/15 4:44:02, [A] 版本 6.3.300.8
+  [+]"vclipbdUI.dll" 9,616 Bytes， 2013/5/15 4:33:16, [A] 版本 6.3.300.8
+  [+]"Vd3dEventMessages.dll" 15,776 Bytes， 2013/5/15 2:58:58, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\en\mf\]
+  [+]"mferrorui.dll" 43,408 Bytes， 2013/5/15 0:32:36, [A] 版本 6.3.300.8
+  [+]"MFEventUI.dll" 35,216 Bytes， 2013/5/15 0:34:12, [A] 版本 6.3.300.8
+  [+]"mfstatusui.dll" 19,344 Bytes， 2013/5/15 0:33:50, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\en\]
+  [+]"audioeventmessages.dll" 12,704 Bytes， 2013/5/15 5:06:06, [A] 版本 6.3.300.8
+  [+]"audioeventmessagesman.man" 8,306 Bytes， 2013/5/28 17:06:28, [A] 版本 0.0.0.0
+  [+]"CitrixUSBEventsUI.dll" 13,216 Bytes， 2013/5/15 4:30:20, [A] 版本 6.3.300.8
+  [+]"ctxprnUI.dll" 9,096 Bytes， 2013/5/15 4:08:06, [A] 版本 6.3.300.8
+  [+]"CtxSensEvtUI.dll" 9,104 Bytes， 2013/5/15 2:25:56, [A] 版本 6.3.300.8
+  [+]"encsvcUI.dll" 11,656 Bytes， 2013/5/15 1:35:36, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessages.dll" 33,192 Bytes， 2013/5/15 5:12:04, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessagesMAN.man" 22,098 Bytes， 2013/2/7 11:41:26, [A] 版本 0.0.0.0
+  [+]"picadmUI.dll" 9,608 Bytes， 2013/5/15 0:58:00, [A] 版本 6.3.300.8
+  [+]"picaginaUI.dll" 10,640 Bytes， 2013/5/15 4:37:22, [A] 版本 6.3.300.8
+  [+]"picashellUI.dll" 9,104 Bytes， 2013/5/15 1:29:20, [A] 版本 6.3.300.8
+  [+]"raveeventmessages.dll" 11,680 Bytes， 2013/5/15 5:46:28, [A] 版本 6.3.300.8
+  [+]"raveeventmessagesman.man" 7,502 Bytes， 2013/5/28 17:06:30, [A] 版本 0.0.0.0
+  [+]"seamls20UI.dll" 11,664 Bytes， 2013/5/15 4:44:34, [A] 版本 6.3.300.8
+  [+]"UsbServiceEventsMAN.man" 7,722 Bytes， 2013/5/28 17:06:32, [A] 版本 0.0.0.0
+  [+]"vclipbdUI.dll" 9,616 Bytes， 2013/5/15 4:33:26, [A] 版本 6.3.300.8
+  [+]"Vd3dEventMessages.dll" 15,776 Bytes， 2013/5/15 2:57:54, [A] 版本 6.3.300.8
+  [+]"Vd3dEventMessagesMan.man" 5,890 Bytes， 2013/5/28 17:06:30, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\Resource\es\mf\]
+  [+]"mferrorui.dll" 47,504 Bytes， 2013/5/15 0:31:44, [A] 版本 6.3.300.8
+  [+]"MFEventUI.dll" 30,608 Bytes， 2013/5/15 0:34:22, [A] 版本 6.3.300.8
+  [+]"mfstatusui.dll" 20,368 Bytes， 2013/5/15 0:32:58, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\es\]
+  [+]"ctxprnUI.dll" 9,096 Bytes， 2013/5/15 4:08:16, [A] 版本 6.3.300.8
+  [+]"CtxSensEvtUI.dll" 9,104 Bytes， 2013/5/15 2:24:32, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessages.dll" 43,432 Bytes， 2013/5/15 5:12:20, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessagesMAN.man" 22,576 Bytes， 2013/2/7 11:41:26, [A] 版本 0.0.0.0
+  [+]"picaginaUI.dll" 10,640 Bytes， 2013/5/15 4:37:52, [A] 版本 6.3.300.8
+  [+]"picashellUI.dll" 9,104 Bytes， 2013/5/15 1:29:30, [A] 版本 6.3.300.8
+  [+]"picaSvc.resources.dll" 11,144 Bytes， 2013/5/15 1:01:52, [A] 版本 6.3.300.8
+  [+]"raveeventmessages.dll" 12,192 Bytes， 2013/5/15 5:46:36, [A] 版本 6.3.300.8
+  [+]"seamls20UI.dll" 12,176 Bytes， 2013/5/15 4:44:44, [A] 版本 6.3.300.8
+  [+]"vclipbdUI.dll" 9,616 Bytes， 2013/5/15 4:33:52, [A] 版本 6.3.300.8
+  [+]"Vd3dEventMessages.dll" 15,776 Bytes， 2013/5/15 2:59:08, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\fr\mf\]
+  [+]"mferrorui.dll" 47,504 Bytes， 2013/5/15 0:31:54, [A] 版本 6.3.300.8
+  [+]"MFEventUI.dll" 30,608 Bytes， 2013/5/15 0:34:32, [A] 版本 6.3.300.8
+  [+]"mfstatusui.dll" 20,880 Bytes， 2013/5/15 0:33:08, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\fr\]
+  [+]"ctxprnUI.dll" 9,096 Bytes， 2013/5/15 4:08:44, [A] 版本 6.3.300.8
+  [+]"CtxSensEvtUI.dll" 9,104 Bytes， 2013/5/15 2:25:02, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessages.dll" 43,432 Bytes， 2013/5/15 5:12:28, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessagesMAN.man" 22,556 Bytes， 2013/2/7 11:41:26, [A] 版本 0.0.0.0
+  [+]"picaginaUI.dll" 10,640 Bytes， 2013/5/15 4:38:02, [A] 版本 6.3.300.8
+  [+]"picashellUI.dll" 9,104 Bytes， 2013/5/15 1:29:38, [A] 版本 6.3.300.8
+  [+]"picaSvc.resources.dll" 11,144 Bytes， 2013/5/15 1:01:54, [A] 版本 6.3.300.8
+  [+]"raveeventmessages.dll" 12,192 Bytes， 2013/5/15 5:47:08, [A] 版本 6.3.300.8
+  [+]"seamls20UI.dll" 12,688 Bytes， 2013/5/15 4:44:52, [A] 版本 6.3.300.8
+  [+]"vclipbdUI.dll" 9,616 Bytes， 2013/5/15 4:34:02, [A] 版本 6.3.300.8
+  [+]"Vd3dEventMessages.dll" 15,776 Bytes， 2013/5/15 3:00:00, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\ja\mf\]
+  [+]"mferrorui.dll" 23,952 Bytes， 2013/5/15 0:32:04, [A] 版本 6.3.300.8
+  [+]"MFEventUI.dll" 21,392 Bytes， 2013/5/15 0:34:52, [A] 版本 6.3.300.8
+  [+]"mfstatusui.dll" 14,224 Bytes， 2013/5/15 0:33:18, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\ja\]
+  [+]"audioeventmessages.dll" 12,192 Bytes， 2013/5/15 5:06:36, [A] 版本 6.3.300.8
+  [+]"ctxprnUI.dll" 9,096 Bytes， 2013/5/15 4:08:54, [A] 版本 6.3.300.8
+  [+]"CtxSensEvtUI.dll" 9,104 Bytes， 2013/5/15 2:25:12, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessages.dll" 27,048 Bytes， 2013/5/15 5:12:36, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessagesMAN.man" 22,512 Bytes， 2013/2/7 11:41:26, [A] 版本 0.0.0.0
+  [+]"picaginaUI.dll" 9,616 Bytes， 2013/5/15 4:38:10, [A] 版本 6.3.300.8
+  [+]"picashellUI.dll" 9,104 Bytes， 2013/5/15 1:29:48, [A] 版本 6.3.300.8
+  [+]"picaSvc.resources.dll" 11,144 Bytes， 2013/5/15 1:01:56, [A] 版本 6.3.300.8
+  [+]"raveeventmessages.dll" 11,680 Bytes， 2013/5/15 5:47:16, [A] 版本 6.3.300.8
+  [+]"seamls20UI.dll" 11,152 Bytes， 2013/5/15 4:45:16, [A] 版本 6.3.300.8
+  [+]"vclipbdUI.dll" 9,104 Bytes， 2013/5/15 4:34:34, [A] 版本 6.3.300.8
+  [+]"Vd3dEventMessages.dll" 15,776 Bytes， 2013/5/15 3:00:12, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\ru\]
+  [+]"CtxSensEvtUI.dll" 9,104 Bytes， 2013/5/15 2:25:22, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\zh-cn\mf\]
+  [+]"mferrorui.dll" 19,344 Bytes， 2013/5/15 0:32:26, [A] 版本 6.3.300.8
+  [+]"MFEventUI.dll" 17,808 Bytes， 2013/5/15 0:35:02, [A] 版本 6.3.300.8
+  [+]"mfstatusui.dll" 12,176 Bytes， 2013/5/15 0:33:40, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\zh-cn\]
+  [+]"audioeventmessages.dll" 11,680 Bytes， 2013/5/15 5:06:46, [A] 版本 6.3.300.8
+  [+]"CitrixUSBEventsUI.dll" 12,192 Bytes， 2013/5/15 4:31:32, [A] 版本 6.3.300.8
+  [+]"ctxprnUI.dll" 9,096 Bytes， 2013/5/15 4:09:38, [A] 版本 6.3.300.8
+  [+]"CtxSensEvtUI.dll" 9,104 Bytes， 2013/5/15 2:25:48, [A] 版本 6.3.300.8
+  [+]"encsvcUI.dll" 10,120 Bytes， 2013/5/15 1:36:56, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessages.dll" 24,488 Bytes， 2013/5/15 5:12:44, [A] 版本 6.3.300.8
+  [+]"HDXFlashEventMessagesMAN.man" 22,530 Bytes， 2013/5/28 17:06:32, [A] 版本 0.0.0.0
+  [+]"picadmUI.dll" 9,096 Bytes， 2013/5/15 0:58:44, [A] 版本 6.3.300.8
+  [+]"picaginaUI.dll" 9,616 Bytes， 2013/5/15 4:38:56, [A] 版本 6.3.300.8
+  [+]"picashellUI.dll" 9,104 Bytes， 2013/5/15 1:30:24, [A] 版本 6.3.300.8
+  [+]"picaSvc.resources.dll" 11,144 Bytes， 2013/5/15 1:01:58, [A] 版本 6.3.300.8
+  [+]"raveeventmessages.dll" 11,168 Bytes， 2013/5/15 5:47:26, [A] 版本 6.3.300.8
+  [+]"seamls20UI.dll" 10,640 Bytes， 2013/5/15 4:45:36, [A] 版本 6.3.300.8
+  [+]"UsbServiceEventsMAN.man" 7,720 Bytes， 2013/2/7 11:40:34, [A] 版本 0.0.0.0
+  [+]"vclipbdUI.dll" 9,104 Bytes， 2013/5/15 4:34:52, [A] 版本 6.3.300.8
+  [+]"Vd3dEventMessages.dll" 15,776 Bytes， 2013/5/15 3:00:22, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\ICAService\Resource\]
+[+][C:\Program Files\Citrix\ICAService\System32\Drivers\000c0007\]
+  [+]"00000411.kbd" 10,605 Bytes， 2013/5/15 2:03:40, [A] 版本 0.0.0.0
+  [+]"e0010411.kbd" 10,605 Bytes， 2013/5/15 2:03:56, [A] 版本 0.0.0.0
+  [+]"Keyboard_readme.txt" 72 Bytes， 2013/2/7 11:43:56, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\System32\Drivers\]
+  [+]"00000402.kbd" 12,039 Bytes， 2013/5/15 1:43:42, [A] 版本 0.0.0.0
+  [+]"00000405.kbd" 13,838 Bytes， 2013/5/15 1:43:54, [A] 版本 0.0.0.0
+  [+]"00000406.kbd" 10,283 Bytes， 2013/5/15 1:44:30, [A] 版本 0.0.0.0
+  [+]"00000407.kbd" 10,435 Bytes， 2013/5/15 1:44:42, [A] 版本 0.0.0.0
+  [+]"00000408.kbd" 11,537 Bytes， 2013/5/15 1:45:18, [A] 版本 0.0.0.0
+  [+]"00000409.kbd" 10,614 Bytes， 2013/5/15 1:45:30, [A] 版本 0.0.0.0
+  [+]"0000040a.kbd" 10,336 Bytes， 2013/5/15 1:46:02, [A] 版本 0.0.0.0
+  [+]"0000040b.kbd" 10,089 Bytes， 2013/5/15 1:46:14, [A] 版本 0.0.0.0
+  [+]"0000040c.kbd" 10,421 Bytes， 2013/5/15 1:46:48, [A] 版本 0.0.0.0
+  [+]"0000040e.kbd" 13,490 Bytes， 2013/5/15 1:46:58, [A] 版本 0.0.0.0
+  [+]"0000040f.kbd" 10,174 Bytes， 2013/5/15 1:47:28, [A] 版本 0.0.0.0
+  [+]"00000410.kbd" 10,518 Bytes， 2013/5/15 1:47:40, [A] 版本 0.0.0.0
+  [+]"00000411.kbd" 7,039 Bytes， 2013/5/15 1:48:10, [A] 版本 0.0.0.0
+  [+]"00000413.kbd" 10,241 Bytes， 2013/5/15 1:48:20, [A] 版本 0.0.0.0
+  [+]"00000414.kbd" 10,053 Bytes， 2013/5/15 1:48:58, [A] 版本 0.0.0.0
+  [+]"00000415.kbd" 10,992 Bytes， 2013/5/15 1:49:10, [A] 版本 0.0.0.0
+  [+]"00000416.kbd" 10,301 Bytes， 2013/5/15 1:49:46, [A] 版本 0.0.0.0
+  [+]"00000418.kbd" 13,535 Bytes， 2013/5/15 1:49:58, [A] 版本 0.0.0.0
+  [+]"00000419.kbd" 12,826 Bytes， 2013/5/15 1:50:32, [A] 版本 0.0.0.0
+  [+]"0000041a.kbd" 13,544 Bytes， 2013/5/15 1:50:44, [A] 版本 0.0.0.0
+  [+]"0000041b.kbd" 13,499 Bytes， 2013/5/15 1:51:14, [A] 版本 0.0.0.0
+  [+]"0000041d.kbd" 10,328 Bytes， 2013/5/15 1:51:26, [A] 版本 0.0.0.0
+  [+]"0000041f.kbd" 10,271 Bytes， 2013/5/15 1:51:54, [A] 版本 0.0.0.0
+  [+]"00000422.kbd" 12,755 Bytes， 2013/5/15 1:52:06, [A] 版本 0.0.0.0
+  [+]"00000423.kbd" 12,696 Bytes， 2013/5/15 1:52:20, [A] 版本 0.0.0.0
+  [+]"00000424.kbd" 13,891 Bytes， 2013/5/15 1:52:32, [A] 版本 0.0.0.0
+  [+]"00000425.kbd" 11,110 Bytes， 2013/5/15 1:53:10, [A] 版本 0.0.0.0
+  [+]"00000426.kbd" 10,593 Bytes， 2013/5/15 1:53:22, [A] 版本 0.0.0.0
+  [+]"00000807.kbd" 10,310 Bytes， 2013/5/15 1:53:56, [A] 版本 0.0.0.0
+  [+]"00000809.kbd" 10,479 Bytes， 2013/5/15 1:54:08, [A] 版本 0.0.0.0
+  [+]"0000080a.kbd" 10,175 Bytes， 2013/5/15 1:54:42, [A] 版本 0.0.0.0
+  [+]"0000080c.kbd" 10,131 Bytes， 2013/5/15 1:54:54, [A] 版本 0.0.0.0
+  [+]"00000813.kbd" 10,116 Bytes， 2013/5/15 1:55:28, [A] 版本 0.0.0.0
+  [+]"00000816.kbd" 10,340 Bytes， 2013/5/15 1:55:40, [A] 版本 0.0.0.0
+  [+]"00000c0c.kbd" 10,065 Bytes， 2013/5/15 1:56:10, [A] 版本 0.0.0.0
+  [+]"00001009.kbd" 10,047 Bytes， 2013/5/15 1:56:22, [A] 版本 0.0.0.0
+  [+]"0000100c.kbd" 10,310 Bytes， 2013/5/15 1:56:56, [A] 版本 0.0.0.0
+  [+]"00001809.kbd" 10,388 Bytes， 2013/5/15 1:57:08, [A] 版本 0.0.0.0
+  [+]"00010405.kbd" 13,530 Bytes， 2013/5/15 1:57:44, [A] 版本 0.0.0.0
+  [+]"00010407.kbd" 10,237 Bytes， 2013/5/15 1:57:56, [A] 版本 0.0.0.0
+  [+]"00010409.kbd" 10,605 Bytes， 2013/5/15 1:58:28, [A] 版本 0.0.0.0
+  [+]"0001040a.kbd" 10,090 Bytes， 2013/5/15 1:58:40, [A] 版本 0.0.0.0
+  [+]"00010410.kbd" 10,530 Bytes， 2013/5/15 1:59:12, [A] 版本 0.0.0.0
+  [+]"00010415.kbd" 13,490 Bytes， 2013/5/15 1:59:26, [A] 版本 0.0.0.0
+  [+]"00010416.kbd" 10,301 Bytes， 2013/5/15 1:59:54, [A] 版本 0.0.0.0
+  [+]"0001041b.kbd" 13,535 Bytes， 2013/5/15 2:00:06, [A] 版本 0.0.0.0
+  [+]"0001041f.kbd" 10,201 Bytes， 2013/5/15 2:00:26, [A] 版本 0.0.0.0
+  [+]"00010c0c.kbd" 10,069 Bytes， 2013/5/15 2:00:38, [A] 版本 0.0.0.0
+  [+]"00010c1a.kbd" 10,607 Bytes， 2013/5/15 2:01:12, [A] 版本 0.0.0.0
+  [+]"00020409.kbd" 10,138 Bytes， 2013/5/15 2:01:24, [A] 版本 0.0.0.0
+  [+]"00030409.kbd" 10,605 Bytes， 2013/5/15 2:02:00, [A] 版本 0.0.0.0
+  [+]"00040409.kbd" 10,605 Bytes， 2013/5/15 2:02:12, [A] 版本 0.0.0.0
+  [+]"00050408.kbd" 10,382 Bytes， 2013/5/15 2:02:44, [A] 版本 0.0.0.0
+  [+]"e0010411.kbd" 7,039 Bytes， 2013/5/15 2:02:56, [A] 版本 0.0.0.0
+  [+]"e0010412.kbd" 10,736 Bytes， 2013/5/15 2:03:28, [A] 版本 0.0.0.0
+  [+]"Keyboard_readme.txt" 72 Bytes， 2013/2/7 11:43:56, [A] 版本 0.0.0.0
+[+][C:\Program Files\Citrix\ICAService\System32\]
+[+][C:\Program Files\Citrix\ICAService\]
+  [+]"CdeLibrary.dll" 14,760 Bytes， 2013/2/7 11:52:24, [A] 版本 1.1.0.0
+  [+]"cdfhelper.dll" 19,376 Bytes， 2013/2/7 12:28:24, [A] 版本 1.0.18.0
+  [+]"CDMPolicies.dll" 27,024 Bytes， 2013/5/15 0:42:44, [A] 版本 6.3.300.8
+  [+]"CDMSettings.dll" 27,024 Bytes， 2013/5/15 0:43:10, [A] 版本 6.3.300.8
+  [+]"Citrix.Diagnostics.dll" 42,944 Bytes， 2011/5/3 7:47:04, [A] 版本 1.0.21.0
+  [+]"Citrix.Diagnostics.Recorder.Cdf.dll" 38,872 Bytes， 2013/2/7 12:28:24, [A] 版本 1.0.21.0
+  [+]"Citrix.Diagnostics.xml" 93,051 Bytes， 2013/2/7 12:28:24, [A] 版本 0.0.0.0
+  [+]"Citrix.GroupPolicy.Accessors.dll" 38,280 Bytes， 2013/3/27 19:48:02, [A] 版本 1.7.2.0
+  [+]"Citrix.GroupPolicy.Utilities.dll" 98,184 Bytes， 2013/3/27 19:48:18, [A] 版本 1.7.2.0
+  [+]"Citrix.HDX.WMI.Provider.dll" 239,504 Bytes， 2013/5/15 4:48:54, [A] 版本 6.3.300.8
+  [+]"Citrix.HDX.WMI.Provider.mof" 40,648 Bytes， 2013/2/7 11:40:08, [A] 版本 0.0.0.0
+  [+]"Citrix.HDX.WMI.Provider_delete.mof" 125 Bytes， 2013/2/7 11:40:14, [A] 版本 0.0.0.0
+  [+]"Citrix.Portica.UnmanagedUtils.dll" 78,216 Bytes， 2013/5/15 1:01:38, [A] 版本 6.3.300.8
+  [+]"Citrix.Utils.COMServer.dll" 39,304 Bytes， 2013/5/15 1:01:40, [A] 版本 6.3.300.8
+  [+]"Citrix.Utils.Diagnostics.dll" 20,360 Bytes， 2013/5/15 1:01:44, [A] 版本 6.3.300.8
+  [+]"Citrix.Utils.Kernel32.dll" 84,360 Bytes， 2013/5/15 1:01:46, [A] 版本 6.3.300.8
+  [+]"CitrixSpeexDecoder.dll" 387,488 Bytes， 2013/5/15 5:04:22, [A] 版本 6.3.300.8
+  [+]"CitrixSpeexEncoder.dll" 465,312 Bytes， 2013/5/15 5:04:42, [A] 版本 6.3.300.8
+  [+]"CitrixUSB.exe" 125,328 Bytes， 2013/5/15 4:31:52, [A] 版本 6.3.300.8
+  [+]"clnthelp.dll" 125,320 Bytes， 2013/5/15 2:05:00, [A] 版本 6.3.300.8
+  [+]"cmpapi.dll" 125,320 Bytes， 2013/5/15 2:32:38, [A] 版本 6.3.300.8
+  [+]"cmpcom.dll" 653,704 Bytes， 2013/5/15 2:31:52, [A] 版本 6.3.300.8
+  [+]"complugin.dll" 35,224 Bytes， 2013/5/15 1:26:18, [A] 版本 6.3.300.8
+  [+]"cpmon.dll" 149,896 Bytes， 2013/5/15 4:12:54, [A] 版本 6.3.300.8
+  [+]"cpprov.dll" 206,832 Bytes， 2013/5/15 4:12:06, [A] 版本 6.3.300.8
+  [+]"CpSvc.exe" 842,120 Bytes， 2013/5/15 4:15:02, [A] 版本 6.3.300.8
+  [+]"cpwsapi.dll" 42,376 Bytes， 2013/5/15 4:11:22, [A] 版本 6.3.300.8
+  [+]"cpwswlx.dll" 30,600 Bytes， 2013/5/15 4:11:42, [A] 版本 6.3.300.8
+  [+]"CreateProcessHook.dll" 169,752 Bytes， 2013/5/15 2:48:42, [A] 版本 6.3.300.8
+  [+]"CSSessionParameters.dll" 43,424 Bytes， 2013/5/15 0:37:28, [A] 版本 6.3.300.8
+  [+]"CSUXPolicies.dll" 27,024 Bytes， 2013/5/15 0:42:02, [A] 版本 6.3.300.8
+  [+]"CtxAcmDmo.dll" 235,920 Bytes， 2013/5/15 5:02:32, [A] 版本 6.3.300.8
+  [+]"ctxadpcm.acm" 17,920 Bytes， 2013/5/15 4:58:58, [A] 版本 0.0.0.0
+  [+]"CtxAdpcmDmo.dll" 244,112 Bytes， 2013/5/15 5:03:36, [A] 版本 6.3.300.8
+  [+]"CtxAudDmo.dll" 215,440 Bytes， 2013/5/15 5:47:56, [A] 版本 6.3.300.8
+  [+]"CtxAudioService.exe" 817,560 Bytes， 2013/5/15 5:10:04, [A] 版本 6.3.300.8
+  [+]"CtxDSEndpoints.dll" 227,736 Bytes， 2013/5/15 5:52:52, [A] 版本 6.3.300.8
+  [+]"CtxFlashSvc.dll" 1,001,872 Bytes， 2013/5/15 5:14:50, [A] 版本 6.3.300.8
+  [+]"ctxhkcs.dll" 23,944 Bytes， 2013/5/15 1:17:10, [A] 版本 6.3.300.8
+  [+]"CtxLocationApi.dll" 400,792 Bytes， 2013/5/15 2:29:44, [A] 版本 6.3.300.8
+  [+]"CtxMFEndpoints.dll" 194,968 Bytes， 2013/5/15 5:53:18, [A] 版本 6.3.300.8
+  [+]"ctxmfplugin.dll" 321,936 Bytes， 2013/5/15 5:49:44, [A] 版本 6.3.300.8
+  [+]"ctxprn.dll" 121,224 Bytes， 2013/5/15 4:09:54, [A] 版本 6.3.300.8
+  [+]"CtxSCardCertPropSvc.dll" 334,240 Bytes， 2013/5/15 4:42:16, [A] 版本 6.3.300.8
+  [+]"CtxSCardRemovalPolicySvc.dll" 354,728 Bytes， 2013/5/15 4:41:50, [A] 版本 6.3.300.8
+  [+]"CtxSensLoader.exe" 190,872 Bytes， 2013/5/15 2:30:00, [A] 版本 6.3.300.8
+  [+]"CtxSensVcLibDll.dll" 686,488 Bytes， 2013/5/15 2:28:08, [A] 版本 6.3.300.8
+  [+]"CtxSensVcSvc.dll" 1,010,064 Bytes， 2013/5/15 2:28:58, [A] 版本 6.3.300.8
+  [+]"CtxSmartCardSvc.dll" 932,248 Bytes， 2013/5/15 2:16:36, [A] 版本 6.3.300.8
+  [+]"ctxsmcapi.dll" 174,480 Bytes， 2013/5/15 1:18:48, [A] 版本 6.3.300.8
+  [+]"CtxSvcHost.exe" 272,784 Bytes， 2013/5/15 2:19:56, [A] 版本 6.3.300.8
+  [+]"CtxUiMon.dll" 92,552 Bytes， 2013/5/15 2:49:30, [A] 版本 6.3.300.8
+  [+]"CtxVidDmo.dll" 211,344 Bytes， 2013/5/15 5:48:12, [A] 版本 6.3.300.8
+  [+]"CtxVorbisDmo.dll" 1,460,624 Bytes， 2013/5/15 5:04:02, [A] 版本 6.3.300.8
+  [+]"ctxwsapi.dll" 129,416 Bytes， 2013/5/15 1:18:32, [A] 版本 6.3.300.8
+  [+]"cxinjime.dll" 116,192 Bytes， 2013/5/15 4:42:34, [A] 版本 6.3.300.8
+  [+]"encsvc.exe" 133,512 Bytes， 2013/5/15 1:35:16, [A] 版本 6.3.300.8
+  [+]"EndUserMonitoringPolicies.dll" 22,960 Bytes， 2013/5/15 0:40:16, [A] 版本 6.3.300.8
+  [+]"EndUserMonitoringSettings.dll" 22,960 Bytes， 2013/5/15 0:39:50, [A] 版本 6.3.300.8
+  [+]"euem_app.dll" 268,680 Bytes， 2013/5/15 1:25:42, [A] 版本 6.3.300.8
+  [+]"exceldll.dll" 23,432 Bytes， 2013/5/15 4:46:14, [A] 版本 6.3.300.8
+  [+]"excelinterface.dll" 15,256 Bytes， 2013/5/15 4:46:38, [A] 版本 6.3.300.8
+  [+]"explhook.dll" 116,192 Bytes， 2013/5/15 4:48:28, [A] 版本 6.3.300.8
+  [+]"GraphicsPolicies.dll" 31,128 Bytes， 2013/5/15 0:40:44, [A] 版本 6.3.300.8
+  [+]"GraphicsSettings.dll" 22,936 Bytes， 2013/5/15 0:41:12, [A] 版本 6.3.300.8
+  [+]"HDXAudioMonitor.dll" 108,952 Bytes， 2013/5/15 5:51:28, [A] 版本 6.3.300.8
+  [+]"HdxFlashHook.dll" 48,016 Bytes， 2013/5/15 5:33:00, [A] 版本 6.3.300.8
+  [+]"HdxRTTheora.dll" 240,016 Bytes， 2013/5/15 5:45:40, [A] 版本 6.3.300.8
+  [+]"HostMMTransport.dll" 358,808 Bytes， 2013/5/15 5:52:08, [A] 版本 6.3.300.8
+  [+]"IcaCdeAssembly.dll" 27,032 Bytes， 2013/5/15 0:29:42, [A] 版本 6.3.300.8
+  [+]"IcaCdeAssembly.InstallLog" 585 Bytes， 2013/5/28 17:06:12, [A] 版本 0.0.0.0
+  [+]"IcaCdeAssembly.InstallState" 2,012 Bytes， 2013/5/28 17:06:10, [A] 版本 0.0.0.0
+  [+]"IcaCdeStressAssembly.dll" 35,232 Bytes， 2013/5/15 0:30:26, [A] 版本 6.3.300.8
+  [+]"IcaCdeStressAssembly.InstallLog" 621 Bytes， 2013/5/28 17:06:14, [A] 版本 0.0.0.0
+  [+]"IcaCdeStressAssembly.InstallState" 2,012 Bytes， 2013/5/28 17:06:14, [A] 版本 0.0.0.0
+  [+]"icactls.dll" 342,408 Bytes， 2013/5/15 1:30:42, [A] 版本 6.3.300.8
+  [+]"icaperf.dll" 72,072 Bytes， 2013/5/15 1:22:02, [A] 版本 6.3.300.8
+  [+]"icaperf.ini" 90,620 Bytes， 2013/5/15 1:22:42, [A] 版本 0.0.0.0
+  [+]"icaperf_def.h" 4,708 Bytes， 2013/2/7 11:37:18, [A] 版本 0.0.0.0
+  [+]"ICAPolicies.dll" 39,312 Bytes， 2013/5/15 0:36:08, [A] 版本 6.3.300.8
+  [+]"ICASettings.dll" 27,024 Bytes， 2013/5/15 0:37:02, [A] 版本 6.3.300.8
+  [+]"InstallUtil.InstallLog" 1,267 Bytes， 2013/5/28 17:06:14, [A] 版本 0.0.0.0
+  [+]"Interop.CitrixMobility.dll" 69,632 Bytes， 2013/5/15 2:31:52, [A] 版本 6.3.300.8
+  [+]"Interop.PicaRuntime.dll" 11,656 Bytes， 2013/5/15 1:01:48, [A] 版本 6.3.300.8
+  [+]"IOPolicies.dll" 22,928 Bytes， 2013/5/15 0:43:36, [A] 版本 6.3.300.8
+  [+]"IOSettings.dll" 27,024 Bytes， 2013/5/15 0:44:02, [A] 版本 6.3.300.8
+  [+]"LegacyAudioSettings.dll" 27,040 Bytes， 2013/5/15 0:45:46, [A] 版本 6.3.300.8
+  [+]"mmhook.dll" 219,528 Bytes， 2013/5/15 4:48:10, [A] 版本 6.3.300.8
+  [+]"mmvd.dll" 182,656 Bytes， 2013/5/15 5:52:26, [A] 版本 6.3.300.8
+  [+]"mmvdhost.exe" 76,168 Bytes， 2013/5/15 5:48:52, [A] 版本 6.3.300.8
+  [+]"MrVcSvc.dll" 723,336 Bytes， 2013/5/15 2:23:28, [A] 版本 6.3.300.8
+  [+]"MultiMediaPolicies.dll" 31,136 Bytes， 2013/5/15 0:45:22, [A] 版本 6.3.300.8
+  [+]"picaAudioSupport.dll" 211,352 Bytes， 2013/5/15 4:58:54, [A] 版本 6.3.300.8
+  [+]"PicaCredentialProvider.dll" 444,840 Bytes， 2013/5/15 4:35:46, [A] 版本 6.3.300.8
+  [+]"picaddapi.dll" 100,752 Bytes， 2013/5/15 0:53:40, [A] 版本 6.3.300.8
+  [+]"picaDisplayManager.dll" 330,144 Bytes， 2013/5/15 3:49:44, [A] 版本 6.3.300.8
+  [+]"picaDispMgr.exe" 182,672 Bytes， 2013/5/15 1:03:24, [A] 版本 6.3.300.8
+  [+]"picaPassThruHook.dll" 169,752 Bytes， 2013/5/15 1:03:42, [A] 版本 6.3.300.8
+  [+]"PicaRuntime.tlb" 3,072 Bytes， 2013/5/15 0:52:56, [A] 版本 0.0.0.0
+  [+]"PicaSCardCredProvWrapper.dll" 297,384 Bytes， 2013/5/15 4:41:32, [A] 版本 6.3.300.8
+  [+]"PicaSessionHelper.dll" 432,544 Bytes， 2013/5/15 4:39:54, [A] 版本 6.3.300.8
+  [+]"PicaSessionMgr.exe" 162,200 Bytes， 2013/5/15 1:02:24, [A] 版本 6.3.300.8
+  [+]"PicaSessionParameters.dll" 47,528 Bytes， 2013/5/15 0:39:00, [A] 版本 6.3.300.8
+  [+]"picaShell.exe" 453,008 Bytes， 2013/5/15 1:28:48, [A] 版本 6.3.300.8
+  [+]"PicaSMLaunch.dll" 280,992 Bytes， 2013/5/15 1:07:16, [A] 版本 6.3.300.8
+  [+]"picaSvc.exe" 616,840 Bytes， 2013/5/15 1:02:04, [A] 版本 6.3.300.8
+  [+]"picaSvc.exe.config" 301 Bytes， 2013/2/7 11:39:00, [A] 版本 0.0.0.0
+  [+]"picaSvc.InstallLog" 676 Bytes， 2013/5/28 17:07:08, [A] 版本 0.0.0.0
+  [+]"picaSvc.InstallState" 4,270 Bytes， 2013/5/28 17:07:08, [A] 版本 0.0.0.0
+  [+]"picaTWIHost.exe" 207,248 Bytes， 2013/5/15 1:13:38, [A] 版本 6.3.300.8
+  [+]"picatz.dll" 153,992 Bytes， 2013/5/15 1:06:26, [A] 版本 6.3.300.8
+  [+]"picatzrestore.exe" 16,792 Bytes， 2013/5/15 1:08:24, [A] 版本 6.3.300.8
+  [+]"picaUiTweakHook.dll" 313,952 Bytes， 2013/5/15 1:04:14, [A] 版本 6.3.300.8
+  [+]"PicaVDIProviders.dll" 14,744 Bytes， 2013/5/15 0:57:16, [A] 版本 6.3.300.8
+  [+]"PicaWaveHook.dll" 256,400 Bytes， 2013/5/15 5:11:10, [A] 版本 6.3.300.8
+  [+]"picaWsApi.dll" 154,000 Bytes， 2013/5/15 0:56:50, [A] 版本 6.3.300.8
+  [+]"picn1020.dll" 167,936 Bytes， 2012/3/12 14:03:40, [A] 版本 1.0.1.85
+  [+]"picn1820.dll" 200,704 Bytes， 2012/3/12 14:03:42, [A] 版本 1.0.1.81
+  [+]"picn20.dll" 64,512 Bytes， 2012/3/12 14:03:42, [A] 版本 1.0.0.188
+  [+]"picn2620.dll" 118,784 Bytes， 2012/3/12 14:03:42, [A] 版本 1.0.1.14
+  [+]"picn2720.dll" 135,168 Bytes， 2012/3/12 14:03:42, [A] 版本 1.0.1.14
+  [+]"PrintingPolicies.dll" 31,128 Bytes， 2013/5/15 0:44:30, [A] 版本 6.3.300.8
+  [+]"PrintingSettings.dll" 31,128 Bytes， 2013/5/15 0:44:56, [A] 版本 6.3.300.8
+  [+]"PseudoServerInproc1.dll" 16,869,792 Bytes， 2013/5/15 5:23:22, [A] 版本 6.3.300.8
+  [+]"PseudoServerInproc2.dll" 8,325,536 Bytes， 2013/5/15 5:31:42, [A] 版本 6.3.300.8
+  [+]"PseudoServerInprocLoader.dll" 911,784 Bytes， 2013/5/15 5:32:14, [A] 版本 6.3.300.8
+  [+]"reducv3.dll" 20,360 Bytes， 2013/5/15 0:25:16, [A] 版本 6.3.300.8
+  [+]"RevSeamLauncher.exe" 46,488 Bytes， 2013/5/15 4:47:44, [A] 版本 6.3.300.8
+  [+]"SCardHook.dll" 841,312 Bytes， 2013/5/15 2:21:22, [A] 版本 6.3.300.8
+  [+]"SeamlessSettings.dll" 27,032 Bytes， 2013/5/15 0:39:24, [A] 版本 6.3.300.8
+  [+]"seamls20.dll" 387,464 Bytes， 2013/5/15 4:46:02, [A] 版本 6.3.300.8
+  [+]"sehook20.dll" 21,896 Bytes， 2013/5/15 4:46:52, [A] 版本 6.3.300.8
+  [+]"SemsComHosting.dll" 17,816 Bytes， 2013/5/15 1:26:16, [A] 版本 6.3.300.8
+  [+]"SemsComLibrary.dll" 27,032 Bytes， 2013/5/15 1:24:28, [A] 版本 6.3.300.8
+  [+]"SemsComLibrary.tlb" 7,284 Bytes， 2013/5/15 1:24:28, [A] 版本 0.0.0.0
+  [+]"SemsComPluginTypes.dll" 12,184 Bytes， 2013/5/15 1:26:24, [A] 版本 6.3.300.8
+  [+]"SemsComPluginTypes.tlb" 3,956 Bytes， 2013/5/15 1:26:06, [A] 版本 0.0.0.0
+  [+]"SemsLibrary.dll" 121,240 Bytes， 2013/5/15 1:26:14, [A] 版本 6.3.300.8
+  [+]"SemsService.exe" 47,512 Bytes， 2013/5/15 1:26:12, [A] 版本 6.3.300.8
+  [+]"SemsService.exe.config" 158 Bytes， 2013/2/7 11:36:48, [A] 版本 0.0.0.0
+  [+]"ShellHook.dll" 169,752 Bytes， 2013/5/15 2:48:08, [A] 版本 6.3.300.8
+  [+]"TaskbarGrpWin7.dll" 100,760 Bytes， 2013/5/15 0:26:06, [A] 版本 6.3.300.8
+  [+]"TaskbarGrpXpVista.dll" 129,440 Bytes， 2013/5/15 0:26:38, [A] 版本 6.3.300.8
+  [+]"TouchOptimizedDesktop.exe" 1,230,248 Bytes， 2013/5/15 4:55:40, [A] 版本 1.0.0.0
+  [+]"twcds.dll" 34,184 Bytes， 2013/5/15 3:49:06, [A] 版本 6.3.300.8
+  [+]"twi3.dll" 428,416 Bytes， 2013/5/15 4:47:30, [A] 版本 6.3.300.8
+  [+]"twnhook.dll" 1,158,552 Bytes， 2013/5/15 4:26:00, [A] 版本 6.3.300.8
+  [+]"twnmux.dll" 227,720 Bytes， 2013/5/15 4:26:24, [A] 版本 6.3.300.8
+  [+]"tzuser.dll" 16,776 Bytes， 2013/5/15 1:06:56, [A] 版本 6.3.300.8
+  [+]"vclipbd.dll" 133,512 Bytes， 2013/5/15 4:33:06, [A] 版本 6.3.300.8
+  [+]"VCPolicies.dll" 31,120 Bytes， 2013/5/15 0:35:42, [A] 版本 6.3.300.8
+  [+]"VDARedirector.exe" 57,240 Bytes， 2013/5/15 2:46:32, [A] 版本 6.3.300.8
+  [+]"VDARedirectorProxy.dll" 16,800 Bytes， 2013/5/15 2:46:14, [A] 版本 6.3.300.8
+  [+]"WDDMCustomActions.dll" 182,688 Bytes， 2013/5/15 5:54:40, [A] 版本 6.3.300.8
+  [+]"WDsettings.dll" 39,312 Bytes， 2013/5/15 0:37:58, [A] 版本 6.3.300.8
+  [+]"WelcomeScreen.exe" 34,712 Bytes， 2013/5/15 4:55:04, [A] 版本 6.3.300.8
+  [+]"wfapi.dll" 231,816 Bytes， 2013/5/15 1:20:24, [A] 版本 6.3.300.8
+  [+]"WinstationSettings.dll" 27,040 Bytes， 2013/5/15 0:38:34, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\printer\]
+  [+]"citrixupd.cat" 13,140 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixUpd.inf" 3,404 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixUpd.txt" 50 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixXps.txt" 50 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixXpsDrv-PipelineConfig.xml" 42 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"cpproc.dll" 1,378,216 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"Cpupdrv.dll" 250,072 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"Cpupdui.dll" 284,584 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"Cpxpsupdui.dll" 393,432 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"cupdres_de.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_en.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_es.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_fr.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_ja.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_zh-CN.dll" 83,896 Bytes， 2013/2/7 11:44:02, [A] 版本 6.3.0.24
+  [+]"DefaultCapabilities.xml" 81,429 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"upprn.dll" 18,856 Bytes， 2013/2/7 11:44:02, [A] 版本 6.3.0.24
+[+][C:\Program Files\Citrix\System32\]
+  [+]"cicaiface.dll" 117,136 Bytes， 2013/5/15 1:13:24, [A] 版本 6.3.300.8
+  [+]"MFAPHOOK.dll" 260,392 Bytes， 2013/5/15 0:26:58, [A] 版本 6.3.300.8
+[+][C:\Program Files\Citrix\Virtual Desktop Agent\en\]
+  [+]"APmsgUI.dll" 11,696 Bytes， 2013/2/7 12:29:24, [A] 版本 7.2.10009.1
+[+][C:\Program Files\Citrix\Virtual Desktop Agent\ja\]
+  [+]"APmsgUI.dll" 10,672 Bytes， 2013/2/7 12:29:24, [A] 版本 7.2.10009.1
+  [+]"WorkstationAgent.resources.dll" 10,648 Bytes， 2013/5/15 12:20:58, [A] 版本 5.6.300.8
+[+][C:\Program Files\Citrix\Virtual Desktop Agent\Policy\]
+[+][C:\Program Files\Citrix\Virtual Desktop Agent\resource\]
+  [+]"VdaEventLogResources.dll" 40,328 Bytes， 2013/5/15 12:21:10, [A] 版本 5.6.300.8
+[+][C:\Program Files\Citrix\Virtual Desktop Agent\zh-CN\]
+  [+]"APmsgUI.dll" 9,648 Bytes， 2013/2/7 12:29:26, [A] 版本 7.2.10009.1
+  [+]"WorkstationAgent.resources.dll" 4,096 Bytes， 2013/5/15 12:17:42, [A] 版本 5.6.300.8
+[+][C:\Program Files\Citrix\Virtual Desktop Agent\]
+  [+]"ADSupport.dll" 88,472 Bytes， 2013/5/15 12:21:12, [A] 版本 5.6.300.8
+  [+]"APHelper.dll" 33,200 Bytes， 2013/2/7 12:29:22, [A] 版本 7.2.10009.1
+  [+]"CdsUtilities.dll" 136,088 Bytes， 2013/5/15 12:21:14, [A] 版本 5.6.300.8
+  [+]"Citrix.GroupPolicy.Accessors.dll" 38,280 Bytes， 2013/3/27 19:48:02, [A] 版本 1.7.2.0
+  [+]"Citrix.GroupPolicy.Utilities.dll" 98,184 Bytes， 2013/3/27 19:48:18, [A] 版本 1.7.2.0
+  [+]"CSSessionParameters.dll" 43,424 Bytes， 2013/5/15 0:37:28, [A] 版本 6.3.300.8
+  [+]"DynamicDataStore.dll" 34,200 Bytes， 2013/5/15 12:21:20, [A] 版本 5.6.300.8
+  [+]"EventLog.dll" 13,208 Bytes， 2013/5/15 12:21:36, [A] 版本 5.6.300.8
+  [+]"ICAPolicies.dll" 39,312 Bytes， 2013/5/15 0:36:08, [A] 版本 6.3.300.8
+  [+]"PicaSessionParameters.dll" 47,528 Bytes， 2013/5/15 0:39:00, [A] 版本 6.3.300.8
+  [+]"ProtocolStackContract.dll" 14,744 Bytes， 2013/5/15 12:21:26, [A] 版本 5.6.300.8
+  [+]"SessionParameters.dll" 12,696 Bytes， 2013/5/15 12:21:18, [A] 版本 5.6.300.8
+  [+]"StackManagerContract.dll" 17,816 Bytes， 2013/5/15 12:21:28, [A] 版本 5.6.300.8
+  [+]"VdaRdpPlugIn.dll" 50,072 Bytes， 2013/5/15 12:21:30, [A] 版本 5.6.300.8
+  [+]"VdaStackCommon.dll" 29,080 Bytes， 2013/5/15 12:21:34, [A] 版本 5.6.300.8
+  [+]"WorkerInterfaces.dll" 29,080 Bytes， 2013/5/15 12:21:24, [A] 版本 5.6.300.8
+  [+]"WorkstationAgent.exe" 349,080 Bytes， 2013/5/15 12:21:24, [A] 版本 5.6.300.8
+  [+]"WorkstationAgent.exe.config" 7,612 Bytes， 2013/5/28 17:06:14, [A] 版本 0.0.0.0
+  [+]"WorkstationAgent.exe.config_orig" 7,484 Bytes， 2013/2/7 12:27:34, [A] 版本 0.0.0.0
+  [+]"WorkstationAgent.tlb" 7,212 Bytes， 2013/5/15 12:17:44, [A] 版本 0.0.0.0
+[+][C:\Program Files\Common Files\Citrix\Licensing\]
+  [+]"DesktopAPI.dll" 17,816 Bytes， 2013/5/15 12:21:44, [A] 版本 5.6.300.8
+[+][C:\Program Files\Common Files\Citrix\System32\Resource\de\]
+  [+]"CPatchUI.dll" 14,216 Bytes， 2013/5/14 19:08:40, [A] 版本 6.5.2.2
+  [+]"picaproviderUI.dll" 9,624 Bytes， 2013/5/15 0:59:32, [A] 版本 6.3.300.8
+[+][C:\Program Files\Common Files\Citrix\System32\Resource\en\]
+  [+]"CPatchUI.dll" 13,704 Bytes， 2013/5/14 19:08:40, [A] 版本 6.5.2.2
+  [+]"picaproviderUI.dll" 9,624 Bytes， 2013/5/15 0:59:42, [A] 版本 6.3.300.8
+[+][C:\Program Files\Common Files\Citrix\System32\Resource\es\]
+  [+]"CPatchUI.dll" 14,728 Bytes， 2013/5/14 19:08:40, [A] 版本 6.5.2.2
+  [+]"picaproviderUI.dll" 9,624 Bytes， 2013/5/15 0:59:50, [A] 版本 6.3.300.8
+[+][C:\Program Files\Common Files\Citrix\System32\Resource\fr\]
+  [+]"CPatchUI.dll" 14,216 Bytes， 2013/5/14 19:08:40, [A] 版本 6.5.2.2
+  [+]"picaproviderUI.dll" 9,624 Bytes， 2013/5/15 1:00:00, [A] 版本 6.3.300.8
+[+][C:\Program Files\Common Files\Citrix\System32\Resource\ja\]
+  [+]"CPatchUI.dll" 12,168 Bytes， 2013/5/14 19:08:40, [A] 版本 6.5.2.2
+  [+]"picaproviderUI.dll" 9,624 Bytes， 2013/5/15 1:00:10, [A] 版本 6.3.300.8
+[+][C:\Program Files\Common Files\Citrix\System32\Resource\zh-CN\]
+  [+]"CPatchUI.dll" 11,656 Bytes， 2013/5/14 19:08:40, [A] 版本 6.5.2.2
+  [+]"picaproviderUI.dll" 9,112 Bytes， 2013/5/15 1:00:28, [A] 版本 6.3.300.8
+[+][C:\Program Files\Common Files\Citrix\System32\Resource\]
+[+][C:\Program Files\Common Files\Citrix\System32\]
+  [+]"cdfdrv.cat" 7,420 Bytes， 2013/5/28 17:06:24, [A] 版本 0.0.0.0
+  [+]"cdfdrv.inf" 1,777 Bytes， 2011/3/1 15:24:36, [A] 版本 0.0.0.0
+  [+]"cdfdrv.sys" 31,280 Bytes， 2011/3/1 15:24:36, [A] 版本 0.0.0.0
+  [+]"CdfSvc.exe" 321,448 Bytes， 2011/5/3 7:47:58, [A] 版本 5.11.1000.0
+  [+]"CdfSvcPS.dll" 112,560 Bytes， 2011/5/3 7:47:36, [A] 版本 5.11.1000.0
+  [+]"CPatch.exe" 293,256 Bytes， 2013/5/14 19:08:38, [A] 版本 6.5.2.2
+  [+]"picaProvider.dll" 567,696 Bytes， 2013/5/15 1:01:06, [A] 版本 6.3.300.8
+  [+]"VDAIEInterceptor.dll" 88,472 Bytes， 2013/5/15 2:47:50, [A] 版本 1.0.0.1
+[+][C:\Program Files\Common Files\Citrix\]
+[#][C:\ProgramData\Ashampoo\Ashampoo UnInstaller 4\]
+  [+]"Last.ECS" 575 Bytes， 2013/5/28 17:07:52, [A] 版本 0.0.0.0
+[+][C:\ProgramData\Citrix\GroupPolicy\1\]
+[+][C:\ProgramData\Citrix\GroupPolicy\]
+[+][C:\ProgramData\CitrixCseCache\]
+[#][C:\ProgramData\McAfee\Common Framework\DataChannel\]
+  [%]"Subscriptions.txt" 0 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"Subscriptions.txt" 0 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+[#][C:\ProgramData\McAfee\Common Framework\DB\]
+  [%]"Agent_FRESHINSTALL.log" 7,557 Bytes， 2013/5/28 16:49:12, [A] 版本 0.0.0.0
+  [*]"Agent_FRESHINSTALL.log" 16,794 Bytes， 2013/5/28 17:10:44, [A] 版本 0.0.0.0
+  [%]"Agent_FRESHINSTALL.xml" 2,185 Bytes， 2013/5/28 16:58:18, [A] 版本 0.0.0.0
+  [*]"Agent_FRESHINSTALL.xml" 3,996 Bytes， 2013/5/28 17:09:42, [A] 版本 0.0.0.0
+  [%]"Agent_FRESHINSTALL_error.log" 0 Bytes， 2013/5/28 16:48:04, [A] 版本 0.0.0.0
+  [*]"Agent_FRESHINSTALL_error.log" 125 Bytes， 2013/5/28 16:53:14, [A] 版本 0.0.0.0
+  [%]"PrdMgr_FRESHINSTALL.log" 767 Bytes， 2013/5/28 16:48:16, [A] 版本 0.0.0.0
+  [*]"PrdMgr_FRESHINSTALL.log" 1,526 Bytes， 2013/5/28 17:09:32, [A] 版本 0.0.0.0
+[#][C:\ProgramData\McAfee\Common Framework\Task\TaskInternalData\]
+  [%]"{A14CD6FC-3BA8-4703-87BF-E3247CE382F5}.ini" 183 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"{A14CD6FC-3BA8-4703-87BF-E3247CE382F5}.ini" 183 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"1.ini" 164 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"1.ini" 164 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"109.ini" 145 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"109.ini" 145 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"148.ini" 77 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"148.ini" 77 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"187.ini" 77 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"187.ini" 77 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"237.ini" 68 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"237.ini" 68 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"240.ini" 68 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"240.ini" 68 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"241.ini" 68 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"241.ini" 68 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"35.ini" 67 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"35.ini" 67 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"391.ini" 77 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"391.ini" 77 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"55.ini" 67 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"55.ini" 67 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"57.ini" 154 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"57.ini" 154 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"82.ini" 144 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"82.ini" 144 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+  [%]"91.ini" 151 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"91.ini" 151 Bytes， 2013/5/28 17:09:30, [A] 版本 0.0.0.0
+[#][C:\ProgramData\McAfee\DesktopProtection\]
+  [%]"AccessProtectionLog.txt" 3 Bytes， 2013/5/28 16:48:36, [A] 版本 0.0.0.0
+  [*]"AccessProtectionLog.txt" 3 Bytes， 2013/5/28 17:09:44, [A] 版本 0.0.0.0
+  [%]"BufferOverflowProtectionLog.txt" 3 Bytes， 2013/5/28 16:48:36, [A] 版本 0.0.0.0
+  [*]"BufferOverflowProtectionLog.txt" 3 Bytes， 2013/5/28 17:09:44, [A] 版本 0.0.0.0
+  [%]"OnAccessScanLog.txt" 71,581 Bytes， 2013/5/28 16:48:36, [A] 版本 0.0.0.0
+  [*]"OnAccessScanLog.txt" 76,686 Bytes， 2013/5/28 17:09:44, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\RAC\PublishedData\]
+  [%]"RacWmiDatabase.sdf" 282,624 Bytes， 2013/5/28 16:17:02, [A] 版本 0.0.0.0
+  [*]"RacWmiDatabase.sdf" 348,160 Bytes， 2013/5/28 17:07:52, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\RAC\StateData\]
+  [%]"RacDatabase.sdf" 544,768 Bytes， 2013/5/28 16:17:02, [A] 版本 0.0.0.0
+  [*]"RacDatabase.sdf" 544,768 Bytes， 2013/5/28 17:07:52, [A] 版本 0.0.0.0
+  [%]"RacMetaData.dat" 8 Bytes， 2013/5/28 16:17:02, [A] 版本 0.0.0.0
+  [*]"RacMetaData.dat" 8 Bytes， 2013/5/28 17:07:52, [A] 版本 0.0.0.0
+  [%]"RacWmiDataBookmarks.dat" 16,412 Bytes， 2013/5/28 16:17:02, [A] 版本 0.0.0.0
+  [*]"RacWmiDataBookmarks.dat" 16,412 Bytes， 2013/5/28 17:07:52, [A] 版本 0.0.0.0
+  [%]"RacWmiEventData.dat" 49,180 Bytes， 2013/5/28 16:17:02, [A] 版本 0.0.0.0
+  [*]"RacWmiEventData.dat" 114,716 Bytes， 2013/5/28 17:07:52, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\]
+  [%]"SystemIndex.1.Crwl" 934 Bytes， 2013/5/28 16:44:22, [A] 版本 0.0.0.0
+  [*]"SystemIndex.1.Crwl" 1,662 Bytes， 2013/5/28 17:01:18, [A] 版本 0.0.0.0
+  [%]"SystemIndex.1.gthr" 20,428 Bytes， 2013/5/28 16:44:20, [A] 版本 0.0.0.0
+  [*]"SystemIndex.1.gthr" 37,496 Bytes， 2013/5/28 17:07:56, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\]
+  [-]"00010001.ci" 12,288 Bytes， 2013/5/28 16:41:58, [A] 版本 0.0.0.0
+  [-]"00010001.dir" 4,096 Bytes， 2013/5/28 16:41:58, [A] 版本 0.0.0.0
+  [-]"00010001.wid" 65,536 Bytes， 2013/5/28 16:41:52, [A] 版本 0.0.0.0
+  [-]"00010002.ci" 159,744 Bytes， 2013/5/28 16:57:04, [A] 版本 0.0.0.0
+  [-]"00010002.dir" 4,096 Bytes， 2013/5/28 16:57:04, [A] 版本 0.0.0.0
+  [-]"00010002.wid" 65,536 Bytes， 2013/5/28 16:57:04, [A] 版本 0.0.0.0
+  [-]"00010004.ci" 462,848 Bytes， 2013/5/28 16:15:22, [A] 版本 0.0.0.0
+  [-]"00010004.dir" 12,288 Bytes， 2013/5/28 16:15:22, [A] 版本 0.0.0.0
+  [-]"00010004.wid" 65,536 Bytes， 2013/5/28 16:15:20, [A] 版本 0.0.0.0
+  [-]"00010004.wsb" 65,536 Bytes， 2013/5/28 16:15:20, [A] 版本 0.0.0.0
+  [+]"00010005.ci" 499,712 Bytes， 2013/5/28 17:03:12, [A] 版本 0.0.0.0
+  [+]"00010005.dir" 12,288 Bytes， 2013/5/28 17:03:10, [A] 版本 0.0.0.0
+  [+]"00010005.wid" 65,536 Bytes， 2013/5/28 17:01:30, [A] 版本 0.0.0.0
+  [+]"00010005.wsb" 65,536 Bytes， 2013/5/28 17:01:30, [A] 版本 0.0.0.0
+  [%]"CiAB0001.000" 240 Bytes， 2013/5/28 16:15:22, [A] 版本 0.0.0.0
+  [*]"CiAB0001.000" 240 Bytes， 2013/5/28 17:03:12, [A] 版本 0.0.0.0
+  [%]"CiAB0002.000" 240 Bytes， 2013/5/28 16:15:22, [A] 版本 0.0.0.0
+  [*]"CiAB0002.000" 240 Bytes， 2013/5/28 17:03:12, [A] 版本 0.0.0.0
+  [+]"CiAD0001.000" 240 Bytes， 2013/5/28 17:03:12, [A] 版本 0.0.0.0
+  [+]"CiAD0001.001" 65,536 Bytes， 2013/5/28 17:03:12, [A] 版本 0.0.0.0
+  [+]"CiAD0001.002" 65,536 Bytes， 2013/5/28 17:03:12, [A] 版本 0.0.0.0
+  [-]"CiAD0002.000" 240 Bytes， 2013/5/28 16:15:22, [A] 版本 0.0.0.0
+  [-]"CiAD0002.001" 65,536 Bytes， 2013/5/28 16:15:22, [A] 版本 0.0.0.0
+  [-]"CiAD0002.002" 65,536 Bytes， 2013/5/28 16:15:22, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\Search\Data\Applications\Windows\]
+  [%]"MSS.chk" 8,192 Bytes， 2013/5/28 16:54:46, [A] 版本 0.0.0.0
+  [*]"MSS.chk" 8,192 Bytes， 2013/5/28 17:10:56, [A] 版本 0.0.0.0
+  [%]"MSS.log" 1,048,576 Bytes， 2013/5/28 16:54:10, [A] 版本 0.0.0.0
+  [*]"MSS.log" 1,048,576 Bytes， 2013/5/28 17:11:06, [A] 版本 0.0.0.0
+  [-]"MSS00008.log" 1,048,576 Bytes， 2013/5/28 16:54:10, [A] 版本 0.0.0.0
+  [+]"MSS00009.log" 1,048,576 Bytes， 2013/5/28 17:11:04, [A] 版本 0.0.0.0
+  [%]"MSStmp.log" 1,048,576 Bytes， 2013/5/28 16:53:26, [A] 版本 0.0.0.0
+  [*]"MSStmp.log" 0 Bytes， 2013/5/28 17:11:06, [A] 版本 0.0.0.0
+  [%]"tmp.edb" 8,454,144 Bytes， 2013/5/28 16:50:28, [A] 版本 0.0.0.0
+  [*]"tmp.edb" 8,454,144 Bytes， 2013/5/28 17:10:56, [A] 版本 0.0.0.0
+  [%]"Windows.edb" 42,008,576 Bytes， 2013/5/28 16:50:28, [A] 版本 0.0.0.0
+  [*]"Windows.edb" 42,008,576 Bytes， 2013/5/28 17:10:56, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\User Account Pictures\]
+  [+]"ctx_cpsvcuser.dat" 0 Bytes， 2013/5/28 17:10:00, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\]
+  [+]"VDA Welcome Screen.lnk" 1,045 Bytes， 2013/5/28 17:06:14, [A] 版本 0.0.0.0
+[#][C:\ProgramData\Microsoft\Windows Defender\Support\]
+  [%]"MPLog-07132009-215552.log" 21,686 Bytes， 2013/5/28 16:48:48, [A] 版本 0.0.0.0
+  [*]"MPLog-07132009-215552.log" 21,850 Bytes， 2013/5/28 17:10:20, [A] 版本 0.0.0.0
+[#][C:\ProgramData\System Time\]
+  [%]"service.settings.xml" 1,517 Bytes， 2013/5/28 16:48:14, [A] 版本 0.0.0.0
+  [*]"service.settings.xml" 1,517 Bytes， 2013/5/28 17:09:32, [A] 版本 0.0.0.0
+  [%]"STLogcmf.0.log" 415,598 Bytes， 2013/3/4 17:26:58, [A] 版本 0.0.0.0
+  [*]"STLogcmf.0.log" 263,068 Bytes， 2013/5/28 17:09:32, [A] 版本 0.0.0.0
+  [+]"STLogcmf.1.log" 415,598 Bytes， 2013/3/4 17:26:58, [A] 版本 0.0.0.0
+  [%]"STLogcmf.log" 263,066 Bytes， 2013/5/28 16:49:02, [A] 版本 0.0.0.0
+  [*]"STLogcmf.log" 16,012 Bytes， 2013/5/28 17:10:36, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Credentials\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Event Viewer\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~\]
+  [+]"网页快讯库~.feed-ms" 28,672 Bytes， 2012/8/30 15:52:48, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds\中国的源~\]
+  [+]"MSN 中国 RSS~.feed-ms" 28,672 Bytes， 2012/8/30 15:52:54, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds\]
+  [+]"FeedsStore.feedsdb-ms" 4,096 Bytes， 2012/8/30 15:52:54, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds Cache\8FGOTR0N\]
+  [+]"desktop.ini" 67 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds Cache\BQ63RMDM\]
+  [+]"desktop.ini" 67 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+  [+]"fwlink[1]" 0 Bytes， 2012/8/30 15:52:54, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds Cache\L27VJAL8\]
+  [+]"desktop.ini" 67 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+  [+]"fwlink[1]" 0 Bytes， 2012/8/30 15:52:48, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds Cache\SXG3RKSA\]
+  [+]"desktop.ini" 67 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Feeds Cache\]
+  [+]"desktop.ini" 67 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+  [+]"index.dat" 32,768 Bytes， 2012/8/30 15:52:54, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Internet Explorer\IECompatData\]
+  [+]"iecompatdata.xml" 100,624 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Last Active\]
+  [+]"{A61FEE91-824F-11E2-A3BA-FAA3AAA8129C}.dat" 11,776 Bytes， 2013/3/1 17:09:00, [A] 版本 0.0.0.0
+  [+]"RecoveryStore.{A61FEE90-824F-11E2-A3BA-FAA3AAA8129C}.dat" 3,584 Bytes， 2013/3/1 17:09:00, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Internet Explorer\Recovery\High\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Internet Explorer\Recovery\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Internet Explorer\]
+  [+]"brndlog.txt" 5,868 Bytes， 2012/8/30 15:52:48, [A] 版本 0.0.0.0
+  [+]"MSIMGSIZ.DAT" 49,120 Bytes， 2013/3/1 17:08:06, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Media Player\Sync Playlists\zh-CN\0014D893\]
+  [+]"01_Music_auto_rated_at_5_stars.wpl" 1,047 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"02_Music_added_in_the_last_month.wpl" 1,274 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"03_Music_rated_at_4_or_5_stars.wpl" 1,276 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"04_Music_played_in_the_last_month.wpl" 1,278 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"05_Pictures_taken_in_the_last_month.wpl" 789 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"06_Pictures_rated_4_or_5_stars.wpl" 794 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"07_TV_recorded_in_the_last_week.wpl" 1,033 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"08_Video_rated_at_4_or_5_stars.wpl" 1,029 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"09_Music_played_the_most.wpl" 1,025 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"10_All_Music.wpl" 1,066 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"11_All_Pictures.wpl" 585 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"12_All_Video.wpl" 1,082 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Media Player\Sync Playlists\zh-CN\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Media Player\Sync Playlists\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Media Player\]
+  [+]"CurrentDatabase_372.wmdb" 1,069,056 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"LocalMLS_3.wmdb" 68,000 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\2052\]
+  [+]"StructuredQuerySchema.bin" 275,914 Bytes， 2012/8/30 15:55:30, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Burn\Burn\]
+  [+]"desktop.ini" 174 Bytes， 2012/8/30 15:52:52, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Burn\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Caches\]
+  [+]"{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000008.db" 84,608 Bytes， 2013/3/4 20:56:12, [A] 版本 0.0.0.0
+  [+]"{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000009.db" 80,256 Bytes， 2013/3/5 17:56:28, [A] 版本 0.0.0.0
+  [+]"cversions.1.db" 16,384 Bytes， 2012/8/30 16:28:42, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Explorer\]
+  [+]"ExplorerStartupLog.etl" 32,768 Bytes， 2012/8/30 15:52:58, [A] 版本 0.0.0.0
+  [+]"thumbcache_1024.db" 24 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [+]"thumbcache_256.db" 2,097,152 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [+]"thumbcache_32.db" 1,048,576 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [+]"thumbcache_96.db" 2,097,152 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [+]"thumbcache_idx.db" 3,256 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [+]"thumbcache_sr.db" 24 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\GameExplorer\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\History\History.IE5\]
+  [+]"desktop.ini" 145 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+  [+]"index.dat" 32,768 Bytes， 2013/3/7 14:43:36, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\History\Low\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\History\]
+  [+]"desktop.ini" 145 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Ringtones\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\45F7MS0V\]
+  [+]"desktop.ini" 67 Bytes， 2013/3/7 15:04:16, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\AHG73DHX\]
+  [+]"desktop.ini" 67 Bytes， 2013/3/7 15:04:16, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\M8SWXQT3\]
+  [+]"desktop.ini" 67 Bytes， 2013/3/7 15:04:16, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\P60QV9C5\]
+  [+]"desktop.ini" 67 Bytes， 2013/3/7 15:04:16, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\]
+  [+]"desktop.ini" 67 Bytes， 2013/3/7 15:04:16, [ASH] 版本 0.0.0.0
+  [+]"index.dat" 180,224 Bytes， 2013/3/7 15:04:14, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\Temporary Internet Files\]
+  [+]"desktop.ini" 67 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\WER\ERC\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\WER\ReportArchive\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\WER\ReportQueue\NonCritical_x86_f169833815a45adb89613642df97b39749a366f_cab_0939af22\]
+  [+]"DMIADBB.tmp.log.xml" 10,092 Bytes， 2013/3/1 12:33:28, [A] 版本 0.0.0.0
+  [+]"Report.wer" 1,720 Bytes， 2013/3/1 12:33:28, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\WER\ReportQueue\NonCritical_x86_f7434c405ce3d6721010292c7e5920f552665198_cab_0c723793\]
+  [+]"DMI367A.tmp.log.xml" 32,308 Bytes， 2013/3/1 12:34:04, [A] 版本 0.0.0.0
+  [+]"oem3.inf" 1,632 Bytes， 2013/3/1 12:33:52, [A] 版本 0.0.0.0
+  [+]"Report.wer" 2,308 Bytes， 2013/3/1 12:34:04, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\WER\ReportQueue\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\WER\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows\]
+  [+]"UsrClass.dat" 524,288 Bytes， 2013/5/28 17:10:00, [H] 版本 0.0.0.0
+  [+]"UsrClass.dat.LOG1" 234,496 Bytes， 2013/5/28 17:10:00, [ASH] 版本 0.0.0.0
+  [+]"UsrClass.dat.LOG2" 0 Bytes， 2012/8/30 15:52:26, [ASH] 版本 0.0.0.0
+  [+]"UsrClass.dat{8199a68d-f274-11e1-811f-aa0aaf15b018}.TM.blf" 65,536 Bytes， 2012/8/30 16:05:06, [ASH] 版本 0.0.0.0
+  [+]"UsrClass.dat{8199a68d-f274-11e1-811f-aa0aaf15b018}.TMContainer00000000000000000001.regtrans-ms" 524,288 Bytes， 2012/8/30 16:05:06, [ASH] 版本 0.0.0.0
+  [+]"UsrClass.dat{8199a68d-f274-11e1-811f-aa0aaf15b018}.TMContainer00000000000000000002.regtrans-ms" 524,288 Bytes， 2012/8/30 16:05:06, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Mail\Backup\new\]
+  [+]"edb00001.log" 2,097,152 Bytes， 2012/8/30 15:52:36, [A] 版本 0.0.0.0
+  [+]"WindowsMail.MSMessageStore" 2,121,728 Bytes， 2012/8/30 15:52:36, [A] 版本 0.0.0.0
+  [+]"WindowsMail.pat" 16,384 Bytes， 2012/8/30 15:52:36, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Mail\Backup\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Mail\Stationery\]
+  [+]"Bears.htm" 255 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"Bears.jpg" 1,074 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Blue_Gradient.jpg" 2,575 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Cave_Drawings.gif" 4,587 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Connectivity.gif" 2,319 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Desktop.ini" 645 Bytes， 2009/7/14 12:52:28, [ASH] 版本 0.0.0.0
+  [+]"Dotted_Lines.emf" 3,792 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Garden.htm" 231 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"Garden.jpg" 23,871 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Genko_1.emf" 5,524 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Genko_2.emf" 10,340 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Graph.emf" 116,724 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Green Bubbles.htm" 237 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"GreenBubbles.jpg" 6,406 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"grid_(cm).wmf" 2,920 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"grid_(inch).wmf" 7,498 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Hand Prints.htm" 235 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"HandPrints.jpg" 4,222 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Memo.emf" 152,300 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Monet.jpg" 2,209 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Month_Calendar.emf" 4,192 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Music.emf" 26,036 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Notebook.jpg" 2,950 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Orange Circles.htm" 237 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"OrangeCircles.jpg" 6,381 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Peacock.htm" 232 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"Peacock.jpg" 5,115 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Pine_Lumber.jpg" 3,981 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Pretty_Peacock.jpg" 5,115 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Psychedelic.jpg" 14,049 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Roses.htm" 233 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"Roses.jpg" 1,920 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Sand_Paper.jpg" 15,776 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Seyes.emf" 37,316 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Shades of Blue.htm" 237 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"ShadesOfBlue.jpg" 4,734 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Shorthand.emf" 81,292 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Small_News.jpg" 1,990 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Soft Blue.htm" 232 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"SoftBlue.jpg" 10,569 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Stars.htm" 230 Bytes， 2009/7/14 6:28:36, [A] 版本 0.0.0.0
+  [+]"Stars.jpg" 7,505 Bytes， 2009/6/11 5:29:18, [A] 版本 0.0.0.0
+  [+]"Stucco.gif" 1,864 Bytes， 2009/6/11 5:26:36, [A] 版本 0.0.0.0
+  [+]"Tanspecks.jpg" 3,650 Bytes， 2009/6/11 5:26:38, [A] 版本 0.0.0.0
+  [+]"Tiki.gif" 4,638 Bytes， 2009/6/11 5:26:38, [A] 版本 0.0.0.0
+  [+]"To_Do_List.emf" 26,720 Bytes， 2009/6/11 5:26:38, [A] 版本 0.0.0.0
+  [+]"White_Chocolate.jpg" 3,168 Bytes， 2009/6/11 5:26:38, [A] 版本 0.0.0.0
+  [+]"Wrinkled_Paper.gif" 15,063 Bytes， 2009/6/11 5:26:38, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Mail\]
+  [+]"account{433CD1DB-6B73-4D44-B7D3-A935B2547EA3}.oeaccount" 654 Bytes， 2012/8/30 15:52:42, [A] 版本 0.0.0.0
+  [+]"account{82F6640D-B90B-4E26-8135-1A93079DB3BF}.oeaccount" 1,736 Bytes， 2012/8/30 15:52:42, [A] 版本 0.0.0.0
+  [+]"account{E61701C1-8860-4936-93D8-170DF7196DFF}.oeaccount" 1,482 Bytes， 2012/8/30 15:52:42, [A] 版本 0.0.0.0
+  [+]"edb.chk" 8,192 Bytes， 2012/8/30 15:52:42, [A] 版本 0.0.0.0
+  [+]"edb.log" 2,097,152 Bytes， 2012/8/30 15:52:42, [A] 版本 0.0.0.0
+  [+]"edb00001.log" 2,097,152 Bytes， 2012/8/30 15:52:36, [A] 版本 0.0.0.0
+  [+]"edbres00001.jrs" 2,097,152 Bytes， 2012/8/30 15:52:34, [A] 版本 0.0.0.0
+  [+]"edbres00002.jrs" 2,097,152 Bytes， 2012/8/30 15:52:36, [A] 版本 0.0.0.0
+  [+]"oeold.xml" 260 Bytes， 2012/8/30 15:52:42, [A] 版本 0.0.0.0
+  [+]"WindowsMail.MSMessageStore" 2,113,536 Bytes， 2012/8/30 15:52:42, [A] 版本 0.0.0.0
+  [+]"WindowsMail.pat" 16,384 Bytes， 2012/8/30 15:52:36, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Media\12.0\]
+  [+]"WMSDKNS.DTD" 498 Bytes， 2012/8/30 15:52:44, [A] 版本 0.0.0.0
+  [+]"WMSDKNS.XML" 10,191 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Media\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Sidebar\Gadgets\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\Windows Sidebar\]
+  [+]"Settings.ini" 84 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Microsoft\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Temp\McAfeeLogs\]
+  [+]"UpdaterUI_WIN7_SC_X86.log" 5,998 Bytes， 2013/3/7 14:43:38, [A] 版本 0.0.0.0
+  [+]"UpdaterUI_WIN7_SC_X86_error.log" 0 Bytes， 2013/3/1 12:54:04, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\Temp\]
+  [+]"FXSAPIDebugLogFile.txt" 0 Bytes， 2012/8/30 15:53:02, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Local\]
+  [+]"GDIPFONTCACHEV1.DAT" 57,560 Bytes， 2013/3/1 12:18:22, [A] 版本 0.0.0.0
+  [+]"IconCache.db" 1,895,709 Bytes， 2013/3/7 15:05:42, [AH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\]
+  [+]"3C3948BE6E525B8A8CEE9FAC91C9E392_311F1FE144AE402744AF17BC688E3B6F" 1,953 Bytes， 2013/3/1 12:49:16, [AS] 版本 0.0.0.0
+  [+]"57C8EDB95DF3F0AD4EE2DC2B8CFD4157" 6,327 Bytes， 2013/3/1 16:40:44, [AS] 版本 0.0.0.0
+  [+]"60E31627FDA0A46932B0E5948949F2A5" 898 Bytes， 2013/3/1 12:49:16, [AS] 版本 0.0.0.0
+  [+]"696F3DE637E6DE85B458996D49D759AD" 813 Bytes， 2013/3/1 12:51:08, [AS] 版本 0.0.0.0
+  [+]"7396C420A8E1BC1DA97F1AF0D10BAD21" 554 Bytes， 2013/3/1 12:51:08, [AS] 版本 0.0.0.0
+  [+]"77EC63BDA74BD0D0E0426DC8F8008506" 49,082 Bytes， 2013/3/1 12:17:04, [AS] 版本 0.0.0.0
+  [+]"7B2238AACCEDC3F1FFE8E7EB5F575EC9" 506 Bytes， 2012/8/30 15:56:20, [AS] 版本 0.0.0.0
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_341DF49E12ABCCEC481FF9A8AC673987" 1,847 Bytes， 2013/3/1 17:08:22, [AS] 版本 0.0.0.0
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_DC3D43926DC42088D8E3F96B9ED6BD5A" 1,847 Bytes， 2013/3/1 12:17:04, [AS] 版本 0.0.0.0
+  [+]"7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6" 1,891 Bytes， 2013/3/1 12:17:04, [AS] 版本 0.0.0.0
+  [+]"A1377F7115F1F126A15360369B165211" 597 Bytes， 2013/3/1 16:42:16, [AS] 版本 0.0.0.0
+  [+]"D47DBD2F9E3365FBBE008D71FB06716F_D33192D58AA9CA2B9097E848E9FE86DE" 1,582 Bytes， 2013/3/1 12:17:04, [AS] 版本 0.0.0.0
+  [+]"E6024EAC88E6B6165D49FE3C95ADD735" 558 Bytes， 2013/3/4 16:21:42, [AS] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\]
+  [+]"3C3948BE6E525B8A8CEE9FAC91C9E392_311F1FE144AE402744AF17BC688E3B6F" 420 Bytes， 2013/3/1 12:49:46, [AS] 版本 0.0.0.0
+  [+]"57C8EDB95DF3F0AD4EE2DC2B8CFD4157" 338 Bytes， 2013/3/4 16:14:30, [AS] 版本 0.0.0.0
+  [+]"60E31627FDA0A46932B0E5948949F2A5" 236 Bytes， 2013/3/1 12:49:46, [AS] 版本 0.0.0.0
+  [+]"696F3DE637E6DE85B458996D49D759AD" 282 Bytes， 2013/3/4 16:15:00, [AS] 版本 0.0.0.0
+  [+]"7396C420A8E1BC1DA97F1AF0D10BAD21" 294 Bytes， 2013/3/4 16:15:00, [AS] 版本 0.0.0.0
+  [+]"77EC63BDA74BD0D0E0426DC8F8008506" 330 Bytes， 2013/3/1 12:17:04, [AS] 版本 0.0.0.0
+  [+]"7B2238AACCEDC3F1FFE8E7EB5F575EC9" 258 Bytes， 2012/8/30 15:56:20, [AS] 版本 0.0.0.0
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_341DF49E12ABCCEC481FF9A8AC673987" 404 Bytes， 2013/3/1 17:08:52, [AS] 版本 0.0.0.0
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_DC3D43926DC42088D8E3F96B9ED6BD5A" 408 Bytes， 2013/3/1 12:17:36, [AS] 版本 0.0.0.0
+  [+]"7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6" 404 Bytes， 2013/3/1 12:17:36, [AS] 版本 0.0.0.0
+  [+]"A1377F7115F1F126A15360369B165211" 268 Bytes， 2013/3/4 16:15:00, [AS] 版本 0.0.0.0
+  [+]"D47DBD2F9E3365FBBE008D71FB06716F_D33192D58AA9CA2B9097E848E9FE86DE" 408 Bytes， 2013/3/1 12:17:36, [AS] 版本 0.0.0.0
+  [+]"E6024EAC88E6B6165D49FE3C95ADD735" 270 Bytes， 2013/3/4 16:21:42, [AS] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\LocalLow\Microsoft\CryptnetUrlCache\]
+[+][C:\Users\ctx_cpsvcuser\AppData\LocalLow\Microsoft\]
+[+][C:\Users\ctx_cpsvcuser\AppData\LocalLow\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Identities\{1306195B-E2F2-4D5B-9226-5525478897A2}\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Identities\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\Common Framework\DB\McTray\ErrorLog\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\Common Framework\DB\McTray\PluginHistory\]
+  [+]"McTrayPluginStateHistory.txt" 2,602 Bytes， 2013/3/7 14:43:40, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\Common Framework\DB\McTray\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\Common Framework\DB\Support DLL\DebugTraceFiles\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\Common Framework\DB\Support DLL\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\Common Framework\DB\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\Common Framework\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\McAfee\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Media Center Programs\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Credentials\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\]
+  [+]"desktop.ini" 211 Bytes， 2012/8/30 15:52:52, [ASH] 版本 0.0.0.0
+  [+]"Internet Explorer.lnk" 1,337 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"Windows Explorer.lnk" 1,228 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+  [+]"Windows Media Player.lnk" 1,515 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\]
+  [+]"desktop.ini" 221 Bytes， 2013/3/1 17:08:02, [ASH] 版本 0.0.0.0
+  [+]"Shows Desktop.lnk" 290 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+  [+]"Window Switcher.lnk" 272 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Internet Explorer\UserData\Low\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Internet Explorer\UserData\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Internet Explorer\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\MMC\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Protect\S-1-5-21-1758053004-396982925-1764633472-500\]
+  [+]"d9454483-25df-403e-9ffe-88ff8f521715" 468 Bytes， 2012/8/30 15:53:44, [ASH] 版本 0.0.0.0
+  [+]"Preferred" 24 Bytes， 2012/8/30 15:52:36, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Protect\]
+  [+]"CREDHIST" 168 Bytes， 2012/8/30 15:52:36, [ASH] 版本 0.0.0.0
+  [+]"SYNCHIST" 76 Bytes， 2012/8/30 15:53:44, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\SystemCertificates\My\Certificates\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\SystemCertificates\My\CRLs\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\SystemCertificates\My\CTLs\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\SystemCertificates\My\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\SystemCertificates\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Cookies\]
+  [+]"index.dat" 32,768 Bytes， 2013/3/7 14:43:36, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\IECompatCache\Low\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\IECompatCache\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\IEDownloadHistory\]
+  [+]"index.dat" 16,384 Bytes， 2013/3/1 17:08:02, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\IETldCache\Low\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\IETldCache\]
+  [+]"index.dat" 262,144 Bytes， 2013/3/1 17:08:02, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Libraries\]
+  [+]"desktop.ini" 274 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+  [+]"Documents.library-ms" 3,570 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"Music.library-ms" 3,528 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"Pictures.library-ms" 3,562 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"Videos.library-ms" 3,541 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Network Shortcuts\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\PrivacIE\Low\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\PrivacIE\]
+  [+]"index.dat" 98,304 Bytes， 2013/3/1 17:08:02, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\]
+  [+]"1b4dd67f29cb1962.automaticDestinations-ms" 13,824 Bytes， 2013/3/7 14:43:40, [A] 版本 0.0.0.0
+  [+]"7bee6fd3182c7202.automaticDestinations-ms" 7,168 Bytes， 2013/3/4 16:13:50, [A] 版本 0.0.0.0
+  [+]"7e4dca80246863e3.automaticDestinations-ms" 10,240 Bytes， 2013/3/5 17:46:14, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\]
+  [+]"1b4dd67f29cb1962.customDestinations-ms" 24 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [+]"5afe4de1b92fc382.customDestinations-ms" 17,261 Bytes， 2012/8/30 15:52:50, [A] 版本 0.0.0.0
+  [+]"7e4dca80246863e3.customDestinations-ms" 24 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Recent\]
+  [+]"DebugView.lnk" 2,114 Bytes， 2013/3/4 16:18:32, [A] 版本 0.0.0.0
+  [+]"debugview-partofsysinternal.lnk" 2,000 Bytes， 2013/3/4 16:18:32, [A] 版本 0.0.0.0
+  [+]"desktop.ini" 432 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+  [+]"Windows6.0-KB2506146-x86.lnk" 2,036 Bytes， 2013/3/4 16:13:50, [A] 版本 0.0.0.0
+  [+]"Windows6.1-KB2506143-x86.lnk" 2,036 Bytes， 2013/3/4 16:13:40, [A] 版本 0.0.0.0
+  [+]"WMF3_includePowerShell.lnk" 1,745 Bytes， 2013/3/4 16:13:50, [A] 版本 0.0.0.0
+  [+]"程序.lnk" 156 Bytes， 2013/3/4 16:15:10, [A] 版本 0.0.0.0
+  [+]"网络和 Internet.lnk" 156 Bytes， 2013/3/4 17:28:36, [A] 版本 0.0.0.0
+  [+]"系统和安全.lnk" 156 Bytes， 2013/3/5 17:46:14, [A] 版本 0.0.0.0
+  [+]"显示.lnk" 186 Bytes， 2013/3/1 13:52:10, [A] 版本 0.0.0.0
+  [+]"用户帐户和家庭安全.lnk" 156 Bytes， 2013/3/4 20:56:00, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\SendTo\]
+  [+]"Compressed (zipped) Folder.ZFSendToTarget" 3 Bytes， 2009/6/11 5:27:16, [A] 版本 0.0.0.0
+  [+]"Desktop (create shortcut).DeskLink" 7 Bytes， 2009/6/11 5:26:20, [A] 版本 0.0.0.0
+  [+]"Desktop.ini" 558 Bytes， 2009/7/14 12:42:26, [ASH] 版本 0.0.0.0
+  [+]"Fax Recipient.lnk" 1,238 Bytes， 2009/7/14 12:42:26, [A] 版本 0.0.0.0
+  [+]"Mail Recipient.MAPIMail" 4 Bytes， 2009/6/11 5:26:22, [A] 版本 0.0.0.0
+  [+]"文档.mydocs" 0 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\]
+  [+]"Desktop.ini" 704 Bytes， 2009/7/14 12:41:44, [ASH] 版本 0.0.0.0
+  [+]"Ease of Access.lnk" 1,358 Bytes， 2009/7/14 12:41:44, [A] 版本 0.0.0.0
+  [+]"Magnify.lnk" 1,258 Bytes， 2009/7/14 12:41:44, [A] 版本 0.0.0.0
+  [+]"Narrator.lnk" 1,262 Bytes， 2009/7/14 12:41:44, [A] 版本 0.0.0.0
+  [+]"On-Screen Keyboard.lnk" 1,250 Bytes， 2009/7/14 12:41:44, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\]
+  [+]"computer.lnk" 262 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+  [+]"Control Panel.lnk" 262 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+  [+]"Desktop.ini" 738 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+  [+]"Internet Explorer (No Add-ons).lnk" 1,403 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"Private Character Editor.lnk" 1,306 Bytes， 2009/7/14 12:42:26, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\]
+  [+]"Command Prompt.lnk" 1,280 Bytes， 2009/7/14 12:42:00, [A] 版本 0.0.0.0
+  [+]"Desktop.ini" 678 Bytes， 2009/7/14 12:42:06, [ASH] 版本 0.0.0.0
+  [+]"Notepad.lnk" 1,304 Bytes， 2009/7/14 12:42:06, [A] 版本 0.0.0.0
+  [+]"Run.lnk" 262 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+  [+]"Windows Explorer.lnk" 1,228 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\]
+  [+]"desktop.ini" 174 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\]
+  [+]"Desktop.ini" 318 Bytes， 2009/7/14 12:37:44, [ASH] 版本 0.0.0.0
+  [+]"Help.lnk" 262 Bytes， 2009/7/14 12:37:44, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\]
+  [+]"desktop.ini" 174 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\]
+  [+]"desktop.ini" 338 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+  [+]"Internet Explorer.lnk" 1,337 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Start Menu\]
+  [+]"desktop.ini" 174 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Templates\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\Themes\]
+  [+]"TranscodedWallpaper.jpg" 642,987 Bytes， 2012/8/30 15:52:32, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\Windows\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\Microsoft\]
+[+][C:\Users\ctx_cpsvcuser\AppData\Roaming\]
+[+][C:\Users\ctx_cpsvcuser\AppData\]
+[+][C:\Users\ctx_cpsvcuser\Contacts\]
+  [+]"Administrator.contact" 68,382 Bytes， 2012/8/30 15:52:34, [A] 版本 0.0.0.0
+  [+]"desktop.ini" 412 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Desktop\]
+  [+]"desktop.ini" 282 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Documents\]
+  [+]"desktop.ini" 402 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Downloads\]
+  [+]"desktop.ini" 282 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Favorites\Links\]
+  [+]"desktop.ini" 80 Bytes， 2012/8/30 15:52:48, [ASH] 版本 0.0.0.0
+  [+]"网页快讯库.url" 226 Bytes， 2013/3/1 17:08:04, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Favorites\Links for 中国\]
+  [+]"desktop.ini" 296 Bytes， 2012/8/30 15:52:54, [ASH] 版本 0.0.0.0
+  [+]"Internet Explorer (中国).url" 134 Bytes， 2013/3/1 17:08:04, [A] 版本 0.0.0.0
+  [+]"MSN 中国.url" 134 Bytes， 2013/3/1 17:08:04, [A] 版本 0.0.0.0
+  [+]"Windows 主页(中国).url" 134 Bytes， 2013/3/1 17:08:04, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Favorites\]
+  [+]"desktop.ini" 402 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Links\]
+  [+]"desktop.ini" 580 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+  [+]"Desktop.lnk" 453 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"Downloads.lnk" 836 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+  [+]"RecentPlaces.lnk" 335 Bytes， 2012/8/30 15:52:46, [A] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Music\]
+  [+]"desktop.ini" 504 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Pictures\]
+  [+]"desktop.ini" 504 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Saved Games\]
+  [+]"desktop.ini" 282 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Searches\]
+  [+]"desktop.ini" 524 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+  [+]"Everywhere.search-ms" 248 Bytes， 2012/8/30 15:52:46, [ARH] 版本 0.0.0.0
+  [+]"Indexed Locations.search-ms" 248 Bytes， 2012/8/30 15:52:46, [ARH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\Videos\]
+  [+]"desktop.ini" 504 Bytes， 2012/8/30 15:52:46, [ASH] 版本 0.0.0.0
+[+][C:\Users\ctx_cpsvcuser\]
+  [+]"NTUSER.DAT" 786,432 Bytes， 2013/5/28 17:10:00, [ASH] 版本 0.0.0.0
+  [+]"ntuser.dat.LOG1" 262,144 Bytes， 2013/5/28 17:10:00, [ASH] 版本 0.0.0.0
+  [+]"ntuser.dat.LOG2" 0 Bytes， 2013/5/28 17:10:00, [ASH] 版本 0.0.0.0
+  [+]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf" 65,536 Bytes， 2013/5/28 17:10:00, [ASH] 版本 0.0.0.0
+  [+]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms" 524,288 Bytes， 2013/5/28 17:10:00, [ASH] 版本 0.0.0.0
+  [+]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms" 524,288 Bytes， 2013/5/28 17:10:00, [ASH] 版本 0.0.0.0
+  [+]"ntuser.ini" 20 Bytes， 2012/8/30 15:52:26, [SH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Local\Microsoft\Windows\Explorer\]
+  [+]"ExplorerStartupLog_RunOnce.etl" 16,384 Bytes， 2013/5/28 17:06:20, [A] 版本 0.0.0.0
+  [%]"thumbcache_256.db" 2,097,152 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [*]"thumbcache_256.db" 3,145,728 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [%]"thumbcache_idx.db" 3,256 Bytes， 2012/8/30 15:52:52, [A] 版本 0.0.0.0
+  [*]"thumbcache_idx.db" 6,488 Bytes， 2013/5/28 17:07:52, [A] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012013052820130529\]
+  [%]"index.dat" 32,768 Bytes， 2013/5/28 16:53:30, [ASH] 版本 0.0.0.0
+  [*]"index.dat" 32,768 Bytes， 2013/5/28 17:10:28, [ASH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Local\Microsoft\Windows\History\History.IE5\]
+  [%]"index.dat" 32,768 Bytes， 2013/5/28 16:53:30, [ASH] 版本 0.0.0.0
+  [*]"index.dat" 32,768 Bytes， 2013/5/28 17:10:28, [ASH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\]
+  [%]"index.dat" 180,224 Bytes， 2013/5/28 16:53:30, [ASH] 版本 0.0.0.0
+  [*]"index.dat" 180,224 Bytes， 2013/5/28 17:10:28, [ASH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Local\Microsoft\Windows\]
+  [%]"UsrClass.dat" 524,288 Bytes， 2013/5/28 16:59:30, [AH] 版本 0.0.0.0
+  [*]"UsrClass.dat" 524,288 Bytes， 2013/5/28 17:07:52, [AH] 版本 0.0.0.0
+  [%]"UsrClass.dat.LOG1" 246,784 Bytes， 2013/5/28 16:59:30, [ASH] 版本 0.0.0.0
+  [*]"UsrClass.dat.LOG1" 246,784 Bytes， 2013/5/28 17:07:52, [ASH] 版本 0.0.0.0
+  [+]"UsrClass.dat{2b483147-c776-11e2-ab9e-8afe150bd97f}.TM.blf" 65,536 Bytes， 2013/5/28 17:10:08, [ASH] 版本 0.0.0.0
+  [+]"UsrClass.dat{2b483147-c776-11e2-ab9e-8afe150bd97f}.TMContainer00000000000000000001.regtrans-ms" 524,288 Bytes， 2013/5/28 17:10:08, [ASH] 版本 0.0.0.0
+  [+]"UsrClass.dat{2b483147-c776-11e2-ab9e-8afe150bd97f}.TMContainer00000000000000000002.regtrans-ms" 524,288 Bytes， 2013/5/28 17:10:08, [ASH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Local\Temp\McAfeeLogs\]
+  [%]"UpdaterUI_FRESHINSTALL.log" 0 Bytes， 2013/5/28 16:53:54, [A] 版本 0.0.0.0
+  [*]"UpdaterUI_FRESHINSTALL.log" 549 Bytes， 2013/5/28 16:54:00, [A] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Local\Temp\]
+  [+]"ctx6E9A.tmp" 31,280 Bytes， 2013/5/28 17:03:58, [A] 版本 0.0.0.0
+  [-]"GLF2772.tmp.tbMyAs.dll" 4,215,080 Bytes， 2011/3/3 12:59:48, [A] 版本 6.3.2.90
+  [-]"GLF30A6.tmp.ConduitEngine.dll" 4,215,080 Bytes， 2011/3/3 12:59:48, [A] 版本 6.3.2.90
+[#][C:\Users\VDA\AppData\Local\]
+  [%]"IconCache.db" 1,895,709 Bytes， 2013/3/7 15:05:42, [AH] 版本 0.0.0.0
+  [*]"IconCache.db" 979,428 Bytes， 2013/5/28 17:07:52, [AH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\]
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_B5B5C7194931018E4B8E5A0E31CBA224" 1,847 Bytes， 2013/5/28 17:03:50, [AS] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\]
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_B5B5C7194931018E4B8E5A0E31CBA224" 404 Bytes， 2013/5/28 17:04:26, [AS] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Roaming\McAfee\Common Framework\DB\McTray\PluginHistory\]
+  [%]"McTrayPluginStateHistory.txt" 2,770 Bytes， 2013/5/28 16:53:58, [] 版本 0.0.0.0
+  [*]"McTrayPluginStateHistory.txt" 2,938 Bytes， 2013/5/28 17:10:48, [] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Roaming\Microsoft\Protect\]
+  [%]"SYNCHIST" 76 Bytes， 2013/5/28 16:53:30, [ASH] 版本 0.0.0.0
+  [*]"SYNCHIST" 76 Bytes， 2013/5/28 17:10:12, [ASH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Roaming\Microsoft\Windows\Cookies\]
+  [%]"index.dat" 32,768 Bytes， 2013/5/28 16:53:30, [ASH] 版本 0.0.0.0
+  [*]"index.dat" 32,768 Bytes， 2013/5/28 17:10:28, [ASH] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\]
+  [%]"1b4dd67f29cb1962.automaticDestinations-ms" 14,336 Bytes， 2013/5/28 16:59:18, [A] 版本 0.0.0.0
+  [*]"1b4dd67f29cb1962.automaticDestinations-ms" 14,336 Bytes， 2013/5/28 17:11:58, [A] 版本 0.0.0.0
+[#][C:\Users\VDA\AppData\Roaming\Microsoft\Windows\Recent\]
+  [+]"2.lnk" 872 Bytes， 2013/5/28 17:11:58, [A] 版本 0.0.0.0
+  [%]"Ashampoo UnInstaller 4.lnk" 780 Bytes， 2013/5/28 16:59:18, [A] 版本 0.0.0.0
+  [*]"Ashampoo UnInstaller 4.lnk" 780 Bytes， 2013/5/28 17:11:58, [A] 版本 0.0.0.0
+[#][C:\Users\VDA\]
+  [%]"ntuser.dat.LOG1" 262,144 Bytes， 2013/5/28 16:59:24, [ASH] 版本 0.0.0.0
+  [*]"ntuser.dat.LOG1" 262,144 Bytes， 2013/5/28 17:07:52, [ASH] 版本 0.0.0.0
+  [%]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf" 0 Bytes， 2013/5/28 16:53:24, [ASH] 版本 0.0.0.0
+  [*]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf" 65,536 Bytes， 2013/5/28 17:07:52, [ASH] 版本 0.0.0.0
+  [%]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms" 0 Bytes， 2013/5/28 16:53:24, [ASH] 版本 0.0.0.0
+  [*]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms" 524,288 Bytes， 2013/5/28 17:07:52, [ASH] 版本 0.0.0.0
+  [%]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms" 0 Bytes， 2013/5/28 16:53:24, [ASH] 版本 0.0.0.0
+  [*]"NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms" 524,288 Bytes， 2013/5/28 17:07:52, [ASH] 版本 0.0.0.0
+[#][C:\Windows\AppCompat\Programs\]
+  [%]"RecentFileCache.bcf" 804 Bytes， 2013/5/28 16:58:02, [AS] 版本 0.0.0.0
+  [*]"RecentFileCache.bcf" 2,146 Bytes， 2013/5/28 17:10:44, [AS] 版本 0.0.0.0
+[+][C:\Windows\assembly\GAC\Citrix.Diagnostics\1.0.21.0__7110990e26881462\]
+  [+]"__AssemblyInfo__.ini" 207 Bytes， 2013/5/28 17:06:34, [A] 版本 0.0.0.0
+  [+]"Citrix.Diagnostics.dll" 42,944 Bytes， 2013/5/28 17:04:30, [A] 版本 1.0.21.0
+[+][C:\Windows\assembly\GAC\Citrix.Diagnostics\]
+[+][C:\Windows\assembly\GAC\Citrix.Diagnostics.Recorder.Cdf\1.0.21.0__7110990e26881462\]
+  [+]"__AssemblyInfo__.ini" 220 Bytes， 2013/5/28 17:06:34, [A] 版本 0.0.0.0
+  [+]"Citrix.Diagnostics.Recorder.Cdf.dll" 38,872 Bytes， 2013/5/28 17:04:30, [A] 版本 1.0.21.0
+[+][C:\Windows\assembly\GAC\Citrix.Diagnostics.Recorder.Cdf\]
+[+][C:\Windows\assembly\GAC\policy.1.0.Citrix.Diagnostics\1.0.1.0__7110990e26881462\]
+  [+]"__AssemblyInfo__.ini" 217 Bytes， 2013/5/28 17:06:34, [A] 版本 0.0.0.0
+  [+]"policy.1.0.Citrix.Diagnostics.config" 597 Bytes， 2013/5/28 17:04:30, [A] 版本 0.0.0.0
+  [+]"policy.1.0.Citrix.Diagnostics.dll" 11,072 Bytes， 2013/5/28 17:04:30, [A] 版本 1.0.1.0
+[+][C:\Windows\assembly\GAC\policy.1.0.Citrix.Diagnostics\]
+[#][C:\Windows\assembly\]
+  [%]"PublisherPolicy.tme" 0 Bytes， 2012/8/30 0:48:08, [ARH] 版本 0.0.0.0
+  [*]"PublisherPolicy.tme" 0 Bytes， 2013/5/28 17:06:34, [ARH] 版本 0.0.0.0
+  [+]"pubpol5.dat" 0 Bytes， 2013/5/28 17:06:34, [RH] 版本 0.0.0.0
+[#][C:\Windows\BitLockerDiscoveryVolumeContents\]
+  [%]"BitLockerToGo.exe" 256,080 Bytes， 2009/7/14 9:26:16, [RS] 版本 6.1.7600.16385
+  [*]"BitLockerToGo.exe" 256,080 Bytes， 2009/7/14 9:26:16, [ARS] 版本 6.1.7600.16385
+[#][C:\Windows\debug\]
+  [%]"PASSWD.LOG" 0 Bytes， 2013/5/28 16:47:50, [A] 版本 0.0.0.0
+  [*]"PASSWD.LOG" 0 Bytes， 2013/5/28 17:09:00, [A] 版本 0.0.0.0
+[+][C:\Windows\inf\CitrixICA\0007\]
+  [+]"icaperf.ini" 90,620 Bytes， 2013/5/15 1:22:42, [A] 版本 0.0.0.0
+[+][C:\Windows\inf\CitrixICA\0009\]
+  [+]"icaperf.ini" 90,620 Bytes， 2013/5/15 1:22:42, [A] 版本 0.0.0.0
+[+][C:\Windows\inf\CitrixICA\000A\]
+  [+]"icaperf.ini" 90,620 Bytes， 2013/5/15 1:22:42, [A] 版本 0.0.0.0
+[+][C:\Windows\inf\CitrixICA\000C\]
+  [+]"icaperf.ini" 90,620 Bytes， 2013/5/15 1:22:42, [A] 版本 0.0.0.0
+[+][C:\Windows\inf\CitrixICA\0011\]
+  [+]"icaperf.ini" 90,620 Bytes， 2013/5/15 1:22:42, [A] 版本 0.0.0.0
+[+][C:\Windows\inf\CitrixICA\0804\]
+  [+]"icaperf.ini" 90,620 Bytes， 2013/5/15 1:22:42, [A] 版本 0.0.0.0
+[+][C:\Windows\inf\CitrixICA\]
+  [+]"icaperf_def.h" 4,708 Bytes， 2013/2/7 11:37:18, [A] 版本 0.0.0.0
+[#][C:\Windows\inf\]
+  [%]"ks.PNF" 128,660 Bytes， 2009/7/14 12:38:12, [A] 版本 0.0.0.0
+  [*]"ks.PNF" 130,940 Bytes， 2013/5/28 17:04:54, [A] 版本 0.0.0.0
+  [%]"ksfilter.PNF" 19,292 Bytes， 2009/7/14 12:38:26, [A] 版本 0.0.0.0
+  [*]"ksfilter.PNF" 19,476 Bytes， 2013/5/28 17:04:58, [A] 版本 0.0.0.0
+  [%]"msdv.PNF" 46,288 Bytes， 2009/7/14 12:38:28, [A] 版本 0.0.0.0
+  [*]"msdv.PNF" 46,520 Bytes， 2013/5/28 17:05:28, [A] 版本 0.0.0.0
+  [%]"ntprint.PNF" 12,384 Bytes， 2009/7/14 12:38:18, [A] 版本 0.0.0.0
+  [*]"ntprint.PNF" 12,416 Bytes， 2013/5/28 17:06:48, [A] 版本 0.0.0.0
+  [+]"oem2.inf" 23,902 Bytes， 2013/5/28 17:04:54, [A] 版本 0.0.0.0
+  [+]"oem2.PNF" 61,844 Bytes， 2013/5/28 17:04:54, [A] 版本 0.0.0.0
+  [+]"oem3.inf" 7,424 Bytes， 2013/5/28 17:05:04, [A] 版本 0.0.0.0
+  [+]"oem3.PNF" 10,560 Bytes， 2013/5/28 17:05:06, [A] 版本 0.0.0.0
+  [+]"oem4.inf" 4,224 Bytes， 2013/5/28 17:05:28, [A] 版本 0.0.0.0
+  [+]"oem4.PNF" 10,700 Bytes， 2013/5/28 17:05:28, [A] 版本 0.0.0.0
+  [+]"oem5.inf" 5,296 Bytes， 2013/5/28 17:05:32, [A] 版本 0.0.0.0
+  [+]"oem5.PNF" 13,068 Bytes， 2013/5/28 17:05:34, [A] 版本 0.0.0.0
+  [+]"oem6.inf" 5,187 Bytes， 2013/5/28 17:05:40, [A] 版本 0.0.0.0
+  [+]"oem6.PNF" 14,088 Bytes， 2013/5/28 17:05:42, [A] 版本 0.0.0.0
+  [+]"oem7.inf" 1,777 Bytes， 2013/5/28 17:06:20, [A] 版本 0.0.0.0
+  [+]"oem8.inf" 3,404 Bytes， 2013/5/28 17:06:46, [A] 版本 0.0.0.0
+  [%]"setupapi.app.log" 131,369 Bytes， 2013/5/28 16:53:34, [A] 版本 0.0.0.0
+  [*]"setupapi.app.log" 202,124 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+  [%]"setupapi.dev.log" 5,389,538 Bytes， 2013/5/28 16:44:46, [A] 版本 0.0.0.0
+  [*]"setupapi.dev.log" 5,926,757 Bytes， 2013/5/28 17:10:18, [A] 版本 0.0.0.0
+  [%]"setupapi.ev1" 6,296 Bytes， 2013/5/28 16:43:38, [A] 版本 0.0.0.0
+  [*]"setupapi.ev1" 7,304 Bytes， 2013/5/28 17:10:06, [A] 版本 0.0.0.0
+  [%]"setupapi.ev2" 3,352 Bytes， 2013/5/28 16:43:58, [A] 版本 0.0.0.0
+  [*]"setupapi.ev2" 3,960 Bytes， 2013/5/28 17:10:14, [A] 版本 0.0.0.0
+  [%]"setupapi.ev3" 30,720 Bytes， 2013/5/28 16:43:58, [A] 版本 0.0.0.0
+  [*]"setupapi.ev3" 51,200 Bytes， 2013/5/28 17:10:14, [A] 版本 0.0.0.0
+  [%]"wdmaudio.PNF" 13,004 Bytes， 2009/7/14 12:38:24, [A] 版本 0.0.0.0
+  [*]"wdmaudio.PNF" 13,044 Bytes， 2013/5/28 17:04:54, [A] 版本 0.0.0.0
+[+][C:\Windows\Installer\{B9FB223A-4514-41FC-88A9-9CD014E375DA}\]
+  [+]"ProductIcon" 25,214 Bytes， 2013/5/28 17:06:14, [AR] 版本 0.0.0.0
+[#][C:\Windows\Installer\]
+  [+]"fb8e6.msi" 45,632,512 Bytes， 2013/5/15 8:38:16, [A] 版本 0.0.0.0
+  [+]"wix{B9FB223A-4514-41FC-88A9-9CD014E375DA}.SchedServiceConfig.rmi" 0 Bytes， 2013/5/28 17:06:18, [A] 版本 0.0.0.0
+[#][C:\Windows\Logs\CBS\]
+  [%]"CBS.log" 81,307 Bytes， 2013/5/28 16:46:40, [A] 版本 0.0.0.0
+  [*]"CBS.log" 346,527 Bytes， 2013/5/28 17:11:36, [A] 版本 0.0.0.0
+[#][C:\Windows\Panther\UnattendGC\]
+  [%]"diagerr.xml" 7,934 Bytes， 2013/5/28 16:07:50, [A] 版本 0.0.0.0
+  [*]"diagerr.xml" 9,839 Bytes， 2013/5/28 17:03:10, [A] 版本 0.0.0.0
+  [%]"diagwrn.xml" 7,947 Bytes， 2013/5/28 16:07:50, [A] 版本 0.0.0.0
+  [*]"diagwrn.xml" 9,852 Bytes， 2013/5/28 17:03:10, [A] 版本 0.0.0.0
+  [%]"setupact.log" 31,136 Bytes， 2013/5/28 16:07:50, [A] 版本 0.0.0.0
+  [*]"setupact.log" 31,490 Bytes， 2013/5/28 17:03:10, [A] 版本 0.0.0.0
+[#][C:\Windows\Prefetch\ReadyBoot\]
+  [+]"Trace4.fx" 1,940,253 Bytes， 2013/5/28 17:11:50, [A] 版本 0.0.0.0
+[#][C:\Windows\Prefetch\]
+  [%]"AgGlFaultHistory.db" 194,735 Bytes， 2013/5/28 16:46:40, [A] 版本 0.0.0.0
+  [*]"AgGlFaultHistory.db" 547,619 Bytes， 2013/5/28 17:08:08, [A] 版本 0.0.0.0
+  [%]"AgGlFgAppHistory.db" 100,422 Bytes， 2013/5/28 16:46:40, [A] 版本 0.0.0.0
+  [*]"AgGlFgAppHistory.db" 800,735 Bytes， 2013/5/28 17:08:08, [A] 版本 0.0.0.0
+  [%]"AgGlGlobalHistory.db" 780,915 Bytes， 2013/5/28 16:46:40, [A] 版本 0.0.0.0
+  [*]"AgGlGlobalHistory.db" 1,576,435 Bytes， 2013/5/28 17:08:08, [A] 版本 0.0.0.0
+  [%]"AgRobust.db" 433,344 Bytes， 2013/5/28 16:46:38, [A] 版本 0.0.0.0
+  [*]"AgRobust.db" 706,364 Bytes， 2013/5/28 17:08:08, [A] 版本 0.0.0.0
+  [+]"CDFSVC.EXE-3FF8C7D8.pf" 15,690 Bytes， 2013/5/28 17:06:30, [A] 版本 0.0.0.0
+  [+]"CITRIXUSB.EXE-960F3030.pf" 78,258 Bytes， 2013/5/28 17:10:16, [A] 版本 0.0.0.0
+  [%]"CONHOST.EXE-1F3E9D7E.pf" 15,376 Bytes， 2013/5/28 16:58:04, [A] 版本 0.0.0.0
+  [*]"CONHOST.EXE-1F3E9D7E.pf" 19,310 Bytes， 2013/5/28 17:12:52, [A] 版本 0.0.0.0
+  [+]"CPSVC.EXE-22D7026A.pf" 27,982 Bytes， 2013/5/28 17:10:16, [A] 版本 0.0.0.0
+  [+]"CTXSENSLOADER.EXE-0406B1D2.pf" 12,440 Bytes， 2013/5/28 17:10:36, [A] 版本 0.0.0.0
+  [+]"DINOTIFY.EXE-35A869D6.pf" 16,824 Bytes， 2013/5/28 17:05:18, [A] 版本 0.0.0.0
+  [%]"DLLHOST.EXE-5E46FA0D.pf" 61,568 Bytes， 2013/5/28 16:59:10, [A] 版本 0.0.0.0
+  [*]"DLLHOST.EXE-5E46FA0D.pf" 62,038 Bytes， 2013/5/28 17:05:22, [A] 版本 0.0.0.0
+  [%]"DLLHOST.EXE-766398D2.pf" 52,258 Bytes， 2013/5/28 16:53:30, [A] 版本 0.0.0.0
+  [*]"DLLHOST.EXE-766398D2.pf" 64,096 Bytes， 2013/5/28 17:10:16, [A] 版本 0.0.0.0
+  [%]"DRVINST.EXE-4CB4314A.pf" 44,632 Bytes， 2013/5/28 16:41:24, [A] 版本 0.0.0.0
+  [*]"DRVINST.EXE-4CB4314A.pf" 81,476 Bytes， 2013/5/28 17:10:16, [A] 版本 0.0.0.0
+  [%]"DWM.EXE-6FFD3DA8.pf" 16,560 Bytes， 2013/5/28 16:53:40, [A] 版本 0.0.0.0
+  [*]"DWM.EXE-6FFD3DA8.pf" 24,682 Bytes， 2013/5/28 17:10:22, [A] 版本 0.0.0.0
+  [%]"EXPLORER.EXE-A80E4F97.pf" 67,688 Bytes， 2013/5/28 16:54:00, [A] 版本 0.0.0.0
+  [*]"EXPLORER.EXE-A80E4F97.pf" 83,288 Bytes， 2013/5/28 17:10:24, [A] 版本 0.0.0.0
+  [+]"GPSCRIPT.EXE-CCD32D94.pf" 13,294 Bytes， 2013/5/28 17:10:20, [A] 版本 0.0.0.0
+  [+]"GRPCONV.EXE-B823222B.pf" 10,872 Bytes， 2013/5/28 17:05:22, [A] 版本 0.0.0.0
+  [+]"INSTALLUTIL.EXE-4B9F3C61.pf" 63,460 Bytes， 2013/5/28 17:06:14, [A] 版本 0.0.0.0
+  [%]"LOGONUI.EXE-09140401.pf" 104,362 Bytes， 2013/5/28 16:52:50, [A] 版本 0.0.0.0
+  [*]"LOGONUI.EXE-09140401.pf" 115,766 Bytes， 2013/5/28 17:08:04, [A] 版本 0.0.0.0
+  [%]"MCTRAY.EXE-74922B42.pf" 48,686 Bytes， 2013/5/28 16:54:06, [A] 版本 0.0.0.0
+  [*]"MCTRAY.EXE-74922B42.pf" 55,418 Bytes， 2013/5/28 17:10:52, [A] 版本 0.0.0.0
+  [%]"MSCORSVW.EXE-C3C515BD.pf" 11,390 Bytes， 2013/5/28 16:50:38, [A] 版本 0.0.0.0
+  [*]"MSCORSVW.EXE-C3C515BD.pf" 16,010 Bytes， 2013/5/28 17:12:06, [A] 版本 0.0.0.0
+  [%]"MSIEXEC.EXE-A2D55CB6.pf" 46,218 Bytes， 2013/5/28 16:09:28, [A] 版本 0.0.0.0
+  [*]"MSIEXEC.EXE-A2D55CB6.pf" 78,026 Bytes， 2013/5/28 17:04:38, [A] 版本 0.0.0.0
+  [%]"PfSvPerfStats.bin" 508 Bytes， 2013/5/28 16:46:38, [A] 版本 0.0.0.0
+  [*]"PfSvPerfStats.bin" 508 Bytes， 2013/5/28 17:08:08, [A] 版本 0.0.0.0
+  [+]"PICASVC.EXE-0C601C6C.pf" 70,656 Bytes， 2013/5/28 17:07:10, [A] 版本 0.0.0.0
+  [+]"PICATZRESTORE.EXE-B6394272.pf" 18,126 Bytes， 2013/5/28 17:10:38, [A] 版本 0.0.0.0
+  [+]"PRINTISOLATIONHOST.EXE-E0CD10A9.pf" 24,754 Bytes， 2013/5/28 17:07:10, [A] 版本 0.0.0.0
+  [%]"REGSVR32.EXE-8461DBEE.pf" 62,340 Bytes， 2013/5/28 16:53:40, [A] 版本 0.0.0.0
+  [*]"REGSVR32.EXE-8461DBEE.pf" 69,522 Bytes， 2013/5/28 17:05:50, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-34F102B3.pf" 53,532 Bytes， 2013/5/28 17:06:48, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-5CC57DF5.pf" 41,534 Bytes， 2013/5/28 17:05:04, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-5F62B333.pf" 40,194 Bytes， 2013/5/28 17:05:32, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-9A87D562.pf" 38,954 Bytes， 2013/5/28 17:05:40, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-A1968CC3.pf" 97,780 Bytes， 2013/5/28 17:05:18, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-AE12ADE2.pf" 46,808 Bytes， 2013/5/28 17:06:50, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-D4AD71E5.pf" 174,768 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+  [+]"RUNDLL32.EXE-DE9673F9.pf" 13,776 Bytes， 2013/5/28 17:04:28, [A] 版本 0.0.0.0
+  [%]"RUNONCE.EXE-D0649312.pf" 26,498 Bytes， 2013/5/28 16:08:12, [A] 版本 0.0.0.0
+  [*]"RUNONCE.EXE-D0649312.pf" 24,092 Bytes， 2013/5/28 17:05:22, [A] 版本 0.0.0.0
+  [%]"SEARCHFILTERHOST.EXE-77482212.pf" 15,086 Bytes， 2013/5/28 16:58:30, [A] 版本 0.0.0.0
+  [*]"SEARCHFILTERHOST.EXE-77482212.pf" 19,030 Bytes， 2013/5/28 17:11:10, [A] 版本 0.0.0.0
+  [%]"SEARCHINDEXER.EXE-4A6353B9.pf" 65,352 Bytes， 2013/5/28 16:50:36, [A] 版本 0.0.0.0
+  [*]"SEARCHINDEXER.EXE-4A6353B9.pf" 67,784 Bytes， 2013/5/28 17:11:00, [A] 版本 0.0.0.0
+  [%]"SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf" 11,448 Bytes， 2013/5/28 16:58:26, [A] 版本 0.0.0.0
+  [*]"SEARCHPROTOCOLHOST.EXE-0CB8CADE.pf" 17,610 Bytes， 2013/5/28 17:11:08, [A] 版本 0.0.0.0
+  [%]"SHSTAT.EXE-8DE3E23D.pf" 27,376 Bytes， 2013/5/28 16:53:58, [A] 版本 0.0.0.0
+  [*]"SHSTAT.EXE-8DE3E23D.pf" 30,628 Bytes， 2013/5/28 17:10:44, [A] 版本 0.0.0.0
+  [+]"SPOOLSV.EXE-D1F6B8B6.pf" 12,942 Bytes， 2013/5/28 17:06:32, [A] 版本 0.0.0.0
+  [%]"SPPSVC.EXE-B0F8131B.pf" 32,072 Bytes， 2013/5/28 16:50:54, [A] 版本 0.0.0.0
+  [*]"SPPSVC.EXE-B0F8131B.pf" 32,072 Bytes， 2013/5/28 17:12:30, [A] 版本 0.0.0.0
+  [%]"SVCHOST.EXE-007FEA55.pf" 22,708 Bytes， 2013/5/28 16:50:48, [A] 版本 0.0.0.0
+  [*]"SVCHOST.EXE-007FEA55.pf" 26,664 Bytes， 2013/5/28 17:12:16, [A] 版本 0.0.0.0
+  [+]"SVCHOST.EXE-05F624AB.pf" 18,048 Bytes， 2013/5/28 17:10:20, [A] 版本 0.0.0.0
+  [%]"SVCHOST.EXE-7CFEDEA3.pf" 16,316 Bytes， 2013/5/28 16:22:08, [A] 版本 0.0.0.0
+  [*]"SVCHOST.EXE-7CFEDEA3.pf" 16,352 Bytes， 2013/5/28 17:04:14, [A] 版本 0.0.0.0
+  [+]"TASKENG.EXE-48D4E289.pf" 16,190 Bytes， 2013/5/28 17:03:16, [A] 版本 0.0.0.0
+  [%]"TASKHOST.EXE-7238F31D.pf" 49,744 Bytes， 2013/5/28 16:53:40, [A] 版本 0.0.0.0
+  [*]"TASKHOST.EXE-7238F31D.pf" 52,774 Bytes， 2013/5/28 17:10:20, [A] 版本 0.0.0.0
+  [%]"TRUSTEDINSTALLER.EXE-3CC531E5.pf" 51,286 Bytes， 2013/5/28 16:50:38, [A] 版本 0.0.0.0
+  [*]"TRUSTEDINSTALLER.EXE-3CC531E5.pf" 126,178 Bytes， 2013/5/28 17:11:14, [A] 版本 0.0.0.0
+  [%]"UDATERUI.EXE-2E8388B1.pf" 39,622 Bytes， 2013/5/28 16:54:04, [A] 版本 0.0.0.0
+  [*]"UDATERUI.EXE-2E8388B1.pf" 46,140 Bytes， 2013/5/28 17:10:46, [A] 版本 0.0.0.0
+  [%]"UIWATCHER.EXE-2934F6CF.pf" 57,200 Bytes， 2013/5/28 16:59:24, [A] 版本 0.0.0.0
+  [*]"UIWATCHER.EXE-2934F6CF.pf" 61,802 Bytes， 2013/5/28 17:10:54, [A] 版本 0.0.0.0
+  [%]"UNINSTALLER.EXE-B6FE99D0.pf" 87,036 Bytes， 2013/5/28 16:58:36, [A] 版本 0.0.0.0
+  [*]"UNINSTALLER.EXE-B6FE99D0.pf" 93,456 Bytes， 2013/5/28 17:11:30, [A] 版本 0.0.0.0
+  [%]"USERINIT.EXE-2257A3E7.pf" 12,800 Bytes， 2013/5/28 16:53:40, [A] 版本 0.0.0.0
+  [*]"USERINIT.EXE-2257A3E7.pf" 26,336 Bytes， 2013/5/28 17:10:20, [A] 版本 0.0.0.0
+  [+]"VDAREDIRECTOR.EXE-C2775CB5.pf" 11,340 Bytes， 2013/5/28 17:05:48, [A] 版本 0.0.0.0
+  [%]"VSSVC.EXE-B8AFC319.pf" 29,858 Bytes， 2013/5/28 16:22:08, [A] 版本 0.0.0.0
+  [*]"VSSVC.EXE-B8AFC319.pf" 29,858 Bytes， 2013/5/28 17:04:12, [A] 版本 0.0.0.0
+  [+]"WELCOMESCREEN.EXE-558A1C73.pf" 30,302 Bytes， 2013/5/28 17:10:54, [A] 版本 0.0.0.0
+  [%]"WERMGR.EXE-0F2AC88C.pf" 10,788 Bytes， 2013/5/28 16:21:08, [A] 版本 0.0.0.0
+  [*]"WERMGR.EXE-0F2AC88C.pf" 15,192 Bytes， 2013/5/28 17:06:30, [A] 版本 0.0.0.0
+  [+]"WEVTUTIL.EXE-EF5861C4.pf" 23,186 Bytes， 2013/5/28 17:06:32, [A] 版本 0.0.0.0
+  [%]"WMIADAP.EXE-F8DFDFA2.pf" 16,374 Bytes， 2013/5/28 16:52:30, [A] 版本 0.0.0.0
+  [*]"WMIADAP.EXE-F8DFDFA2.pf" 20,996 Bytes， 2013/5/28 17:13:34, [A] 版本 0.0.0.0
+  [%]"WMIPRVSE.EXE-1628051C.pf" 34,288 Bytes， 2013/5/28 16:56:02, [A] 版本 0.0.0.0
+  [*]"WMIPRVSE.EXE-1628051C.pf" 38,676 Bytes， 2013/5/28 17:11:32, [A] 版本 0.0.0.0
+  [+]"WORKSTATIONAGENT.EXE-7B14E7D5.pf" 123,232 Bytes， 2013/5/28 17:10:16, [A] 版本 0.0.0.0
+  [%]"WSCAVEXE.EXE-BD92AFE0.pf" 15,388 Bytes， 2013/5/28 16:52:52, [A] 版本 0.0.0.0
+  [*]"WSCAVEXE.EXE-BD92AFE0.pf" 19,402 Bytes， 2013/5/28 17:12:52, [A] 版本 0.0.0.0
+  [%]"WUAUCLT.EXE-70318591.pf" 96,038 Bytes， 2013/5/28 16:54:10, [A] 版本 0.0.0.0
+  [*]"WUAUCLT.EXE-70318591.pf" 46,140 Bytes， 2013/5/28 17:10:44, [A] 版本 0.0.0.0
+[#][C:\Windows\security\database\]
+  [%]"edb.log" 1,048,576 Bytes， 2013/5/28 16:54:46, [A] 版本 0.0.0.0
+  [*]"edb.log" 1,048,576 Bytes， 2013/5/28 17:04:56, [A] 版本 0.0.0.0
+  [%]"secedit.sdb" 1,056,768 Bytes， 2013/5/28 16:48:46, [A] 版本 0.0.0.0
+  [*]"secedit.sdb" 1,056,768 Bytes， 2013/5/28 17:04:56, [A] 版本 0.0.0.0
+  [+]"tmp.edb" 1,056,768 Bytes， 2013/5/28 17:04:56, [A] 版本 0.0.0.0
+[#][C:\Windows\security\logs\]
+  [%]"scecomp.old" 10,022 Bytes， 2010/11/21 5:41:14, [A] 版本 0.0.0.0
+  [*]"scecomp.old" 14,018 Bytes， 2013/5/28 17:04:56, [A] 版本 0.0.0.0
+[#][C:\Windows\ServiceProfiles\LocalService\AppData\Local\]
+  [+]"FontCache-S-1-5-21-2996815244-2368830885-3231136963-1109-12288.dat" 230,256 Bytes， 2013/5/28 17:07:56, [A] 版本 0.0.0.0
+  [%]"FontCache-System.dat" 229,488 Bytes， 2013/5/28 16:46:38, [A] 版本 0.0.0.0
+  [*]"FontCache-System.dat" 229,488 Bytes， 2013/5/28 17:07:56, [A] 版本 0.0.0.0
+  [%]"lastalive0.dat" 2,048 Bytes， 2013/5/28 16:47:56, [ASH] 版本 0.0.0.0
+  [*]"lastalive0.dat" 2,048 Bytes， 2013/5/28 17:09:10, [ASH] 版本 0.0.0.0
+  [%]"lastalive1.dat" 2,048 Bytes， 2013/5/28 16:47:56, [ASH] 版本 0.0.0.0
+  [*]"lastalive1.dat" 2,048 Bytes， 2013/5/28 17:09:10, [ASH] 版本 0.0.0.0
+[#][C:\Windows\ServiceProfiles\LocalService\]
+  [%]"NTUSER.DAT" 262,144 Bytes， 2013/5/28 16:57:46, [ASH] 版本 0.0.0.0
+  [*]"NTUSER.DAT" 262,144 Bytes， 2013/5/28 17:08:06, [ASH] 版本 0.0.0.0
+  [%]"NTUSER.DAT.LOG1" 226,304 Bytes， 2013/5/28 16:57:46, [AH] 版本 0.0.0.0
+  [*]"NTUSER.DAT.LOG1" 226,304 Bytes， 2013/5/28 17:08:06, [AH] 版本 0.0.0.0
+[+][C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\SchCache\]
+  [+]"test.com.sch" 501,794 Bytes， 2013/5/28 17:10:02, [A] 版本 0.0.0.0
+[#][C:\Windows\ServiceProfiles\NetworkService\]
+  [%]"NTUSER.DAT" 262,144 Bytes， 2013/5/28 16:57:36, [ASH] 版本 0.0.0.0
+  [*]"NTUSER.DAT" 262,144 Bytes， 2013/5/28 17:08:06, [ASH] 版本 0.0.0.0
+  [%]"NTUSER.DAT.LOG1" 226,304 Bytes， 2013/5/28 16:57:36, [AH] 版本 0.0.0.0
+  [*]"NTUSER.DAT.LOG1" 226,304 Bytes， 2013/5/28 17:08:06, [AH] 版本 0.0.0.0
+[#][C:\Windows\SoftwareDistribution\DataStore\Logs\]
+  [%]"edb.chk" 8,192 Bytes， 2013/5/28 16:46:36, [A] 版本 0.0.0.0
+  [*]"edb.chk" 8,192 Bytes， 2013/5/28 17:07:54, [A] 版本 0.0.0.0
+  [%]"edb.log" 1,310,720 Bytes， 2013/5/28 16:50:20, [A] 版本 0.0.0.0
+  [*]"edb.log" 1,310,720 Bytes， 2013/5/28 17:10:44, [A] 版本 0.0.0.0
+  [%]"tmp.edb" 524,288 Bytes， 2013/5/28 16:50:20, [A] 版本 0.0.0.0
+  [*]"tmp.edb" 524,288 Bytes， 2013/5/28 17:10:44, [A] 版本 0.0.0.0
+[#][C:\Windows\SoftwareDistribution\DataStore\]
+  [%]"DataStore.edb" 92,340,224 Bytes， 2013/5/28 16:50:20, [A] 版本 0.0.0.0
+  [*]"DataStore.edb" 92,340,224 Bytes， 2013/5/28 17:10:46, [A] 版本 0.0.0.0
+[#][C:\Windows\SoftwareDistribution\EventCache\]
+  [+]"{2D99DE8A-3DE7-499C-B6FD-84C8ED5F1826}.bin" 8 Bytes， 2013/5/28 17:07:54, [A] 版本 0.0.0.0
+[#][C:\Windows\SoftwareDistribution\]
+  [%]"ReportingEvents.log" 1,686 Bytes， 2013/5/28 16:45:16, [A] 版本 0.0.0.0
+  [*]"ReportingEvents.log" 4,574 Bytes， 2013/5/28 17:11:36, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\catroot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\]
+  [+]"oem2.CAT" 7,440 Bytes， 2013/2/7 11:44:02, [S] 版本 0.0.0.0
+  [+]"oem3.CAT" 10,480 Bytes， 2013/5/15 4:29:38, [S] 版本 0.0.0.0
+  [+]"oem4.CAT" 8,557 Bytes， 2013/2/7 11:44:08, [S] 版本 0.0.0.0
+  [+]"oem5.CAT" 10,465 Bytes， 2013/5/15 3:41:46, [S] 版本 0.0.0.0
+  [+]"oem6.CAT" 10,256 Bytes， 2013/5/15 1:31:58, [S] 版本 0.0.0.0
+  [+]"oem7.CAT" 7,420 Bytes， 2011/3/1 15:24:36, [S] 版本 0.0.0.0
+[#][C:\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\]
+  [%]"catdb" 1,056,768 Bytes， 2013/5/28 16:49:10, [A] 版本 0.0.0.0
+  [*]"catdb" 1,056,768 Bytes， 2013/5/28 17:10:14, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\]
+  [%]"catdb" 21,766,144 Bytes， 2013/5/28 16:49:10, [A] 版本 0.0.0.0
+  [*]"catdb" 21,766,144 Bytes， 2013/5/28 17:10:14, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\catroot2\]
+  [%]"dberr.txt" 42,491 Bytes， 2013/5/28 16:41:28, [A] 版本 0.0.0.0
+  [*]"dberr.txt" 43,277 Bytes， 2013/5/28 17:06:20, [A] 版本 0.0.0.0
+  [%]"edb.chk" 8,192 Bytes， 2013/5/28 16:46:38, [A] 版本 0.0.0.0
+  [*]"edb.chk" 8,192 Bytes， 2013/5/28 17:08:02, [A] 版本 0.0.0.0
+  [%]"edb.log" 65,536 Bytes， 2013/5/28 16:49:10, [A] 版本 0.0.0.0
+  [*]"edb.log" 65,536 Bytes， 2013/5/28 17:10:14, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\config\systemprofile\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\]
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_4FB9782A50C4A4D4E1561920B85AC39F" 1,847 Bytes， 2013/5/28 17:06:10, [AS] 版本 0.0.0.0
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_B5B5C7194931018E4B8E5A0E31CBA224" 1,847 Bytes， 2013/5/28 17:06:04, [AS] 版本 0.0.0.0
+  [-]"7B8944BA8AD0EFDF0E01A43EF62BECD0_DC3D43926DC42088D8E3F96B9ED6BD5A" 1,847 Bytes， 2013/3/1 12:17:32, [AS] 版本 0.0.0.0
+  [%]"7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6" 1,891 Bytes， 2013/3/1 12:17:30, [AS] 版本 0.0.0.0
+  [*]"7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6" 1,891 Bytes， 2013/5/28 17:05:58, [AS] 版本 0.0.0.0
+  [-]"D47DBD2F9E3365FBBE008D71FB06716F_D33192D58AA9CA2B9097E848E9FE86DE" 1,582 Bytes， 2013/3/1 12:17:30, [AS] 版本 0.0.0.0
+[#][C:\Windows\System32\config\systemprofile\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\]
+  [%]"57C8EDB95DF3F0AD4EE2DC2B8CFD4157" 338 Bytes， 2013/3/1 0:32:38, [AS] 版本 0.0.0.0
+  [*]"57C8EDB95DF3F0AD4EE2DC2B8CFD4157" 338 Bytes， 2013/5/28 17:06:04, [AS] 版本 0.0.0.0
+  [%]"77EC63BDA74BD0D0E0426DC8F8008506" 290 Bytes， 2013/3/1 12:17:32, [AS] 版本 0.0.0.0
+  [*]"77EC63BDA74BD0D0E0426DC8F8008506" 290 Bytes， 2013/5/28 17:06:04, [AS] 版本 0.0.0.0
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_4FB9782A50C4A4D4E1561920B85AC39F" 404 Bytes， 2013/5/28 17:06:34, [AS] 版本 0.0.0.0
+  [+]"7B8944BA8AD0EFDF0E01A43EF62BECD0_B5B5C7194931018E4B8E5A0E31CBA224" 404 Bytes， 2013/5/28 17:06:34, [AS] 版本 0.0.0.0
+  [-]"7B8944BA8AD0EFDF0E01A43EF62BECD0_DC3D43926DC42088D8E3F96B9ED6BD5A" 408 Bytes， 2013/3/1 12:18:02, [AS] 版本 0.0.0.0
+  [%]"7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6" 404 Bytes， 2013/3/1 12:18:02, [AS] 版本 0.0.0.0
+  [*]"7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6" 404 Bytes， 2013/5/28 17:06:34, [AS] 版本 0.0.0.0
+  [-]"D47DBD2F9E3365FBBE008D71FB06716F_D33192D58AA9CA2B9097E848E9FE86DE" 408 Bytes， 2013/3/1 12:18:02, [AS] 版本 0.0.0.0
+[#][C:\Windows\System32\config\TxR\]
+  [%]"{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.1.regtrans-ms" 5,242,880 Bytes， 2013/5/28 16:46:44, [ASH] 版本 0.0.0.0
+  [*]"{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.1.regtrans-ms" 5,242,880 Bytes， 2013/5/28 17:08:06, [ASH] 版本 0.0.0.0
+  [%]"{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.blf" 65,536 Bytes， 2013/5/28 16:46:44, [ASH] 版本 0.0.0.0
+  [*]"{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.blf" 65,536 Bytes， 2013/5/28 17:08:06, [ASH] 版本 0.0.0.0
+  [%]"{6cced301-6e01-11de-8bed-001e0bcd1824}.TM.blf" 65,536 Bytes， 2013/5/28 16:46:44, [ASH] 版本 0.0.0.0
+  [*]"{6cced301-6e01-11de-8bed-001e0bcd1824}.TM.blf" 65,536 Bytes， 2013/5/28 17:08:04, [ASH] 版本 0.0.0.0
+  [%]"{6cced301-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms" 524,288 Bytes， 2013/5/28 16:46:44, [ASH] 版本 0.0.0.0
+  [*]"{6cced301-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms" 524,288 Bytes， 2013/5/28 17:08:04, [ASH] 版本 0.0.0.0
+[#][C:\Windows\System32\config\]
+  [%]"COMPONENTS" 30,932,992 Bytes， 2013/5/28 16:58:06, [A] 版本 0.0.0.0
+  [*]"COMPONENTS" 30,932,992 Bytes， 2013/5/28 17:08:06, [A] 版本 0.0.0.0
+  [%]"COMPONENTS.LOG1" 262,144 Bytes， 2013/5/28 16:58:06, [AH] 版本 0.0.0.0
+  [*]"COMPONENTS.LOG1" 262,144 Bytes， 2013/5/28 17:08:06, [AH] 版本 0.0.0.0
+  [%]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.0.regtrans-ms" 0 Bytes， 2013/5/28 16:50:30, [ASH] 版本 0.0.0.0
+  [*]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.0.regtrans-ms" 0 Bytes， 2013/5/28 17:11:10, [ASH] 版本 0.0.0.0
+  [%]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.1.regtrans-ms" 0 Bytes， 2013/5/28 16:50:30, [ASH] 版本 0.0.0.0
+  [*]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.1.regtrans-ms" 1,048,576 Bytes， 2013/5/28 17:11:10, [ASH] 版本 0.0.0.0
+  [%]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.2.regtrans-ms" 0 Bytes， 2013/5/28 16:50:30, [ASH] 版本 0.0.0.0
+  [*]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.2.regtrans-ms" 1,048,576 Bytes， 2013/5/28 17:11:10, [ASH] 版本 0.0.0.0
+  [%]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.blf" 0 Bytes， 2013/5/28 16:50:30, [ASH] 版本 0.0.0.0
+  [*]"COMPONENTS{a04083b7-f27a-11e1-9fd0-aa0aaf15b018}.TxR.blf" 65,536 Bytes， 2013/5/28 17:11:10, [ASH] 版本 0.0.0.0
+  [%]"COMPONENTS{a04083b8-f27a-11e1-9fd0-aa0aaf15b018}.TM.blf" 65,536 Bytes， 2013/5/28 16:19:36, [ASH] 版本 0.0.0.0
+  [*]"COMPONENTS{a04083b8-f27a-11e1-9fd0-aa0aaf15b018}.TM.blf" 65,536 Bytes， 2013/5/28 17:08:04, [ASH] 版本 0.0.0.0
+  [%]"COMPONENTS{a04083b8-f27a-11e1-9fd0-aa0aaf15b018}.TMContainer00000000000000000001.regtrans-ms" 524,288 Bytes， 2013/5/28 16:19:36, [ASH] 版本 0.0.0.0
+  [*]"COMPONENTS{a04083b8-f27a-11e1-9fd0-aa0aaf15b018}.TMContainer00000000000000000001.regtrans-ms" 524,288 Bytes， 2013/5/28 17:08:04, [ASH] 版本 0.0.0.0
+  [%]"DEFAULT" 262,144 Bytes， 2013/5/28 16:57:56, [A] 版本 0.0.0.0
+  [*]"DEFAULT" 262,144 Bytes， 2013/5/28 17:08:06, [A] 版本 0.0.0.0
+  [%]"DEFAULT.LOG1" 218,112 Bytes， 2013/5/28 16:57:56, [AH] 版本 0.0.0.0
+  [*]"DEFAULT.LOG1" 218,112 Bytes， 2013/5/28 17:08:06, [AH] 版本 0.0.0.0
+  [%]"netlogon.ftl" 112 Bytes， 2013/5/28 16:48:38, [A] 版本 0.0.0.0
+  [*]"netlogon.ftl" 112 Bytes， 2013/5/28 17:10:04, [A] 版本 0.0.0.0
+  [%]"SAM" 262,144 Bytes， 2013/5/28 16:52:28, [A] 版本 0.0.0.0
+  [*]"SAM" 262,144 Bytes， 2013/5/28 17:09:58, [A] 版本 0.0.0.0
+  [%]"SAM.LOG1" 21,504 Bytes， 2013/5/28 16:52:28, [AH] 版本 0.0.0.0
+  [*]"SAM.LOG1" 21,504 Bytes， 2013/5/28 17:09:56, [AH] 版本 0.0.0.0
+  [%]"SECURITY" 262,144 Bytes， 2013/5/28 16:57:40, [A] 版本 0.0.0.0
+  [*]"SECURITY" 262,144 Bytes， 2013/5/28 17:08:06, [A] 版本 0.0.0.0
+  [%]"SECURITY.LOG1" 25,600 Bytes， 2013/5/28 16:57:40, [AH] 版本 0.0.0.0
+  [*]"SECURITY.LOG1" 25,600 Bytes， 2013/5/28 17:08:06, [AH] 版本 0.0.0.0
+  [%]"SOFTWARE" 28,835,840 Bytes， 2013/5/28 16:59:54, [A] 版本 0.0.0.0
+  [*]"SOFTWARE" 28,835,840 Bytes， 2013/5/28 17:08:06, [A] 版本 0.0.0.0
+  [%]"SOFTWARE.LOG1" 262,144 Bytes， 2013/5/28 16:59:54, [AH] 版本 0.0.0.0
+  [*]"SOFTWARE.LOG1" 262,144 Bytes， 2013/5/28 17:08:06, [AH] 版本 0.0.0.0
+  [%]"SYSTEM" 9,699,328 Bytes， 2013/5/28 16:58:32, [A] 版本 0.0.0.0
+  [*]"SYSTEM" 10,223,616 Bytes， 2013/5/28 17:11:52, [A] 版本 0.0.0.0
+  [%]"SYSTEM.LOG1" 262,144 Bytes， 2013/5/28 16:58:32, [AH] 版本 0.0.0.0
+  [*]"SYSTEM.LOG1" 262,144 Bytes， 2013/5/28 17:10:16, [AH] 版本 0.0.0.0
+[#][C:\Windows\System32\drivers\]
+  [+]"cdfdrv.sys" 31,280 Bytes， 2011/3/1 15:24:36, [A] 版本 0.0.0.0
+  [+]"ctxad.sys" 101,120 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"ctxsmcdrv.sys" 23,352 Bytes， 2013/5/15 1:27:04, [A] 版本 0.0.0.0
+  [+]"ctxusbb.sys" 99,640 Bytes， 2013/5/15 4:29:40, [A] 版本 0.0.0.0
+  [+]"drmk.sys" 80,896 Bytes， 2009/7/14 8:41:38, [A] 版本 0.0.0.0
+  [+]"drmkaud.sys" 5,120 Bytes， 2009/7/14 7:50:58, [A] 版本 0.0.0.0
+  [+]"icareduc.sys" 24,888 Bytes， 2013/5/15 1:41:44, [A] 版本 0.0.0.0
+  [+]"icatdwsk.sys" 45,368 Bytes， 2013/5/15 1:39:18, [A] 版本 0.0.0.0
+  [+]"Msft_Kernel_ctxusbb_01007.Wdf" 0 Bytes， 2013/5/28 17:05:08, [AH] 版本 0.0.0.0
+  [+]"pdcrypt1.sys" 27,448 Bytes， 2013/5/15 1:34:10, [A] 版本 0.0.0.0
+  [+]"pdcrypt2.sys" 123,704 Bytes， 2013/5/15 1:34:36, [A] 版本 0.0.0.0
+  [+]"pdrframe.sys" 24,376 Bytes， 2013/5/15 1:33:52, [A] 版本 0.0.0.0
+  [+]"picacdd.sys" 15,672 Bytes， 2013/5/15 3:41:48, [A] 版本 0.0.0.0
+  [+]"picadd.sys" 147,256 Bytes， 2013/5/15 1:32:46, [A] 版本 0.0.0.0
+  [+]"picadm.sys" 464,696 Bytes， 2013/5/15 0:59:20, [A] 版本 0.0.0.0
+  [+]"picakbf.sys" 42,296 Bytes， 2013/5/15 1:31:14, [A] 版本 0.0.0.0
+  [+]"picakbm.sys" 54,072 Bytes， 2013/5/15 1:32:00, [A] 版本 0.0.0.0
+  [+]"picamouf.sys" 38,200 Bytes， 2013/5/15 1:31:34, [A] 版本 0.0.0.0
+  [+]"picapar.sys" 174,336 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"picaser.sys" 207,104 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"picaTwComms.sys" 17,208 Bytes， 2013/5/15 3:42:28, [A] 版本 0.0.0.0
+  [+]"picavc.sys" 61,240 Bytes， 2013/5/15 0:57:38, [A] 版本 0.0.0.0
+  [+]"portcls.sys" 177,152 Bytes， 2009/7/14 7:51:04, [A] 版本 0.0.0.0
+  [+]"TdCgp.sys" 326,968 Bytes， 2013/5/15 1:38:38, [A] 版本 0.0.0.0
+  [+]"twexport.sys" 21,304 Bytes， 2013/5/15 3:39:16, [A] 版本 0.0.0.0
+  [+]"vd3dk.sys" 64,768 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"wdica.sys" 396,600 Bytes， 2013/5/15 1:43:24, [A] 版本 0.0.0.0
+[+][C:\Windows\System32\DriverStore\FileRepository\cdfdrv.inf_x86_neutral_9b56ee034256720c\]
+  [+]"cdfdrv.cat" 7,420 Bytes， 2011/3/1 15:24:36, [A] 版本 0.0.0.0
+  [+]"cdfdrv.inf" 1,777 Bytes， 2011/3/1 15:24:36, [A] 版本 0.0.0.0
+  [+]"cdfdrv.PNF" 6,840 Bytes， 2013/5/28 17:06:20, [A] 版本 0.0.0.0
+  [+]"cdfdrv.sys" 31,280 Bytes， 2011/3/1 15:24:36, [A] 版本 0.0.0.0
+[+][C:\Windows\System32\DriverStore\FileRepository\citrixupd.inf_x86_neutral_fb7059ff310cdaff\]
+  [+]"CitrixUpd.cat" 13,140 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"citrixupd.inf" 3,404 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"citrixupd.PNF" 10,096 Bytes， 2013/5/28 17:06:46, [A] 版本 0.0.0.0
+  [+]"CitrixUpd.txt" 50 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixXps.txt" 50 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixXpsDrv-PipelineConFig.xml" 42 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"cpproc.dll" 1,378,216 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"Cpupdrv.dll" 250,072 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"Cpupdui.DLL" 284,584 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"Cpxpsupdui.DLL" 393,432 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"cupdres_de.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_en.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_es.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_fr.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_ja.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_zh-CN.dll" 83,896 Bytes， 2013/2/7 11:44:02, [A] 版本 6.3.0.24
+  [+]"DefaultCapabilities.xml" 81,429 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"upprn.dll" 18,856 Bytes， 2013/2/7 11:44:02, [A] 版本 6.3.0.24
+[+][C:\Windows\System32\DriverStore\FileRepository\ctxad.inf_x86_neutral_917844dba1321a3b\]
+  [+]"ctxad.cat" 7,440 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"ctxad.inf" 23,902 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"ctxad.PNF" 61,844 Bytes， 2013/5/28 17:04:54, [A] 版本 0.0.0.0
+  [+]"ctxad.sys" 101,120 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+[+][C:\Windows\System32\DriverStore\FileRepository\ctxusbb.inf_x86_neutral_252451353cbd82eb\]
+  [+]"ctxusbb.cat" 10,480 Bytes， 2013/5/15 4:29:38, [A] 版本 0.0.0.0
+  [+]"ctxusbb.inf" 7,424 Bytes， 2013/5/15 4:29:36, [A] 版本 0.0.0.0
+  [+]"ctxusbb.PNF" 10,560 Bytes， 2013/5/28 17:05:06, [A] 版本 0.0.0.0
+  [+]"ctxusbb.sys" 99,640 Bytes， 2013/5/15 4:29:40, [A] 版本 0.0.0.0
+  [+]"WdfCoInstaller01007.dll" 1,112,288 Bytes， 2012/3/12 13:43:58, [A] 版本 1.7.6001.18000
+[#][C:\Windows\System32\DriverStore\FileRepository\faxca003.inf_x86_neutral_fd10e857c1342eac\]
+  [%]"faxca003.PNF" 11,120 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"faxca003.PNF" 11,120 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\faxcn002.inf_x86_neutral_29a66691dd7a46a5\]
+  [%]"faxcn002.PNF" 4,840 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"faxcn002.PNF" 4,840 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\ksfilter.inf_x86_neutral_92aac3fbbef4a5e4\]
+  [%]"ksfilter.PNF" 18,168 Bytes， 2009/7/14 12:51:30, [A] 版本 0.0.0.0
+  [*]"ksfilter.PNF" 19,476 Bytes， 2013/5/28 17:05:00, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_x86_neutral_88459cb66b0e2d44\]
+  [%]"ntprint.PNF" 12,384 Bytes， 2010/11/21 5:40:50, [A] 版本 0.0.0.0
+  [*]"ntprint.PNF" 12,416 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[+][C:\Windows\System32\DriverStore\FileRepository\picacdd.inf_x86_neutral_3c2d2bdc2ae37c03\]
+  [+]"picacdd.cat" 10,465 Bytes， 2013/5/15 3:41:46, [A] 版本 0.0.0.0
+  [+]"picacdd.inf" 5,296 Bytes， 2013/5/15 3:41:44, [A] 版本 0.0.0.0
+  [+]"picacdd.PNF" 13,068 Bytes， 2013/5/28 17:05:34, [A] 版本 0.0.0.0
+  [+]"picacdd.sys" 15,672 Bytes， 2013/5/15 3:41:48, [A] 版本 0.0.0.0
+  [+]"vdtw30.dll" 673,080 Bytes， 2013/5/15 3:40:36, [A] 版本 6.3.300.8
+[+][C:\Windows\System32\DriverStore\FileRepository\picakbm.inf_x86_neutral_9b685af1e6caf006\]
+  [+]"picakbm.cat" 10,256 Bytes， 2013/5/15 1:31:58, [A] 版本 0.0.0.0
+  [+]"picakbm.inf" 5,187 Bytes， 2013/5/15 1:31:54, [A] 版本 0.0.0.0
+  [+]"picakbm.PNF" 14,088 Bytes， 2013/5/28 17:05:40, [A] 版本 0.0.0.0
+  [+]"picakbm.sys" 54,072 Bytes， 2013/5/15 1:32:00, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr002.inf_x86_neutral_1d14699bf2d4d936\]
+  [%]"prnbr002.PNF" 40,796 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr002.PNF" 40,796 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr003.inf_x86_neutral_21c4516754f2bda5\]
+  [%]"prnbr003.PNF" 13,460 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr003.PNF" 13,492 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr004.inf_x86_neutral_a976dec554a0be13\]
+  [%]"prnbr004.PNF" 10,216 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr004.PNF" 10,216 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr005.inf_x86_neutral_407befecac90c7f1\]
+  [%]"prnbr005.PNF" 20,788 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr005.PNF" 20,788 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr006.inf_x86_neutral_331a0c6df1c9d3e1\]
+  [%]"prnbr006.PNF" 20,316 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr006.PNF" 20,316 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr007.inf_x86_neutral_af94d26aafd1ca3a\]
+  [%]"prnbr007.PNF" 13,660 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr007.PNF" 13,660 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr008.inf_x86_neutral_87aae9d395393afd\]
+  [%]"prnbr008.PNF" 7,368 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr008.PNF" 7,368 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr009.inf_x86_neutral_3f6b69c8d1091fd8\]
+  [%]"prnbr009.PNF" 9,144 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr009.PNF" 9,144 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnbr00a.inf_x86_neutral_e9f0919e54780621\]
+  [%]"prnbr00a.PNF" 7,476 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnbr00a.PNF" 7,476 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca003.inf_x86_neutral_f0a023edfd5cd833\]
+  [%]"prnca003.PNF" 18,136 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca003.PNF" 18,136 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00a.inf_x86_neutral_18bf309f5cc01a3a\]
+  [%]"prnca00a.PNF" 16,408 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00a.PNF" 16,408 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00b.inf_x86_neutral_c675b60dd45218c1\]
+  [%]"prnca00b.PNF" 21,944 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00b.PNF" 21,944 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00c.inf_x86_neutral_9339602328d9603b\]
+  [%]"prnca00c.PNF" 18,804 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00c.PNF" 18,804 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00d.inf_x86_neutral_8883e3ab4a33bfbb\]
+  [%]"prnca00d.PNF" 19,896 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00d.PNF" 19,896 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00e.inf_x86_neutral_a70781c21927bfb2\]
+  [%]"prnca00e.PNF" 15,496 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00e.PNF" 15,496 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00f.inf_x86_neutral_b94365c0e502f290\]
+  [%]"prnca00f.PNF" 19,756 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00f.PNF" 19,756 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00g.inf_x86_neutral_b19defbd7969a7c7\]
+  [%]"prnca00g.PNF" 18,756 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00g.PNF" 18,756 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00h.inf_x86_neutral_b859249f26c03a2f\]
+  [%]"prnca00h.PNF" 16,120 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00h.PNF" 16,120 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00i.inf_x86_neutral_ab67935506742738\]
+  [%]"prnca00i.PNF" 18,420 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00i.PNF" 18,420 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00x.inf_x86_neutral_4dacaa756f2a85fc\]
+  [%]"prnca00x.PNF" 19,868 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00x.PNF" 19,868 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00y.inf_x86_neutral_a6e2b48d7bbe4516\]
+  [%]"prnca00y.PNF" 7,012 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00y.PNF" 7,012 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnca00z.inf_x86_neutral_494753193fc9051a\]
+  [%]"prnca00z.PNF" 19,496 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnca00z.PNF" 19,496 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep002.inf_x86_neutral_9111d9b86cbd3f64\]
+  [%]"prnep002.PNF" 6,832 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep002.PNF" 6,832 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep003.inf_x86_neutral_342be98eb74e1449\]
+  [%]"prnep003.PNF" 37,840 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep003.PNF" 37,840 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep004.inf_x86_neutral_25623e649d146f5d\]
+  [%]"prnep004.PNF" 21,040 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep004.PNF" 21,040 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep005.inf_x86_neutral_f4a4a2a89cb57323\]
+  [%]"prnep005.PNF" 5,700 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep005.PNF" 5,700 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00a.inf_x86_neutral_d4494950448771ed\]
+  [%]"prnep00a.PNF" 20,776 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00a.PNF" 20,776 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00b.inf_x86_neutral_d0e9433101a2df79\]
+  [%]"prnep00b.PNF" 35,140 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00b.PNF" 35,140 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00c.inf_x86_neutral_92ff44dcbf1c760c\]
+  [%]"prnep00c.PNF" 18,016 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00c.PNF" 18,016 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00d.inf_x86_neutral_9fef51141804900a\]
+  [%]"prnep00d.PNF" 15,108 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00d.PNF" 15,108 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00e.inf_x86_neutral_2fbbb3b50e96331c\]
+  [%]"prnep00e.PNF" 14,380 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00e.PNF" 14,380 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00f.inf_x86_neutral_07f7a94e565e9af0\]
+  [%]"prnep00f.PNF" 12,032 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00f.PNF" 12,032 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00g.inf_x86_neutral_cb6ac931b3d225af\]
+  [%]"prnep00g.PNF" 12,032 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00g.PNF" 12,032 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep00l.inf_x86_neutral_3323920c1a72a42d\]
+  [%]"prnep00l.PNF" 46,264 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnep00l.PNF" 46,264 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnep654.inf_x86_zh-cn_bd091255c49dc177\]
+  [+]"prnep654.PNF" 14,760 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnfx002.inf_x86_neutral_f83f67e1c22e557b\]
+  [%]"prnfx002.PNF" 12,704 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnfx002.PNF" 12,704 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnge001.inf_x86_neutral_51cbe14e4cdde8c2\]
+  [%]"prnge001.PNF" 8,888 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnge001.PNF" 8,888 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prngt002.inf_x86_neutral_a10ecaa46786286d\]
+  [%]"prngt002.PNF" 33,976 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prngt002.PNF" 33,976 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prngt003.inf_x86_neutral_eeb0fb3ee2847db5\]
+  [%]"prngt003.PNF" 35,028 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prngt003.PNF" 35,028 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prngt004.inf_x86_neutral_f7b569fe96e4f7ae\]
+  [%]"prngt004.PNF" 28,904 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prngt004.PNF" 28,904 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnhp002.inf_x86_neutral_e6daa9c39ac001a3\]
+  [%]"prnhp002.PNF" 96,788 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnhp002.PNF" 96,788 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnhp003.inf_x86_neutral_8685826a5ca37e6b\]
+  [%]"prnhp003.PNF" 115,624 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnhp003.PNF" 115,624 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnhp004.inf_x86_neutral_95288ae6f32f1fe7\]
+  [%]"prnhp004.PNF" 22,128 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnhp004.PNF" 22,128 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnhp005.inf_x86_neutral_9307c57b91a7985e\]
+  [%]"prnhp005.PNF" 32,516 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnhp005.PNF" 32,516 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnin002.inf_x86_neutral_b9fa18a8d63d5294\]
+  [%]"prnin002.PNF" 28,344 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnin002.PNF" 28,344 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnin003.inf_x86_neutral_dca922447801904c\]
+  [%]"prnin003.PNF" 29,160 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnin003.PNF" 29,160 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnin004.inf_x86_neutral_2aba7beb4ab9a9e8\]
+  [%]"prnin004.PNF" 24,208 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnin004.PNF" 24,208 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnkm002.inf_x86_neutral_ded1a36701bddc86\]
+  [%]"prnkm002.PNF" 15,396 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnkm002.PNF" 15,396 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnkm003.inf_x86_neutral_ea465b3729b37f54\]
+  [%]"prnkm003.PNF" 11,824 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnkm003.PNF" 11,824 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnkm004.inf_x86_neutral_b456c14d5367f83c\]
+  [%]"prnkm004.PNF" 7,116 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnkm004.PNF" 7,116 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnkm005.inf_x86_neutral_a2013031e279b6f6\]
+  [%]"prnkm005.PNF" 8,856 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnkm005.PNF" 8,856 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky002.inf_x86_neutral_141ca768bc51ceff\]
+  [%]"prnky002.PNF" 19,232 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky002.PNF" 19,232 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky003.inf_x86_neutral_60797ae48ab1b87f\]
+  [%]"prnky003.PNF" 18,364 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky003.PNF" 18,364 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky004.inf_x86_neutral_dfafbddbf301a9d0\]
+  [%]"prnky004.PNF" 13,300 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky004.PNF" 13,300 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky005.inf_x86_neutral_8a163d363abb7d5a\]
+  [%]"prnky005.PNF" 7,560 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky005.PNF" 7,560 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky006.inf_x86_neutral_141ee497dd7c43c1\]
+  [%]"prnky006.PNF" 12,280 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky006.PNF" 12,280 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky007.inf_x86_neutral_68b0fb35c207d0a0\]
+  [%]"prnky007.PNF" 11,208 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky007.PNF" 11,208 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky008.inf_x86_neutral_212e30a5479d6fcd\]
+  [%]"prnky008.PNF" 14,184 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky008.PNF" 14,184 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnky009.inf_x86_neutral_f01eb3bc43e6f348\]
+  [%]"prnky009.PNF" 12,864 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnky009.PNF" 12,864 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnle002.inf_x86_neutral_e9f41ef23faed72b\]
+  [%]"prnle002.PNF" 35,836 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnle002.PNF" 35,836 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnle003.inf_x86_neutral_a8106f7f3af21d88\]
+  [%]"prnle003.PNF" 36,548 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnle003.PNF" 36,548 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnle004.inf_x86_neutral_60637fb8287b0bdb\]
+  [%]"prnle004.PNF" 30,360 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnle004.PNF" 30,360 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx002.inf_x86_neutral_b460391110491d41\]
+  [%]"prnlx002.PNF" 12,772 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx002.PNF" 12,772 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx003.inf_x86_neutral_336d87d2fe949d82\]
+  [%]"prnlx003.PNF" 14,892 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx003.PNF" 14,892 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx004.inf_x86_neutral_ce7ad6f91a9470d7\]
+  [%]"prnlx004.PNF" 8,020 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx004.PNF" 8,020 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx005.inf_x86_neutral_18db8f40f5f5b950\]
+  [%]"prnlx005.PNF" 11,764 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx005.PNF" 11,764 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx006.inf_x86_neutral_6e4dca7de1f2cbe6\]
+  [%]"prnlx006.PNF" 7,096 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx006.PNF" 7,096 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx007.inf_x86_neutral_6d0bcfb01c9e96a5\]
+  [%]"prnlx007.PNF" 11,188 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx007.PNF" 11,188 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx008.inf_x86_neutral_7777e9ad978d9704\]
+  [%]"prnlx008.PNF" 8,836 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx008.PNF" 8,836 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx009.inf_x86_neutral_b6bfd02f6a69918b\]
+  [%]"prnlx009.PNF" 7,316 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx009.PNF" 7,316 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00a.inf_x86_neutral_0a6bc7f26d808a89\]
+  [%]"prnlx00a.PNF" 7,088 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00a.PNF" 7,088 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00b.inf_x86_neutral_cbb4d358ebfaa1a3\]
+  [%]"prnlx00b.PNF" 11,372 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00b.PNF" 11,372 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00c.inf_x86_neutral_7bc7cec2e7b7c3ed\]
+  [%]"prnlx00c.PNF" 7,596 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00c.PNF" 7,596 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00d.inf_x86_neutral_303d19e2d575a492\]
+  [%]"prnlx00d.PNF" 8,876 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00d.PNF" 8,876 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00e.inf_x86_neutral_ecad95350ea4a9ce\]
+  [%]"prnlx00e.PNF" 7,088 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00e.PNF" 7,088 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00v.inf_x86_neutral_52b9cad0a55731b7\]
+  [%]"prnlx00v.PNF" 5,684 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00v.PNF" 5,684 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00w.inf_x86_neutral_600a5a25c538ae65\]
+  [%]"prnlx00w.PNF" 5,508 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00w.PNF" 5,508 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00x.inf_x86_neutral_4c73c1f7a0f2d2cb\]
+  [%]"prnlx00x.PNF" 5,692 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00x.PNF" 5,692 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00y.inf_x86_neutral_a307e415ad8916dc\]
+  [%]"prnlx00y.PNF" 6,004 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00y.PNF" 6,004 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnlx00z.inf_x86_neutral_fa9c724522edf9cf\]
+  [%]"prnlx00z.PNF" 5,604 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnlx00z.PNF" 5,604 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnms001.inf_x86_neutral_1dd3de102185d5d9\]
+  [%]"prnms001.PNF" 6,288 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnms001.PNF" 6,288 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnms001.inf_x86_neutral_a1ff1bc29207b04f\]
+  [%]"prnms001.PNF" 6,288 Bytes， 2010/11/21 5:40:52, [A] 版本 0.0.0.0
+  [*]"prnms001.PNF" 6,288 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnms002.inf_x86_neutral_baa1493e6380688b\]
+  [%]"prnms002.PNF" 6,344 Bytes， 2010/11/21 5:40:48, [A] 版本 0.0.0.0
+  [*]"prnms002.PNF" 6,344 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnnr002.inf_x86_neutral_b9a1c43c0cb6c940\]
+  [%]"prnnr002.PNF" 31,092 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnnr002.PNF" 31,092 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnnr003.inf_x86_neutral_02802729a95f0eed\]
+  [%]"prnnr003.PNF" 32,716 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnnr003.PNF" 32,716 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnnr004.inf_x86_neutral_15e7dc89d102e928\]
+  [%]"prnnr004.PNF" 26,400 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnnr004.PNF" 26,400 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnod002.inf_x86_neutral_c36a5fe1ac15a734\]
+  [%]"prnod002.PNF" 11,008 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnod002.PNF" 11,008 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnok002.inf_x86_neutral_436ff5d24333cca0\]
+  [%]"prnok002.PNF" 27,620 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnok002.PNF" 27,620 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnok652.inf_x86_zh-cn_4265b643505a147f\]
+  [+]"prnok652.PNF" 13,868 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc002.inf_x86_neutral_3fb2e6c401a9c7d8\]
+  [%]"prnrc002.PNF" 7,368 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc002.PNF" 7,368 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc003.inf_x86_neutral_e9198ff5f961d947\]
+  [%]"prnrc003.PNF" 7,588 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc003.PNF" 7,588 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc004.inf_x86_neutral_7d5665e9e43f678d\]
+  [%]"prnrc004.PNF" 7,092 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc004.PNF" 7,092 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc005.inf_x86_neutral_73b01a2655fdb5c5\]
+  [%]"prnrc005.PNF" 33,948 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc005.PNF" 33,948 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc006.inf_x86_neutral_404ca57b9d9c1e47\]
+  [%]"prnrc006.PNF" 34,644 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc006.PNF" 34,644 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc007.inf_x86_neutral_cfebba21b1c02dd7\]
+  [%]"prnrc007.PNF" 28,360 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc007.PNF" 28,360 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc00a.inf_x86_neutral_7818fe41c7df6d84\]
+  [%]"prnrc00a.PNF" 8,196 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc00a.PNF" 8,196 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc00b.inf_x86_neutral_354df7938905aa3b\]
+  [%]"prnrc00b.PNF" 15,672 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc00b.PNF" 15,672 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnrc00c.inf_x86_neutral_d5646e537534e115\]
+  [%]"prnrc00c.PNF" 6,428 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnrc00c.PNF" 6,428 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnsa002.inf_x86_neutral_db272f9cd17a383f\]
+  [%]"prnsa002.PNF" 32,840 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnsa002.PNF" 32,840 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnsh002.inf_x86_neutral_c41038f4d2ab5958\]
+  [%]"prnsh002.PNF" 22,156 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnsh002.PNF" 22,156 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnso002.inf_x86_neutral_650312518f503b7b\]
+  [%]"prnso002.PNF" 11,036 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnso002.PNF" 11,068 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnsv002.inf_x86_neutral_ee0379dbd4a7194e\]
+  [%]"prnsv002.PNF" 31,368 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnsv002.PNF" 31,368 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnsv003.inf_x86_neutral_2011fa0a7f786266\]
+  [%]"prnsv003.PNF" 33,124 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnsv003.PNF" 33,124 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnsv004.inf_x86_neutral_3ee5a15023f3b3ed\]
+  [%]"prnsv004.PNF" 26,856 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnsv004.PNF" 26,856 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnts002.inf_x86_neutral_8f9e057c9ae8c777\]
+  [%]"prnts002.PNF" 16,884 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnts002.PNF" 16,884 Bytes， 2013/5/28 17:06:56, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnts003.inf_x86_neutral_b5366a7425b89579\]
+  [%]"prnts003.PNF" 15,696 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnts003.PNF" 15,696 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\prnxx002.inf_x86_neutral_385ccd442fb8f3bb\]
+  [%]"prnxx002.PNF" 9,296 Bytes， 2009/7/14 12:42:34, [A] 版本 0.0.0.0
+  [*]"prnxx002.PNF" 9,296 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\tsprint.inf_x86_neutral_c48d421ad2c1e3e3\]
+  [%]"tsprint.PNF" 6,892 Bytes， 2010/11/21 5:40:50, [A] 版本 0.0.0.0
+  [*]"tsprint.PNF" 6,940 Bytes， 2013/5/28 17:06:58, [A] 版本 0.0.0.0
+[+][C:\Windows\System32\DriverStore\FileRepository\vd3d.inf_x86_neutral_4e440acb4c8c20ef\]
+  [+]"vbdfilt.sys" 27,392 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vd3d.cat" 8,557 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vd3d.dll" 692,480 Bytes， 2013/2/7 11:44:08, [A] 版本 6.3.0.38
+  [+]"vd3d.inf" 4,224 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+  [+]"vd3d.PNF" 10,700 Bytes， 2013/5/28 17:05:28, [A] 版本 0.0.0.0
+  [+]"vd3dk.sys" 64,768 Bytes， 2013/2/7 11:44:08, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\FileRepository\wdmaudio.inf_x86_neutral_aed2a4456700dfde\]
+  [%]"wdmaudio.PNF" 12,516 Bytes， 2009/7/14 12:51:26, [A] 版本 0.0.0.0
+  [*]"wdmaudio.PNF" 13,044 Bytes， 2013/5/28 17:05:02, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\DriverStore\]
+  [%]"INFCACHE.1" 1,509,168 Bytes， 2013/5/28 16:41:28, [A] 版本 0.0.0.0
+  [*]"INFCACHE.1" 1,510,480 Bytes， 2013/5/28 17:06:46, [A] 版本 0.0.0.0
+  [%]"infpub.dat" 86,016 Bytes， 2013/5/28 16:41:28, [A] 版本 0.0.0.0
+  [*]"infpub.dat" 86,016 Bytes， 2013/5/28 17:10:16, [A] 版本 0.0.0.0
+  [%]"infstor.dat" 143,360 Bytes， 2013/5/28 16:41:28, [A] 版本 0.0.0.0
+  [*]"infstor.dat" 143,360 Bytes， 2013/5/28 17:06:46, [A] 版本 0.0.0.0
+  [%]"infstrng.dat" 143,360 Bytes， 2013/5/28 16:41:28, [A] 版本 0.0.0.0
+  [*]"infstrng.dat" 143,360 Bytes， 2013/5/28 17:10:16, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\GroupPolicy\]
+  [+]"gpt.ini" 233 Bytes， 2013/5/28 17:09:18, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\LogFiles\Scm\]
+  [%]"731e9c62-95b5-4c8c-ab64-4cc591c9ff5b" 12 Bytes， 2013/5/28 16:49:04, [A] 版本 0.0.0.0
+  [*]"731e9c62-95b5-4c8c-ab64-4cc591c9ff5b" 12 Bytes， 2013/5/28 17:10:36, [A] 版本 0.0.0.0
+  [%]"9b75c702-ea13-406a-badb-6c588ee4375b" 12 Bytes， 2013/5/28 16:48:48, [A] 版本 0.0.0.0
+  [*]"9b75c702-ea13-406a-badb-6c588ee4375b" 12 Bytes， 2013/5/28 17:10:20, [A] 版本 0.0.0.0
+  [%]"a1cfa52f-06f2-418d-addb-cd6456d66f43" 20 Bytes， 2013/5/28 16:43:06, [A] 版本 0.0.0.0
+  [*]"a1cfa52f-06f2-418d-addb-cd6456d66f43" 20 Bytes， 2013/5/28 17:09:20, [A] 版本 0.0.0.0
+  [%]"bba67ad0-4ba0-4b44-827b-ff419b70c057" 12 Bytes， 2013/5/28 16:53:30, [A] 版本 0.0.0.0
+  [*]"bba67ad0-4ba0-4b44-827b-ff419b70c057" 12 Bytes， 2013/5/28 17:10:08, [A] 版本 0.0.0.0
+  [%]"db39098d-0a21-4158-972b-112d104db0dd" 12 Bytes， 2013/5/28 16:53:30, [A] 版本 0.0.0.0
+  [*]"db39098d-0a21-4158-972b-112d104db0dd" 12 Bytes， 2013/5/28 17:10:10, [A] 版本 0.0.0.0
+  [%]"de8699d2-8a05-42f7-8a85-5162af47d26a" 20 Bytes， 2013/5/28 16:43:02, [A] 版本 0.0.0.0
+  [*]"de8699d2-8a05-42f7-8a85-5162af47d26a" 20 Bytes， 2013/5/28 17:09:14, [A] 版本 0.0.0.0
+  [%]"de8bae53-2809-4f75-85ef-427d364b9b2c" 12 Bytes， 2013/5/28 16:53:30, [A] 版本 0.0.0.0
+  [*]"de8bae53-2809-4f75-85ef-427d364b9b2c" 12 Bytes， 2013/5/28 17:10:24, [A] 版本 0.0.0.0
+  [%]"f1369a11-e983-4458-b390-712efa1cba44" 12 Bytes， 2013/5/28 16:53:30, [A] 版本 0.0.0.0
+  [*]"f1369a11-e983-4458-b390-712efa1cba44" 12 Bytes， 2013/5/28 17:10:10, [A] 版本 0.0.0.0
+[+][C:\Windows\System32\resource\de\]
+  [+]"icaperfUI.dll" 12,688 Bytes， 2013/5/15 1:22:40, [A] 版本 6.3.300.8
+[+][C:\Windows\System32\resource\en\]
+  [+]"icaperfUI.dll" 12,688 Bytes， 2013/5/15 1:22:52, [A] 版本 6.3.300.8
+[+][C:\Windows\System32\resource\es\]
+  [+]"icaperfUI.dll" 13,200 Bytes， 2013/5/15 1:23:00, [A] 版本 6.3.300.8
+[+][C:\Windows\System32\resource\fr\]
+  [+]"icaperfUI.dll" 13,200 Bytes， 2013/5/15 1:23:30, [A] 版本 6.3.300.8
+[+][C:\Windows\System32\resource\ja\]
+  [+]"icaperfUI.dll" 11,152 Bytes， 2013/5/15 1:23:54, [A] 版本 6.3.300.8
+[+][C:\Windows\System32\resource\zh-cn\]
+  [+]"icaperfUI.dll" 10,640 Bytes， 2013/5/15 1:24:14, [A] 版本 6.3.300.8
+[+][C:\Windows\System32\resource\]
+[#][C:\Windows\System32\SMI\Store\Machine\]
+  [%]"SCHEMA.DAT.LOG1" 262,144 Bytes， 2013/5/28 16:19:36, [AH] 版本 0.0.0.0
+  [*]"SCHEMA.DAT.LOG1" 262,144 Bytes， 2013/5/28 17:08:06, [AH] 版本 0.0.0.0
+[#][C:\Windows\System32\spool\drivers\w32x86\3\]
+  [+]"CitrixUpd.txt" 50 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixXps.txt" 50 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"CitrixXpsDrv-PipelineConFig.xml" 42 Bytes， 2013/2/7 11:44:00, [A] 版本 0.0.0.0
+  [+]"Cpupdrv.dll" 250,072 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"Cpupdui.dll" 284,584 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"Cpxpsupdui.dll" 393,432 Bytes， 2013/2/7 11:44:00, [A] 版本 0.3.6301.24
+  [+]"cupdres_de.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_en.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_es.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_fr.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_ja.dll" 83,888 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"cupdres_zh-CN.dll" 83,896 Bytes， 2013/2/7 11:44:02, [A] 版本 6.3.0.24
+  [+]"DefaultCapabilities.xml" 81,429 Bytes， 2013/2/7 11:44:02, [A] 版本 0.0.0.0
+  [+]"HPBMIAPI.DLL" 28,160 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBMINI.DLL" 8,704 Bytes， 2009/7/14 9:15:26, [A] 版本 61.53.25.4
+  [+]"HPBOID.DLL" 29,696 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBOIDPS.DLL" 12,288 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBPRO.DLL" 44,032 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBPROPS.DLL" 12,288 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPCDMCLH.DLL" 363,520 Bytes， 2009/7/14 9:15:26, [A] 版本 1.0.2.24
+  [+]"HPEACLHN.HPI" 18,900 Bytes， 2009/6/11 5:31:56, [A] 版本 0.0.0.0
+  [+]"HPMCPD25.CFG" 81,168 Bytes， 2009/6/11 5:32:02, [A] 版本 0.0.0.0
+  [+]"HPMCPD25.PPD" 94,058 Bytes， 2009/6/11 5:32:02, [A] 版本 0.0.0.0
+  [+]"HPMCPDPS.XML" 7,774 Bytes， 2009/6/11 5:32:04, [A] 版本 0.0.0.0
+  [+]"HPZEVWN7.DLL" 367,104 Bytes， 2009/7/14 9:16:00, [A] 版本 0.3.7071.0
+  [+]"HPZFNWN7.NTF" 52,340 Bytes， 2009/6/11 5:32:12, [A] 版本 0.0.0.0
+  [+]"HPZIDR12.DLL" 53,760 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZINW12.DLL" 45,056 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZIPM12.DLL" 54,272 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZIPR12.DLL" 37,888 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZIPT12.DLL" 33,792 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZISN12.DLL" 21,504 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZLSWN7.DLL" 1,511,936 Bytes， 2009/7/14 9:16:00, [A] 版本 0.3.7071.0
+  [+]"HPZSCWN7.DTD" 4,694 Bytes， 2009/6/11 5:32:12, [A] 版本 0.0.0.0
+  [+]"HPZSCWN7.INI" 164 Bytes， 2009/6/11 5:32:12, [A] 版本 0.0.0.0
+  [+]"HPZSRWN7.DLL" 133,632 Bytes， 2009/7/14 9:15:28, [A] 版本 0.3.7071.0
+  [+]"HPZSSWN7.DLL" 562,176 Bytes， 2009/7/14 9:05:46, [A] 版本 0.3.7071.0
+  [+]"HPZSTWN7.DLL" 3,447,808 Bytes， 2009/7/14 9:05:46, [A] 版本 0.3.7071.0
+  [+]"HPZUIWN7.DLL" 2,815,488 Bytes， 2009/7/14 9:16:02, [A] 版本 0.3.7071.0
+  [+]"MSXPSINC.GPD" 73 Bytes， 2009/6/11 5:38:12, [A] 版本 0.0.0.0
+  [+]"PS_SCHM.GDL" 5,561 Bytes， 2009/6/11 5:38:12, [A] 版本 0.0.0.0
+  [+]"PS5UI.DLL" 726,016 Bytes， 2010/11/21 5:29:04, [A] 版本 0.3.7601.17514
+  [+]"PSCRIPT.HLP" 26,038 Bytes， 2009/6/11 5:23:14, [A] 版本 0.0.0.0
+  [+]"PSCRIPT.NTF" 1,060,548 Bytes， 2009/6/11 5:38:52, [A] 版本 0.0.0.0
+  [+]"PSCRIPT5.DLL" 542,720 Bytes， 2010/11/21 5:29:04, [A] 版本 0.3.7601.17514
+  [+]"upprn.dll" 18,856 Bytes， 2013/2/7 11:44:02, [A] 版本 6.3.0.24
+[#][C:\Windows\System32\spool\drivers\w32x86\PCC\]
+  [+]"citrixupd.inf_x86_neutral_fb7059ff310cdaff.cab" 1,548,580 Bytes， 2013/5/28 17:11:08, [A] 版本 0.0.0.0
+  [+]"prnhp002.inf_x86_neutral_e6daa9c39ac001a3.cab" 10,259,996 Bytes， 2013/5/28 17:11:02, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\spool\prtprocs\w32x86\]
+  [+]"cpproc.dll" 1,378,216 Bytes， 2013/2/7 11:44:00, [A] 版本 6.3.0.24
+  [+]"HPZPPWN7.DLL" 90,624 Bytes， 2009/7/14 9:15:28, [A] 版本 0.3.7071.0
+[#][C:\Windows\System32\wbem\AutoRecover\]
+  [+]"F14FE027D97CBFC02757016508D84F3C.mof" 40,804 Bytes， 2013/5/28 17:06:34, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\wbem\Performance\]
+  [%]"WmiApRpl.h" 3,444 Bytes， 2013/5/28 16:53:06, [A] 版本 0.0.0.0
+  [*]"WmiApRpl.h" 3,444 Bytes， 2013/5/28 17:12:12, [A] 版本 0.0.0.0
+  [+]"WmiApRpl_new.ini" 0 Bytes， 2013/5/28 17:12:12, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\wbem\Repository\]
+  [%]"INDEX.BTR" 5,070,848 Bytes， 2013/5/28 16:53:50, [A] 版本 0.0.0.0
+  [*]"INDEX.BTR" 5,070,848 Bytes， 2013/5/28 17:06:50, [A] 版本 0.0.0.0
+  [%]"MAPPING1.MAP" 62,440 Bytes， 2013/5/28 16:52:20, [A] 版本 0.0.0.0
+  [*]"MAPPING1.MAP" 62,440 Bytes， 2013/5/28 17:08:08, [A] 版本 0.0.0.0
+  [%]"MAPPING2.MAP" 62,440 Bytes， 2013/5/28 16:53:22, [A] 版本 0.0.0.0
+  [*]"MAPPING2.MAP" 62,440 Bytes， 2013/5/28 17:06:02, [A] 版本 0.0.0.0
+  [%]"MAPPING3.MAP" 62,440 Bytes， 2013/5/28 16:53:50, [A] 版本 0.0.0.0
+  [*]"MAPPING3.MAP" 62,440 Bytes， 2013/5/28 17:06:20, [A] 版本 0.0.0.0
+  [%]"OBJECTS.DATA" 19,243,008 Bytes， 2013/5/28 16:53:50, [A] 版本 0.0.0.0
+  [*]"OBJECTS.DATA" 19,243,008 Bytes， 2013/5/28 17:06:50, [A] 版本 0.0.0.0
+[+][C:\Windows\System32\wdi\{86432a0b-3c7d-4ddf-a89c-172faa90485d}\{b68c18d2-b204-423c-8521-e48b1c17f4c2}\]
+  [+]"snapshot.etl" 229,376 Bytes， 2013/5/28 17:08:48, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\wdi\{86432a0b-3c7d-4ddf-a89c-172faa90485d}\]
+  [+]"S-1-5-21-2996815244-2368830885-3231136963-1109_UserData.bin" 304 Bytes， 2013/5/28 17:11:42, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\wdi\LogFiles\]
+  [%]"BootCKCL.etl" 6,684,672 Bytes， 2013/5/28 16:51:36, [A] 版本 0.0.0.0
+  [*]"BootCKCL.etl" 7,733,248 Bytes， 2013/5/28 17:11:40, [A] 版本 0.0.0.0
+  [%]"ShutdownCKCL.etl" 1,114,112 Bytes， 2013/5/28 16:46:44, [A] 版本 0.0.0.0
+  [*]"ShutdownCKCL.etl" 1,376,256 Bytes， 2013/5/28 17:08:10, [A] 版本 0.0.0.0
+  [%]"WdiContextLog.etl.001" 229,376 Bytes， 2013/5/28 16:47:42, [] 版本 0.0.0.0
+  [*]"WdiContextLog.etl.001" 442,368 Bytes， 2013/5/28 17:08:08, [A] 版本 0.0.0.0
+  [%]"WdiContextLog.etl.002" 393,216 Bytes， 2013/5/28 16:41:58, [A] 版本 0.0.0.0
+  [*]"WdiContextLog.etl.002" 229,376 Bytes， 2013/5/28 17:08:48, [] 版本 0.0.0.0
+[#][C:\Windows\System32\wdi\]
+  [%]"BootPerformanceDiagnostics_SystemData.bin" 37,144 Bytes， 2013/5/28 16:51:38, [A] 版本 0.0.0.0
+  [*]"BootPerformanceDiagnostics_SystemData.bin" 38,104 Bytes， 2013/5/28 17:11:42, [A] 版本 0.0.0.0
+  [%]"ShutdownPerformanceDiagnostics_SystemData.bin" 15,562 Bytes， 2013/5/28 16:51:38, [A] 版本 0.0.0.0
+  [*]"ShutdownPerformanceDiagnostics_SystemData.bin" 17,448 Bytes， 2013/5/28 17:11:42, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\wfp\]
+  [%]"wfpdiag.etl" 16,384 Bytes， 2013/5/28 16:49:00, [] 版本 0.0.0.0
+  [*]"wfpdiag.etl" 16,384 Bytes， 2013/5/28 17:10:14, [] 版本 0.0.0.0
+[#][C:\Windows\System32\winevt\Logs\]
+  [%]"Application.evtx" 1,118,208 Bytes， 2013/5/28 16:47:56, [A] 版本 0.0.0.0
+  [*]"Application.evtx" 1,118,208 Bytes， 2013/5/28 17:09:10, [A] 版本 0.0.0.0
+  [+]"Citrix-Graphics-Vd3d%4Admin.evtx" 69,632 Bytes， 2013/5/28 17:08:02, [A] 版本 0.0.0.0
+  [+]"Citrix-Multimedia-Audio%4Admin.evtx" 69,632 Bytes， 2013/5/28 17:09:18, [A] 版本 0.0.0.0
+  [+]"Citrix-Multimedia-Flash%4Admin.evtx" 69,632 Bytes， 2013/5/28 17:08:02, [A] 版本 0.0.0.0
+  [+]"Citrix-Multimedia-Rave%4Admin.evtx" 69,632 Bytes， 2013/5/28 17:08:02, [A] 版本 0.0.0.0
+  [+]"Citrix-USB-Service%4Admin.evtx" 69,632 Bytes， 2013/5/28 17:09:48, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-BranchCacheSMB%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 16:48:04, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-BranchCacheSMB%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 17:09:16, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-Diagnosis-DPS%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:48:40, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-Diagnosis-DPS%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:10:06, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-Diagnosis-PCW%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 16:48:00, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-Diagnosis-PCW%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 17:08:02, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-Diagnostics-Performance%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:51:40, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-Diagnostics-Performance%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:11:44, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-GroupPolicy%4Operational.evtx" 1,118,208 Bytes， 2013/5/28 16:48:04, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-GroupPolicy%4Operational.evtx" 1,118,208 Bytes， 2013/5/28 17:09:12, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-Kernel-WHEA%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 16:48:00, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-Kernel-WHEA%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 17:09:10, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-Known Folders API Service.evtx" 1,052,672 Bytes， 2013/5/28 16:50:48, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-Known Folders API Service.evtx" 1,052,672 Bytes， 2013/5/28 17:14:00, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-NetworkProfile%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 16:47:58, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-NetworkProfile%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 17:09:10, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-NlaSvc%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:47:56, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-NlaSvc%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:08:02, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-OfflineFiles%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:48:04, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-OfflineFiles%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:09:12, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-ReadyBoost%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:49:18, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-ReadyBoost%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:11:50, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-RemoteAssistance%4Admin.evtx" 69,632 Bytes， 2013/5/28 16:49:06, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-RemoteAssistance%4Admin.evtx" 69,632 Bytes， 2013/5/28 17:08:02, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-RemoteAssistance%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:49:06, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-RemoteAssistance%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:10:44, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:48:50, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:10:10, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-TaskScheduler%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:48:00, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-TaskScheduler%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:09:16, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:48:00, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:10:10, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx" 69,632 Bytes， 2013/5/28 16:48:40, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx" 69,632 Bytes， 2013/5/28 17:09:34, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-User Profile Service%4Operational.evtx" 1,118,208 Bytes， 2013/5/28 16:48:48, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-User Profile Service%4Operational.evtx" 1,118,208 Bytes， 2013/5/28 17:10:00, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx" 1,052,672 Bytes， 2013/5/28 16:48:12, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx" 1,052,672 Bytes， 2013/5/28 17:09:10, [A] 版本 0.0.0.0
+  [%]"Microsoft-Windows-WindowsUpdateClient%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 16:50:42, [A] 版本 0.0.0.0
+  [*]"Microsoft-Windows-WindowsUpdateClient%4Operational.evtx" 1,052,672 Bytes， 2013/5/28 17:11:36, [A] 版本 0.0.0.0
+  [%]"Security.evtx" 1,118,208 Bytes， 2013/5/28 16:47:58, [A] 版本 0.0.0.0
+  [*]"Security.evtx" 1,118,208 Bytes， 2013/5/28 17:09:10, [A] 版本 0.0.0.0
+  [%]"System.evtx" 1,118,208 Bytes， 2013/5/28 16:47:56, [A] 版本 0.0.0.0
+  [*]"System.evtx" 1,118,208 Bytes， 2013/5/28 17:09:10, [A] 版本 0.0.0.0
+[#][C:\Windows\System32\]
+  [%]"7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0" 17,040 Bytes， 2013/5/28 16:46:38, [AH] 版本 0.0.0.0
+  [*]"7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0" 17,040 Bytes， 2013/5/28 17:08:08, [AH] 版本 0.0.0.0
+  [%]"7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0" 17,040 Bytes， 2013/5/28 16:46:38, [AH] 版本 0.0.0.0
+  [*]"7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0" 17,040 Bytes， 2013/5/28 17:08:08, [AH] 版本 0.0.0.0
+  [+]"HPBMIAPI.DLL" 28,160 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBMINI.DLL" 8,704 Bytes， 2009/7/14 9:15:26, [A] 版本 61.53.25.4
+  [+]"HPBOID.DLL" 29,696 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBOIDPS.DLL" 12,288 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBPRO.DLL" 44,032 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPBPROPS.DLL" 12,288 Bytes， 2009/7/14 9:15:26, [A] 版本 2.1.2.31
+  [+]"HPEACLHN.HPI" 18,900 Bytes， 2009/6/11 5:31:56, [A] 版本 0.0.0.0
+  [+]"HPZIDR12.DLL" 53,760 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZINW12.DLL" 45,056 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZIPM12.DLL" 54,272 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZIPR12.DLL" 37,888 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZIPT12.DLL" 33,792 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"HPZISN12.DLL" 21,504 Bytes， 2009/7/14 9:15:26, [A] 版本 11.1.2.31
+  [+]"icaperf.dll" 72,072 Bytes， 2013/5/15 1:22:02, [A] 版本 6.3.300.8
+  [%]"perfc009.dat" 125,422 Bytes， 2013/5/28 16:55:28, [A] 版本 0.0.0.0
+  [*]"perfc009.dat" 129,374 Bytes， 2013/5/28 17:06:28, [A] 版本 0.0.0.0
+  [%]"perfh009.dat" 673,506 Bytes， 2013/5/28 16:55:28, [A] 版本 0.0.0.0
+  [*]"perfh009.dat" 687,244 Bytes， 2013/5/28 17:06:28, [A] 版本 0.0.0.0
+  [%]"PerfStringBackup.INI" 1,332,062 Bytes， 2013/5/28 16:55:28, [A] 版本 0.0.0.0
+  [*]"PerfStringBackup.INI" 1,348,970 Bytes， 2013/5/28 17:06:28, [A] 版本 0.0.0.0
+  [%]"prfc0804.dat" 123,282 Bytes， 2013/5/28 16:55:28, [A] 版本 0.0.0.0
+  [*]"prfc0804.dat" 125,312 Bytes， 2013/5/28 17:06:28, [A] 版本 0.0.0.0
+  [%]"prfh0804.dat" 403,096 Bytes， 2013/5/28 16:55:28, [A] 版本 0.0.0.0
+  [*]"prfh0804.dat" 407,640 Bytes， 2013/5/28 17:06:28, [A] 版本 0.0.0.0
+  [+]"vd3d.dll" 692,480 Bytes， 2013/2/7 11:44:08, [A] 版本 6.3.0.38
+  [+]"vdtw30.dll" 673,080 Bytes， 2013/5/15 3:40:36, [A] 版本 6.3.300.8
+  [+]"WdfCoInstaller01007.dll" 1,112,288 Bytes， 2012/3/12 13:43:58, [A] 版本 1.7.6001.18000
+[#][C:\Windows\Tasks\]
+  [%]"SA.DAT" 6 Bytes， 2013/5/28 16:48:00, [AH] 版本 0.0.0.0
+  [*]"SA.DAT" 6 Bytes， 2013/5/28 17:09:12, [AH] 版本 0.0.0.0
+  [%]"SCHEDLGU.TXT" 6,526 Bytes， 2009/7/14 12:53:48, [A] 版本 0.0.0.0
+  [*]"SCHEDLGU.TXT" 6,708 Bytes， 2009/7/14 12:53:48, [A] 版本 0.0.0.0
+[#][C:\Windows\winsxs\Catalogs\]
+  [+]"04349a39eef3bd9d4b1de9b5bda2bd6fc4f517ccb57c0ceaeb7291d5b68a401e.cat" 7,340 Bytes， 2013/5/28 17:06:38, [A] 版本 0.0.0.0
+  [+]"57e7a2fa5e0c82a7f80891efc85a5ca825aee4240493c1ae64994dd6c939a036.cat" 10,736 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+  [+]"591b0a2c8842a8e1cf23d0b2aff0746f5a411529e5d047f7554c2e8fae2b86e3.cat" 10,785 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+  [+]"bd3a30be9bfcfbe814a1d495b2692faf9a3a98560d1431cbe60a64af3b69326f.cat" 7,346 Bytes， 2013/5/28 17:06:38, [A] 版本 0.0.0.0
+  [+]"d802b081436da1cc95f13b9d5567a6233bb5f82fae9297e23e967d449e70260d.cat" 7,331 Bytes， 2013/5/28 17:06:38, [A] 版本 0.0.0.0
+  [+]"e62c942dc2188a6da693e2cd8f09f6ea6985fb86092ede5068bb00aa49098147.cat" 10,785 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+  [+]"ef5447e606a2355c0bb9fd9a9af318b45359a7bf6ecebecdd09517e67239c599.cat" 7,318 Bytes， 2013/5/28 17:06:36, [A] 版本 0.0.0.0
+  [+]"fab5445c153b63b7fd386f0a9fb24c85ab6fb8610d0217f17ce6d479a3e287b2.cat" 10,736 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+[#][C:\Windows\winsxs\ManifestCache\]
+  [%]"a786a517e28d5687_blobs.bin" 13,877,220 Bytes， 2013/3/5 17:52:08, [A] 版本 0.0.0.0
+  [*]"a786a517e28d5687_blobs.bin" 13,892,659 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+[#][C:\Windows\winsxs\Manifests\]
+  [+]"x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a.cat" 7,318 Bytes， 2013/5/28 17:06:36, [A] 版本 0.0.0.0
+  [+]"x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a.manifest" 1,870 Bytes， 2013/5/28 17:06:36, [] 版本 0.0.0.0
+  [+]"x86_microsoft.vc80.openmp_1fc8b3b9a1e18e3b_8.0.50727.6195_none_3b1209fdc9ac7774.cat" 7,331 Bytes， 2013/5/28 17:06:38, [A] 版本 0.0.0.0
+  [+]"x86_microsoft.vc80.openmp_1fc8b3b9a1e18e3b_8.0.50727.6195_none_3b1209fdc9ac7774.manifest" 469 Bytes， 2013/5/28 17:06:38, [] 版本 0.0.0.0
+  [+]"x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.1_none_e29d1181971ae11e.cat" 10,736 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+  [+]"x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.1_none_e29d1181971ae11e.manifest" 853 Bytes， 2013/5/28 17:06:40, [] 版本 0.0.0.0
+  [+]"x86_microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.1_none_dcc7eae99ad0d9cf.cat" 10,736 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+  [+]"x86_microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.1_none_dcc7eae99ad0d9cf.manifest" 2,354 Bytes， 2013/5/28 17:06:38, [] 版本 0.0.0.0
+  [+]"x86_policy.8.0.microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_517205a10f4550e3.cat" 7,340 Bytes， 2013/5/28 17:06:38, [A] 版本 0.0.0.0
+  [+]"x86_policy.8.0.microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_517205a10f4550e3.manifest" 804 Bytes， 2013/5/28 17:06:38, [] 版本 0.0.0.0
+  [+]"x86_policy.8.0.microsoft.vc80.openmp_1fc8b3b9a1e18e3b_8.0.50727.6195_none_6b8a9829b015faa3.cat" 7,346 Bytes， 2013/5/28 17:06:38, [A] 版本 0.0.0.0
+  [+]"x86_policy.8.0.microsoft.vc80.openmp_1fc8b3b9a1e18e3b_8.0.50727.6195_none_6b8a9829b015faa3.manifest" 810 Bytes， 2013/5/28 17:06:38, [] 版本 0.0.0.0
+  [+]"x86_policy.9.0.microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.1_none_81c25f21d3d46d84.cat" 10,785 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+  [+]"x86_policy.9.0.microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.1_none_81c25f21d3d46d84.manifest" 752 Bytes， 2013/5/28 17:06:40, [] 版本 0.0.0.0
+  [+]"x86_policy.9.0.microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.1_none_7dd1e0ebd6590e0b.cat" 10,785 Bytes， 2013/5/28 17:06:40, [A] 版本 0.0.0.0
+  [+]"x86_policy.9.0.microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.1_none_7dd1e0ebd6590e0b.manifest" 752 Bytes， 2013/5/28 17:06:40, [] 版本 0.0.0.0
+[+][C:\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a\]
+  [+]"msvcm80.dll" 479,232 Bytes， 2013/5/28 17:06:36, [A] 版本 8.0.50727.6195
+  [+]"msvcp80.dll" 554,832 Bytes， 2013/5/28 17:06:36, [A] 版本 8.0.50727.6195
+  [+]"msvcr80.dll" 632,656 Bytes， 2013/5/28 17:06:36, [A] 版本 8.0.50727.6195
+[+][C:\Windows\winsxs\x86_microsoft.vc80.openmp_1fc8b3b9a1e18e3b_8.0.50727.6195_none_3b1209fdc9ac7774\]
+  [+]"vcomp.dll" 65,536 Bytes， 2013/5/28 17:06:38, [A] 版本 8.0.50727.6195
+[+][C:\Windows\winsxs\x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.1_none_e29d1181971ae11e\]
+  [+]"ATL90.dll" 161,784 Bytes， 2013/5/28 17:06:40, [A] 版本 9.0.30729.1
+[+][C:\Windows\winsxs\x86_microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.1_none_dcc7eae99ad0d9cf\]
+  [+]"mfc90.dll" 3,768,312 Bytes， 2013/5/28 17:06:40, [A] 版本 9.0.30729.1
+  [+]"mfc90u.dll" 3,783,672 Bytes， 2013/5/28 17:06:40, [A] 版本 9.0.30729.1
+  [+]"mfcm90.dll" 59,904 Bytes， 2013/5/28 17:06:38, [A] 版本 9.0.30729.1
+  [+]"mfcm90u.dll" 59,904 Bytes， 2013/5/28 17:06:40, [A] 版本 9.0.30729.1
+[#][C:\Windows\winsxs\x86_microsoft-windows-minkernelapinamespace_31bf3856ad364e35_6.1.7601.17965_none_0c845227da39a5ef\]
+  [%]"api-ms-win-core-console-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-console-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-datetime-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-datetime-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-debug-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-debug-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-delayload-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-delayload-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-errorhandling-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-errorhandling-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-fibers-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-fibers-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-file-l1-1-0.dll" 5,120 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-file-l1-1-0.dll" 5,120 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-handle-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-handle-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-heap-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-heap-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-interlocked-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-interlocked-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-io-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-io-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-libraryloader-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-libraryloader-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-localization-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-localization-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-localregistry-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-localregistry-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-memory-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-memory-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-misc-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-misc-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-namedpipe-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-namedpipe-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-processenvironment-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-processenvironment-l1-1-0.dll" 3,584 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-processthreads-l1-1-0.dll" 4,608 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-processthreads-l1-1-0.dll" 4,608 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-profile-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-profile-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-rtlsupport-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-rtlsupport-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-string-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-string-l1-1-0.dll" 3,072 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-synch-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-synch-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:38, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-sysinfo-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:40, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-sysinfo-l1-1-0.dll" 4,096 Bytes， 2012/10/5 0:40:40, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-threadpool-l1-1-0.dll" 4,608 Bytes， 2012/10/4 22:41:52, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-threadpool-l1-1-0.dll" 4,608 Bytes， 2012/10/4 22:41:52, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-util-l1-1-0.dll" 3,072 Bytes， 2012/10/4 22:41:52, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-util-l1-1-0.dll" 3,072 Bytes， 2012/10/4 22:41:52, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-core-xstate-l1-1-0.dll" 3,584 Bytes， 2012/10/4 22:41:52, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-core-xstate-l1-1-0.dll" 3,584 Bytes， 2012/10/4 22:41:52, [AH] 版本 6.1.7601.17965
+  [%]"api-ms-win-security-base-l1-1-0.dll" 6,144 Bytes， 2012/10/4 22:41:52, [A] 版本 6.1.7601.17965
+  [*]"api-ms-win-security-base-l1-1-0.dll" 6,144 Bytes， 2012/10/4 22:41:52, [AH] 版本 6.1.7601.17965
+[#][C:\Windows\]
+  [%]"bootstat.dat" 67,584 Bytes， 2013/5/28 16:47:56, [AS] 版本 0.0.0.0
+  [*]"bootstat.dat" 67,584 Bytes， 2013/5/28 17:09:00, [AS] 版本 0.0.0.0
+  [%]"PFRO.log" 6,108 Bytes， 2013/3/1 12:31:52, [A] 版本 0.0.0.0
+  [*]"PFRO.log" 6,708 Bytes， 2013/5/28 17:08:46, [A] 版本 0.0.0.0
+  [%]"setupact.log" 22,500 Bytes， 2013/5/28 16:47:56, [A] 版本 0.0.0.0
+  [*]"setupact.log" 24,917 Bytes， 2013/5/28 17:09:10, [A] 版本 0.0.0.0
+  [%]"WindowsUpdate.log" 64,738 Bytes， 2013/5/28 16:54:00, [A] 版本 0.0.0.0
+  [*]"WindowsUpdate.log" 82,426 Bytes， 2013/5/28 17:11:40, [A] 版本 0.0.0.0

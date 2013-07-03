@@ -43,8 +43,8 @@ def main():
 				if match:
 					ashFileName = match.group(1)
 					ashFileVers = match.group(2)
-					if ashFileVers == '0.0.0.0':
-						ashFileVers = 'verDmg'
+					#if ashFileVers == '0.0.0.0':
+						#ashFileVers = 'verDmg'
 					#read every line in the orca file to extract the fileName, fileVersion
 					for orcLine in orcToRead:
 						#for every file, they may have 2 kinds of different name -- inner name or public name
@@ -67,7 +67,7 @@ def main():
 									output.write(ashFileName + ',' + ashFileLoc + ',' + orcFileVers)
 								if ashFileVers == '0.0.0.0' and orcFileVers == '':
 									output.write(ashFileName + ',' + ashFileLoc + ',' + 'NOVERSION' + '\n')
-							break
+						break
 					orcToRead.seek(0)
 
 
@@ -87,8 +87,8 @@ def main():
 				if match:
 					ashFileName = match.group(1)
 					ashFileVers = match.group(2)
-					if ashFileVers == '0.0.0.0':
-						ashFileVers = 'verDmg'
+					#if ashFileVers == '0.0.0.0':
+						#ashFileVers = 'verDmg'
 					#read every line in the orca file to extract the fileName, fileVersion
 					for orcLine in orcToRead:
 						#for every file, they may have 2 kinds of different name -- inner name or public name
@@ -111,7 +111,7 @@ def main():
 									output.write(ashFileName + ',' + ashFileLoc + ',' + orcFileVers)
 								if ashFileVers == '0.0.0.0' and orcFileVers == '':
 									output.write(ashFileName + ',' + ashFileLoc + ',' + 'NOVERSION' + '\n')
-							break
+						break
 					orcToRead.seek(0)
 
 	else:
