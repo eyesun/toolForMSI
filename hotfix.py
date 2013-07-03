@@ -50,9 +50,9 @@ def main():
 						#for every file, they may have 2 kinds of different name -- inner name or public name
 						#here we just need the public name
 						if orcLine.find('|') != -1:##remove the inner fileName in orca file
-							pat = r'([\s\S]+?)\|([\s\S]+?)[\s]+([\d\D]+)'
+							pat = r'([\s\S]+?)\|([\s\S]+?)[\s]+([\d\D]*)'
 						else:
-							pat = r'([\s\S]+?)[\s]+([\s\S]+?)[\s]+([\d\D]+)'
+							pat = r'([\s\S]+?)[\s]+([\s\S]+?)[\s]+([\d\D]*)'
 						match = re.match(pat, orcLine)
 						if match:
 							orcFileName = match.group(2)
@@ -67,7 +67,7 @@ def main():
 									output.write(ashFileName + ',' + ashFileLoc + ',' + orcFileVers)
 								if ashFileVers == '0.0.0.0' and orcFileVers == '':
 									output.write(ashFileName + ',' + ashFileLoc + ',' + 'NOVERSION' + '\n')
-						break
+								break
 					orcToRead.seek(0)
 
 
@@ -94,9 +94,9 @@ def main():
 						#for every file, they may have 2 kinds of different name -- inner name or public name
 						#here we just need the public name
 						if orcLine.find('|') != -1:##remove the inner fileName in orca file
-							pat = r'([\s\S]+?)\|([\s\S]+?)[\s]+([\d\D]+)'
+							pat = r'([\s\S]+?)\|([\s\S]+?)[\s]+([\d\D]*)'
 						else:
-							pat = r'([\s\S]+?)[\s]+([\s\S]+?)[\s]+([\d\D]+)'
+							pat = r'([\s\S]+?)[\s]+([\s\S]+?)[\s]+([\d\D]*)'
 						match = re.match(pat, orcLine)
 						if match:
 							orcFileName = match.group(2)
@@ -111,7 +111,7 @@ def main():
 									output.write(ashFileName + ',' + ashFileLoc + ',' + orcFileVers)
 								if ashFileVers == '0.0.0.0' and orcFileVers == '':
 									output.write(ashFileName + ',' + ashFileLoc + ',' + 'NOVERSION' + '\n')
-						break
+								break
 					orcToRead.seek(0)
 
 	else:
