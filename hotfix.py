@@ -31,6 +31,7 @@ def main():
 	ashFileVers = ''
 	orcFileName = ''
 	orcFileVers = ''
+	pat = ''
 
 	if ashFile == 'freInst.txt':
 		for ashLine in ashmpToRead:
