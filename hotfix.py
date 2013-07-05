@@ -24,14 +24,13 @@ def main():
 	#orcToRead =open(orcaFile, 'r')
 	orcToRead =open('orca.txt', 'r')
 	output = open('hotfix.csv', 'a')
-	extAshLog = open ('HFLog.txt', 'a') 
+	#extAshLog = open ('HFLog.txt', 'a') 
 	#here is some variables we need
 	ashFileName = ''
 	ashFileLoc =''
 	ashFileVers = ''
 	orcFileName = ''
 	orcFileVers = ''
-	pat = ''
 
 	if ashFile == 'freInst.txt':
 		for ashLine in ashmpToRead:
@@ -44,8 +43,6 @@ def main():
 				if match:
 					ashFileName = match.group(1)
 					ashFileVers = match.group(2)
-					#if ashFileVers == '0.0.0.0':
-						#ashFileVers = 'verDmg'
 					#read every line in the orca file to extract the fileName, fileVersion
 					for orcLine in orcToRead:
 						#for every file, they may have 2 kinds of different name -- inner name or public name
@@ -79,20 +76,16 @@ def main():
 				match = re.match(r'\[\#\]\[([\s\S]*)\]', ashLine)
 				if match:
 					ashFileLoc = match.group(1)
-			#if ashLine[2:5] == '[+]':
-				#extAshLog.write(ashFileLoc + ashLine)
-			#if ashLine[2:5] == '[-]':
-				#extAshLog.write(ashFileLoc + ashLine)
 			if ashLine[2:5] == '[*]':
 				pat = r'\s*\[\*\]\"(\S+)\"[\s\S]*(\d+\.\d+\.\d+\.\d+)'
 			elif ashLine[2:5] == '[+]':
 				pat = r'\s*\[\+\]\"(\S+)\"[\s\S]*(\d+\.\d+\.\d+\.\d+)'
+			else:
+				continue
 			match = re.match(pat, ashLine)
 			if match:
 				ashFileName = match.group(1)
 				ashFileVers = match.group(2)
-				#if ashFileVers == '0.0.0.0':
-					#ashFileVers = 'verDmg'
 				#read every line in the orca file to extract the fileName, fileVersion
 				for orcLine in orcToRead:
 					#for every file, they may have 2 kinds of different name -- inner name or public name
@@ -112,18 +105,15 @@ def main():
 								##Actually, here is a bug and hasn't figure out. Because maybe there is 2 files with same name but diffrent
 								##version, the code below just matching the first orca file version and omit the others(It will break when find
 								##the first matching version)
+								##But, the trick is that if there is no 2 files with same name but in different location and hold different version, the bug
+								##is no longer exsit.
 								output.write(ashFileName + ',' + ashFileLoc + ',' + orcFileVers)
 							if ashFileVers == '0.0.0.0' and orcFileVers == '':
 								output.write(ashFileName + ',' + ashFileLoc + ',' + '\n')
 							break
 				orcToRead.seek(0)
-
-	else:
-		extAshLog.write("wrong file name")
-
 	ashmpToRead.close
 	orcToRead.close
 	output.close
-	extAshLog.close
 if __name__ == '__main__':
 	main()
