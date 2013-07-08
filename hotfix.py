@@ -64,7 +64,7 @@ def main():
 									##the first matching version)
 									output.write(ashFileName + ',' + ashFileLoc + ',' + orcFileVers)
 								if ashFileVers == '0.0.0.0' and orcFileVers == '':
-									output.write(ashFileName + ',' + ashFileLoc + '\n')
+									output.write(ashFileName + ',' + ashFileLoc + ',' + '\n')
 								break
 					orcToRead.seek(0)
 
